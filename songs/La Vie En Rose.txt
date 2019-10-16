@@ -1,0 +1,22 @@
+{t:La Vie en Rose}
+{artist:Louis Armstrong}
+{key:C}
+{level:Medium}
+
+Intro: [C] [Cmaj7] [Dm] [Dm7//] [G7//] 
+
+[C] Hold me close and hold me [Cmaj7] fast 
+The magic spell you [Dm] cast
+This is La Vie En [Dm7] Rose  [G7]  
+[Dm7] When you kiss me heaven [G7] sighs
+And though I close my [Dm] eyes
+I see La Vie En [Dm7] Rose [G7]  
+{c: }
+[C] When you press me to your [Cmaj7] heart
+I'm in a world a-[Dm]part
+A world where roses [Dm7] bloom
+{c: }
+[Dm7] And when you speak, angels [Em] sing from above
+[Dm7] Everyday words seem to [G7] turn into love songs,
+[C] Give your heart and soul to [Cmaj7] me   
+And life will always [Dm7] be - La [G7] Vie En [C] Rose.

@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<title>Ukulele Krakow Jam</title>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+.highlight {background-color: lemonchiffon; font-weight: bold;}
+.chord { font-weight: bold; color:red}
+</style>
+
+</head>
+<body>
+
+    <div class="container mt-2 mb-5">
+
+        <div id="top">
+            <form id="form">
+            Go to Song # <input id="number" type="number" style="width: 60px" /> 
+            <input id="submit" type="submit" value="Go" />
+            </form>
+        </div>
+            
+        <div id="list" class="mt-3">
+            <ul id="songs">
+                {{ for song in songs }}
+                    <li>
+                        <a href="{{ song.number }}.html" name="{{ song.number }}">
+                            {{ song.number }} - {{ song.title }}
+                        </a>
+                        <small>
+                            <em>by {{ song.artist }}</em>
+                        </small>
+                        <span class="{{ song.level_class }}">
+                            <small>{{ song.level }}</small>
+                        </span>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+       
+    </div>
+
+<script type="text/javascript">
+
+function clearHighlight() {
+    var links = document.querySelectorAll("#songs a.highlight");
+
+    if (links.length > 0)
+        links[0].classList.remove("highlight");
+}
+
+function highlight(id) {
+    var links = document.querySelectorAll("a[name='"+id+"']");
+
+    if (links.length > 0)
+        links[0].classList.add('highlight')
+}
+
+function jump(id) {
+    var url = location.href;              
+    location.href = "#"+id;                
+    history.replaceState(null,null,url);
+}
+
+document.getElementById('form').addEventListener("submit", function(e){
+    
+    e.preventDefault();
+
+    var id = document.getElementById("number").value;
+    
+    jump(id);
+    clearHighlight();
+    highlight(id);
+
+}, false);
+
+</script>
+</body>
+</html>

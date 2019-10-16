@@ -1,0 +1,65 @@
+
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>Ukulele Krakow Jam</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <style>
+        .highlight {background-color: lemonchiffon; font-weight: bold;}
+        .chord { font-weight: bold; color:red}
+    </style>
+
+</head>
+<body>
+
+<div class="container mt-2 mb-5">
+
+    <p>
+        <a href="index.html"><- Back to the List</a>
+    </p>
+
+    <h3 class="song-title">
+        #{{ song.number }} {{ song.title }}
+    </h3>
+    
+    <h5 class="song-artist">
+        {{ song.artist }}
+    </h5>
+
+    <span class="{{ song.level_class }}">
+        <small>Level: {{ song.level }}</small>
+    </span>
+
+    <div class="mt-4">
+        {{ for chord in song.chords }}
+        <img src="/chords/{{chord}}.gif" />
+        {{ end }}
+    </div>
+    
+    {{ song.tab }}
+    
+    <div class="mt-3">
+        {{ if song.spotify }}
+            <iframe src="https://open.spotify.com/embed/track/{{ song.spotify }}" 
+                    width="300" 
+                    height="80" 
+                    frameborder="0" 
+                    allowtransparency="true" 
+                    allow="encrypted-media"></iframe>
+        {{ end }}
+    </div>
+
+    <div class="mb-5 mt-5">
+        <a href="index.html"><- Back to the List</a>
+    </div>
+
+</div>
+
+</body>
+</html>

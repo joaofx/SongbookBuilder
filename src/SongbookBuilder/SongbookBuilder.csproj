@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="IronPdf" Version="2019.6.5.41" />
+      <PackageReference Include="Scriban" Version="2.1.0" />
+    </ItemGroup>
+
+</Project>

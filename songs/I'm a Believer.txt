@@ -1,0 +1,47 @@
+{t: I'm a Believer }  
+{key: G}  
+{artist:The Monkees}  
+{level:Medium}  
+{c: } 
+Intro: 
+{sos}
+I'm in [G] love,  [C] oooh       
+I'm a be [G] liever! I couldn't [F] leave her if I [D] tried.
+{eos} 
+[G] I thought love was [D] only true in [G] fairy tales   
+[G] Meant for someone [D] else but not for [G] me. [G7]   
+[C] Love was out to [G] get me   
+[C] That's the way it [G] seemed.   
+[C] Disappointment [G] haunted all my [D] dreams. 
+{c: } 
+   
+[NC] Then I saw her [G] face, [C] [G]   now I'm a [G] believer! [C] [G]    
+Not a [G] trace [C] [G]     of doubt in my [G] mind. [C] [G]              
+I'm in [G] love,  [C] oooh          
+I'm a be [G] liever! I couldn't [F] leave her if I [D] tried.   
+{c: } 
+[G] I thought love was [D] more or less a [G] given thing,   
+[G] Seems the more I [D] gave the less I [G] got [G7]   
+[C] What's the use in [G] trying?   
+[C] All you get is [G] pain.   
+[C] When I needed [G] sunshine I got [D] rain.   
+{c: } 
+[NC] Then I saw her [G] face, [C] [G]   now I'm a [G] believer! [C] [G]    
+Not a [G] trace [C] [G]     of doubt in my [G] mind. [C] [G]              
+I'm in [G] love,  [C] oooh          
+I'm a be [G] liever! I couldn't [F] leave her if I [D] tried.   
+{c: } 
+(first two lines instrumental):           
+[G] I thought love was [D] more or less a [G] given thing,   
+[G] Seems the more I [D] gave the less I [G] got [G7]   
+[C] Love was out to [G] get me, [C] That's the way it [G] seemed.   
+[C] Disappointment [G] haunted all my [D] dreams.   
+{c: } 
+[NC] Then I saw her [G] face, [C] [G]   now I'm a [G] believer! [C] [G]    
+Not a [G] trace [C] [G]     of doubt in my [G] mind. [C] [G]              
+I'm in [G] love,  [C] oooh          
+I'm a be [G] liever! I couldn't [F] leave her if I [D] tried.   
+{c: } 
+Then I saw her [G] face, [C] [G]   now I'm a [G] believer! [C] [G]    
+Not a [G] trace [C] [G]   of doubt in my [G] mind. [C] [G]   
+I'm a [G] believer! [C] [G]         [G] [C] [G] [G]
