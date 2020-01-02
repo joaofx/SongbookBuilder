@@ -38,7 +38,12 @@ namespace SongbookBuilder
         private static List<Song> BuildSongs()
         {
             var songs = new List<Song>();
-            var songFiles = Directory.GetFiles(SongsPath);
+            var songFiles = Directory
+                .GetFiles(SongsPath)
+                .Where(f => !Path.GetFileName(f).StartsWith("_"))
+                .ToList();
+
+            // songFiles.ForEach(s => Console.WriteLine(s));
             
             var number = 1;
             
@@ -152,14 +157,20 @@ namespace SongbookBuilder
         private static void SaveSong(Song song)
         {
             var result = SongTemplate.Render(new { song = song });
-            File.WriteAllText(Path.Combine(OutputPath, $"{song.Number}.html"), result);
+            File.WriteAllText(Path.Combine(OutputPath, $"{song.UrlTitle}.html"), result);
         }
 
         private static void FindChordsInTheLineAndAddToTheSong(string line, Song song)
         {
             var chords = FindChordsRegex.Matches(line)
-                .Select(m => m.Value.Replace("/", string.Empty).Trim())
-                .Where(m => !m.Equals("NC"))
+                .Select(m => m.Value
+                    .IfEndsWithReplace("/", string.Empty)
+                    .IfEndsWithReplace("//", string.Empty)
+                    .IfEndsWithReplace("///", string.Empty)
+                    .Replace("/", "-")
+                    .Replace("#", "sharp")
+                    .Trim())
+                .Where(m => !m.Equals("NC") && !m.Contains(" "))
                 .ToList();
 
             foreach (var chord in chords)
@@ -177,6 +188,17 @@ namespace SongbookBuilder
             {
                 File.Delete(file);
             }
+        }
+    }
+
+    public static class StringExtensions
+    {
+        public static string IfEndsWithReplace(this string current, string toReplace, string replacement)
+        {
+            if (current.EndsWith(toReplace))
+                return current.Replace(toReplace, replacement);
+
+            return current;
         }
     }
 }

@@ -35,6 +35,19 @@
     <span class="{{ song.level_class }}">
         <small>Level: {{ song.level }}</small>
     </span>
+    
+    {{ if song.spotify }}
+    <div class="mt-3">
+        
+        <iframe src="https://open.spotify.com/embed/track/{{ song.spotify }}" 
+                width="300" 
+                height="80" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media"></iframe>
+       
+    </div>
+    {{ end }}
 
     <div class="mt-4">
         {{ for chord in song.chords }}
@@ -44,17 +57,6 @@
     
     {{ song.tab }}
     
-    <div class="mt-3">
-        {{ if song.spotify }}
-            <iframe src="https://open.spotify.com/embed/track/{{ song.spotify }}" 
-                    width="300" 
-                    height="80" 
-                    frameborder="0" 
-                    allowtransparency="true" 
-                    allow="encrypted-media"></iframe>
-        {{ end }}
-    </div>
-
     <div class="mb-5 mt-5">
         <a href="index.html"><- Back to the List</a>
     </div>

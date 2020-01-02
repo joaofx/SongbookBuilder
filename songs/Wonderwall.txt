@@ -1,7 +1,6 @@
 {t: Wonderwall }  
-{key: C}  
 {artist:Oasis}  
-{level:Easy}  
+{level:Medium}  
 {c: }
 Intro: [Em] [G] [D] [C] x2   
 

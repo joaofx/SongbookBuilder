@@ -3,7 +3,7 @@
 {level:Easy}
 
 Intro:
-[C] x 8 beats
+[C]
 
 [C]How many [F]roads must a [C]man walk [Am]down
 Be[C]fore you [F]call him a [G]man?

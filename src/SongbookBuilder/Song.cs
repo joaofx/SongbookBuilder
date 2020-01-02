@@ -6,6 +6,8 @@ namespace SongbookBuilder
     public class Song
     {
         public string Title { get; set; }
+
+        public string UrlTitle => Title.Replace(" ", "-");
         
         public string Level { get; set; }
         

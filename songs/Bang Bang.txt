@@ -2,6 +2,8 @@
 {artist:Nancy Sinastra}  
 {level:Easy}  
 
+Intro: [Am] [Dm] [G] [E7]
+
 [Am] I was five and he was six
 [Dm] We rode on horses made of sticks
 [G] He wore black and I wore white
@@ -10,9 +12,11 @@
 (chorus)
 Bang [Am] bang     
 He shot me down bang [Dm] bang    
-I hit the ground [G] bang bang
-That awful sound [E7] bang bang
+I hit the ground bang [G] bang
+That awful sound bang [E7] bang
 My baby shot me [Am] down
+
+[Am] [Dm] [G] [E7]
 
 [Am] Seasons came and changed the time
 [Dm] When I grew up I called him mine
@@ -20,13 +24,15 @@ My baby shot me [Am] down
 [E7] Remember when we used to play
 
 Bang [Am] bang     
-He shot me down bang [Dm] bang    
-I hit the ground [G] bang bang
-That awful sound [E7] bang bang
-My baby shot me [Am] down
+I shot you down bang [Dm] bang    
+You hit the ground bang [G] bang
+That awful sound bang [E7] bang
+I used to shoot you [Am] down
 
+(bridge)
 [Am] Music played and people sang
-[G] Just for me the church bells rang
+[G] Just for me the church bells rang 
+[Dm] [E7]
 
 [Am] Now he's gone I don't know why
 [Dm] And till this day some times I cry
@@ -38,3 +44,7 @@ He shot me down bang [Dm] bang
 I hit the ground [G] bang bang
 That awful sound [E7] bang bang
 My baby shot me [Am] down
+
+[Am] [Dm] [G] [E7]
+
+[Am/]

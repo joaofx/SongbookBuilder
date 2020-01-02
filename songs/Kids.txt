@@ -3,40 +3,42 @@
 {artist:MGMT}  
 {level:Medium}
 
-[intro] [F#m] [D] [A] [E]
+Intro: [F#m] [D] [A] [E7]
 
 [F#m] You were a [D]child
-Crawling on your [A]knees toward him [E]
+Crawling on your [A]knees toward him [E7]
 [F#m] Making momma so [D]proud
-[A] But your voice is too [E]loud
+[A] But your voice is too [E7]loud
 
 [F#m] [D] We like to watch
-[A]You laughing [E]
+[A]You laughing [E7]
 [F#m] Picking insects off of [D]plants
-[A] No time to think of consequences
+[A] No time to think of conse[E7]quences
 
 [F#m] Control yourself [D]
-Take only what you [A]need from it [E]
-[F#m] A family of [D]trees wanting… to [A]be haunted [E]
+Take only what you [A]need from it [E7]
+[F#m] A family of [D]trees wanting… to [A]be haunted [E7]
 
 [F#m] Control yourself [D]
-Take only what you [A]need from it [E]
-[F#m] A family of [D]trees wanting… to [A]be haunted
+Take only what you [A]need from it [E7]
+[F#m] A family of [D]trees wanting… to [A]be haunted [E7]
 
 [F#m] The water is [D]warm
-But it's sending [A]me shivers [E]
+But it's sending [A]me shivers [E7]
 [F#m] A baby is [D]born
-[A] Crying out for atten[E]tion
+[A] Crying out for atten[E7]tion
 
 [F#m] Memories [D]fade
-Like looking through a [A]fogged mirror [E]
+Like looking through a [A]fogged mirror [E7]
 [F#m]Decisions too decisions are [D]made and not bought but I
-[A]thought… this wouldn't hurt a [E]lot, I guess not
+[A]thought… this wouldn't hurt a [E7]lot, I guess not
 
 [F#m] Control yourself [D]
-Take only what you [A]need from it [E]
-[F#m] A family of [D]trees wanting… to [A]be haunted [E]
+Take only what you [A]need from it [E7]
+[F#m] A family of [D]trees wanting… to [A]be haunted [E7]
 
 [F#m] Control yourself [D]
-Take only what you [A]need from it [E]
-[F#m] A family of [D]trees wanting… to [A]be haunted [E]
+Take only what you [A]need from it [E7]
+[F#m] A family of [D]trees wanting… to [A]be haunted [E7]
+
+[F#m/]

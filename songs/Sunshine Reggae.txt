@@ -1,0 +1,37 @@
+{t: Sunshine Reggae }  
+{key: C}  
+{artist:Laid Back}  
+{level:Easy}  
+{c: } 
+Intro: [C] [Em] [Am] [Dm] x4  
+{c: } 
+[C] Gimme gimme, [Em] gimme just a little smile    
+[Am] that's all I ask of [Dm] you    
+[C] Gimme gimme, [Em] gimme just a little smile    
+[Am] we got a message for [Dm] you
+{c: } 
+[C] Sunshine, sunshine [Em] reggae   
+[Am] don't worry, don't hurry, [Dm] take it easy!
+[C] Sunshine, sunshine [Em] reggae   
+[Am] let the good vibes [Dm] get a lot stronger!
+{c: } 
+[C] Gimme gimme, [Em] gimme just a little smile    
+[Am] that's all I ask of [Dm] you (is that too much?)   
+[C] Gimme gimme, [Em] gimme just a little smile    
+[Am] we got a message for [Dm] you  
+{c: } 
+[C] Sunshine, sunshine [Em] reggae   
+[Am] don't worry, don't hurry, [Dm] take it easy!
+[C] Sunshine, sunshine [Em] reggae   
+[Am] let the good vibes [Dm] get a lot stronger!   
+{c: } 
+[C] Sunshine, sunshine [Em] reggae   
+[Am] don't worry, don't hurry, [Dm] take it easy!
+[C] Sunshine, sunshine [Em] reggae   
+[Am] let the good vibes [Dm] get a lot stronger!   
+{c: }
+[C] let the good vibes [Em] get a lot stronger,
+[Am] let the good vibes [Dm] get a lot stronger!
+[C] let the good vibes [Em] get a lot stronger,
+[Am] let the good vibes [Dm] get a lot stronger! 
+{c: } 
