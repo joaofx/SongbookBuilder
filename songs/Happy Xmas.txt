@@ -1,6 +1,6 @@
 {t: Happy Xmas }  
 {artist:John Lennon}  
-{level:Easy}
+{level:Medium}
 {spotify:3zJw3rugfpVrmBeDDnUYzy}
 
 So this is [A] Christmas
