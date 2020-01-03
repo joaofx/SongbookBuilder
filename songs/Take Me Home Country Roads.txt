@@ -1,7 +1,7 @@
 {t: Take Me Home, Country Roads }  
 {key: C}  
 {artist:John Denver}  
-{level:Easy}  
+{level:Medium}  
 {spotify:2xYlyywNgefLCRDG8hlxZq}  
 
 Intro [A] 8 beats

@@ -1,8 +1,10 @@
 {t:The Scientist} 
 {artist:Coldplay}
 {key:F}
-{level:Medium}
+{level:Easy}
 {spotify:75JFxkI2RXiU7L9VXzMkle}
+
+Ps: Beginners can ignore [Fsus2] and do [F] instead
 
 Intro:
 [Dm] [Bb] [F] [F] [F]
@@ -42,7 +44,5 @@ Oh and I [Fsus2] rush to the start.
 [F] [Bb] [F] [F] [Fsus2]  
 [Dm] [Bb] [F] [Fsus2]
 
-[Dm] Ohh [Bb] uuuuhhhhh [F] [Fsus2]
-[Dm] Ohh [Bb] uuuuhhhhh [F] [Fsus2]
 [Dm] Ohh [Bb] uuuuhhhhh [F] [Fsus2]
 [Dm] Ohh [Bb] uuuuhhhhh [F/] 

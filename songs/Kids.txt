@@ -1,7 +1,7 @@
 {t: Kids }  
 {key: G}  
 {artist:MGMT}  
-{level:Medium}
+{level:Easy}
 
 Intro: [F#m] [D] [A] [E7]
 

@@ -1,7 +1,7 @@
-{t: Hit the Road Jack }  
+{t: Hit The Road Jack }  
 {key: Am}  
 {artist:Ray Charles}  
-{level:Medium}  
+{level:Hard}  
 
 [Am] [G] [F] [E7]  *4  
 {c: } 

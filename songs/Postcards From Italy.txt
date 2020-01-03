@@ -1,6 +1,6 @@
 {t:Postcards From Italy}  
 {artist:Beirut}  
-{level:Medium}  
+{level:Easy}  
 {spotify:4qBHDoJFUUSvTa4aZJfEuw} 
 
 Intro: [F] [A] [F] [A]

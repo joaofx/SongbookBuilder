@@ -2,7 +2,7 @@
 {artist:Creedence}  
 {level:Medium} 
 
-Intro: [C] 8 beats
+Intro: [C]
 
 [C] Someone told me long ago
 There's a calm before the storm

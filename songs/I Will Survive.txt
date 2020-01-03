@@ -3,9 +3,11 @@
 {artist:Gloria Gaynor}  
 {level:Medium}  
 
-[Am] First I was afraid I was [Dm] petrified    
-Kept thinking [G] I could never live without you [C] by my side    
-But then I [F] spent so many nights thinking [Dm] how you did me wrong    
+Ps: If you feel [E] is hard, doing [E7] instead is fine
+
+[Am/] First I was afraid I was [Dm/] petrified    
+Kept thinking [G/] I could never live without you [C/] by my side    
+But then I [F/] spent so many nights thinking [Dm/] how you did me wrong    
 And I grew [E] strong and I learned [E7] how to get along  
 {c: } 
 And so you’re back [Am] back from outer [Dm] space    

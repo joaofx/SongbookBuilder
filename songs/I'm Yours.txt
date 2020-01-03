@@ -1,7 +1,7 @@
 {t: I'm Yours }  
 {key: C}  
 {artist:Jason Mraz}  
-{level:Medium}
+{level:Easy}
 
 Intro: [C] [G] [Am] [F]
 

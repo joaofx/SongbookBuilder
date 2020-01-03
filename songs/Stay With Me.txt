@@ -1,6 +1,7 @@
 {t: Stay With Me }  
 {key: C}  
 {artist:Sam Smith}  
+{level:Easy}  
 {spotify:5Nm9ERjJZ5oyfXZTECKmRt}
 
 Intro: 
