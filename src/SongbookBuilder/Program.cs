@@ -108,6 +108,19 @@ namespace SongbookBuilder
 
                     song.Spotify = spotify;
                 }
+                else if (line.StartsWith("{youtube:"))
+                {
+                    var youtube = line
+                        .Replace("{youtube:", string.Empty)
+                        .Replace("}", string.Empty)
+                        .Trim();
+
+                    song.Youtube = youtube;
+                }
+                else if (line.StartsWith("{new:"))
+                {
+                    song.IsNew = true;
+                }
                 else if (line.StartsWith("{artist:"))
                 {
                     var artist = line

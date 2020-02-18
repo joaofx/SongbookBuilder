@@ -2,6 +2,7 @@
 {artist: Coldplay}
 {key: C}
 {level:Easy}
+{spotify:3QhXzfpjEhLfNrF7qUz15M}
 
 [C] Look at the stars,
 Look how they shine for [G] you,
@@ -19,7 +20,7 @@ And it was all yellow.  [C]
 
 [F] Your skin, [Am] oh yeah your [G] skin and bones,
 [F] Turn in-[Am]to something [G] beautiful,
-[F] You seem to know, [Am] you know I [G] love you so, [F] 
+[F] You seem to know, [Am] you know I [G] love you so, [F/] (stop) 
 [F] You know I love you so.
 
 [C] [G] [F] [C] 

@@ -1,67 +1,63 @@
-{t: Hallelujah }  
-{key: C}  
+{t: Hallelujah (G) }  
 {artist:Leonard Cohen}  
 {level:Medium}
 
-Intro: [C] [Am] [C] [Am] 
+Intro: [G] [Em] [G] [Em] 
 
-Well I've [C] heard there was a [Am] secret chord,   
-That [C] David played and it [Am] pleased the Lord,   
-But [F] you don't really [G] care for music, [C] do [G] ya?   
-It [C] goes like this, the [F] 4th, the [G] 5th,    
-the [Am] minor fall and the [F] major lift,   
-The [G] baffled king com- [E7] posing halle- [Am] lujah, 
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
-{c: } 
-[C] [Am] [C] [Am] 
+Well I've [G] heard there was a [Em] secret chord,   
+That [G] David played and it [Em] pleased the Lord,   
+But [C] you don't really [D] care for music, [G] do [D] ya?   
+It [G] goes like this, the [C] 4th, the [D] 5th,    
+the [Em] minor fall and the [C] major lift,   
+The [D] baffled king com[Bm]posing Halle[Em] lujah
 
-Your [C] faith was strong but you [Am] needed proof,    
-You [C] saw her bathing [Am] on the roof,   
-Her [F] beauty and the [G] moonlight over- [C] threw [G] ya,   
-She [C] tied you to her [F] kitchen [G] chair,   
-She [Am] broke your throne and she [F] cut your hair,   
-And [G] from your lips she [E7] drew the halle- [Am]  lujah,  
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
-{c: }  
-[C] [Am] [C] [Am] 
+Halle[C]lujah, halle[Em]lujah,    
+halle[C]lujah, halle[G]lu--- uu[D] uuuh jah  
 
-May [C]be there is a [Am] God above,   
-But [C] all I ever [Am] learned from love,   
-Was [F] how to shoot at [G] someone who out- [C] drew [G] ya.   
-And it's [C] not a cry you can [F] hear at [G] night,   
-It's not [Am] somebody who's [F] seen the light,   
-It's a [G] cold and it's a [E7] broken halle- [Am] lujah,  
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
-{c: }   
-[C] [Am] [C] [Am] 
+[G] [Em] [G] [Em]  
 
-I [C]  did my best, it  [Am]  wasn’t much,   
-I [C]  couldn’t feel so I  [Am]  tried to touch,   
-I’ve [F]  told the truth, I [G]  didn’t come to  [C]  fool [G]  ya.   
-And [C]  even though it [F]  all went [G]  wrong,  
-I’ll [Am]  stand before the  [F]  Lord of Song,   
-With [G]  nothing on my  [E7]  tongue but  halle- [Am]  lujah,   
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
-{c: }    
-[C] [Am] [C] [Am] 
+Your [G] faith was strong but you [Em] needed proof,    
+You [G] saw her bathing [Em] on the roof,   
+Her [C] beauty and the [D] moonlight over- [G] threw [D] ya,   
+She [G] tied you to her [C] kitchen [D] chair,   
+She [Em] broke your throne and she [C] cut your hair,   
+And [D] from your lips she [Bm] drew the halle[Em]lujah,  
 
-There [C]  was a time when you [Am]  let me know,   
-What's [C]  really going [Am]  on below,   
-But [F] now you [G] never show it to me [C] do [G]  ya.    
-Well re-[C]member when I  moved [F] in with [G]  you,   
-And the [Am]  holy dove was [F] moving too,   
-And [G]  every breath we [E7]  drew was halle- [Am]  lujah  
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
-{c: } 
-Halle- [F] lujah, halle- [Am] lujah,    
-halle- [F] lujah, halle [C] lu--- ---[G] jah [C]  
+Halle[C]lujah, halle[Em]lujah,    
+halle[C]lujah, halle[G]lu--- uu[D] uuuh jah  
+
+[G] [Em] [G] [Em]  
+
+May [G]be there is a [Em] God above,   
+But [G] all I ever [Em] learned from love,   
+Was [C] how to shoot at [D] someone who out- [G] drew [D] ya.   
+And it's [G] not a cry you can [C] hear at [D] night,   
+It's not [Em] somebody who's [C] seen the light,   
+It's a [D] cold and it's a [Bm] broken halle- [Em] lujah,  
+
+Halle[C]lujah, halle[Em]lujah,    
+halle[C]lujah, halle[G]lu--- uu[D] uuuh jah  
+
+[G] [Em] [G] [Em]  
+
+I [G]  did my best, it  [Em]  wasn’t much,   
+I [G]  couldn’t feel so I  [Em]  tried to touch,   
+I’ve [C]  told the truth, I [D]  didn’t come to  [G]  fool [D]  ya.   
+And [G]  even though it [C]  all went [D]  wrong,  
+I’ll [Em]  stand before the  [C]  Lord of Song,   
+With [D]  nothing on my  [Bm]  tongue but  halle- [Em]  lujah,   
+
+Halle[C]lujah, halle[Em]lujah,    
+halle[C]lujah, halle[G]lu--- uu[D] uuuh jah  
+
+[G] [Em] [G] [Em]  
+
+There [G]  was a time when you [Em]  let me know,   
+What's [G]  really going [Em]  on below,   
+But [C] now you [D] never show it to me [G] do [D]  ya.    
+Well re-[G]member when I  moved [C] in with [D]  you,   
+And the [Em]  holy dove was [C] moving too,   
+And [D]  every breath we [Bm]  drew was halle- [Em]  lujah  
+
+Halle[C]lujah, halle[Em]lujah,    
+halle[C]lujah, halle[G]lu--- uu[D] uuuh jah [G/]

@@ -2,6 +2,11 @@
 {artist:Elvis Presley}  
 {level:Easy}  
 {c: } 
+
+Ps: If makes it easier, play [G] instead of [G7] 
+
+Intro: [C]
+
 A-[C]mazing grace how [F] sweet the [C] sound 
 that saved a wretch like [G7] me.    
 I [C] once was lost, but [F] now am [C] found,  
@@ -12,8 +17,8 @@ and grace my fears re-[G7]lieved.
 How [C] precious did that [F] grace [C] appear,  
 the hour I [G7] first be-[C]lieved.    
 {c: } 
-When [C] we’ve been there ten [F] thousand
-[C] years bright shining as the [G7] sun   
+When [C] we’ve been there ten [F] thousand [C] years 
+Bright shining as the [G7] sun   
 We’ve [C] no less days to [F] sing God’s [C] praise,    
 Than when  we  [G7] first be-[C]gun.   
 {c: } 

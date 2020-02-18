@@ -1,6 +1,6 @@
 {t: Cecilia [C] }  
 {artist:Simon & Garfunkel}  
-{level:Easy}  
+{level:Medium}  
 {spotify:6QhXQOpyYvbpdbyjgAqKdY}  
 {c: } 
 [C] Cecilia, you're [F] breaking my [C] heart   
@@ -30,7 +30,7 @@ Come on [C] home
 You're [F] shaking my [C] confidence [G] daily   
 Oh, [F] Cecil- [C] ia, I'm [F] down on my [C] knees   
 I'm [F] begging you [C] please to come [G] home    
-{eos} 
+
 Jubi- [F] la- [C] tion, she [F] loves me [C] again,   
 I [F] fall on the [C] floor and I’m [G] laughing,   
 Jubi-[F]la-[C]tion, she [F] loves me [C] again,   

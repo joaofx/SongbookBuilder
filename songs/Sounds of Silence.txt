@@ -1,6 +1,6 @@
 {t: Sounds of Silence }  
 {artist:Paul Simon}  
-{level:Easy}  
+{level:Medium}  
 
 Intro: [Em /////5]
 

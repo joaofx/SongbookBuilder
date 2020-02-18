@@ -1,6 +1,7 @@
 {t: Ring of Fire }  
 {artist:Johnny Cash}  
 {level:Easy}          
+{spotify:6YffUZJ2R06kyxyK6onezL}
 
 Ps: [C] in the verses are very short. If gets hard, stays in [G]
 
@@ -19,7 +20,10 @@ And the [C] flames went [G] higher
 {c: } 
 And it [G] burns, burns, burns        
 The [C] ring of [G] fire, the [C]  ring of [G] fire
-{c: } 
+
+[G] pa pa ra pa ra [C/] pa ra [G] paaaa
+[G] pa pa ra pa ra [C/] pa ra [G] paaaa
+
 [G] The taste of [C] love is [G] sweet   
 When hearts like [C] ours [G] meet   
 I [G] fell for you [C] like a [G] child     
@@ -32,18 +36,9 @@ And the [C] flames went [G] higher
 And it [G] burns, burns, burns                          
 The [C] ring of [G] fire, the [C] ring of [G] fire   
 {c: } 
-[G] pa pa ra pa ra [C/] pa ra [G] paaaa
-[G] pa pa ra pa ra [C/] pa ra [G] paaaa
-{c: } 
-[G] The taste of [C] love is [G] sweet   
-When [G] hearts like [C] ours [G] meet   
-I [G] fell for you [C] like a [G] child        
-[G] Oh but the [C] fire went [G] wild   
-{c: } 
 [D] I fell in to a [C] burning ring of [G] fire   
 I went [D] down, down, down   
 And the [C] flames went [G] higher   
-And it [G] burns, burns, burns                            
-The [C] ring of [G] fire, the [C] ring of [G] fire   
-And it [G] burns, burns, burns                           
-The [C] ring of [G] fire, the [C] ring of [G] fire
+{c: } 
+And it [G] burns, burns, burns                          
+The [C] ring of [G] fire, the [C] ring of [G/] fire   

@@ -1,9 +1,14 @@
 {t: Kids }  
 {key: G}  
 {artist:MGMT}  
-{level:Easy}
+{level:Medium}
 
-Intro: [F#m] [D] [A] [E7]
+Ps: The song is the same chords and progression all the time
+
+Intro: 
+[F#m] [D] [A] [E7]
+[F#m] [D] [A] [E7]
+[F#m] [D] [A] [E7]
 
 [F#m] You were a [D]child
 Crawling on your [A]knees toward him [E7]

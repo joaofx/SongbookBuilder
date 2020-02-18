@@ -1,36 +1,42 @@
 {t: Lion Sleeps Tonight, The }  
 {artist:The Tokens}  
 {level:Easy}  
+
+Intro: [G] [C] [G] [D]
 {c: } 
-Intro: [G] [C] [G] [D]   
-{c: } 
+a [G] weem away, aweem away,  a [C] weem away, aweem away   
+a [G] weem away,  aweem away, a [D] weem away, aweem away   
+a [G] weem away, aweem away,  a [C] weem away, aweem away  
+a [G] weem away,  aweem away, a [D] weem away, aweem away 
+
 [G] In the jungle, the [C] mighty jungle,       
 The [G] lion sleeps  to-[D]night.   
-[G] In the village, the [C] peaceful village,   
-The [G] people sleep to-[D]night.  
-{c: } 
+[G] In the jungle, the [C] quiet jungle,   
+The [G] lion sleeps to-[D]night.  
 
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away   
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away   
-{c: } 
-[G] Near the village the [C] peaceful village   
+
+[G] Near the village, the [C] peaceful village   
 The [G] lion sleeps to-[D]night.   
-[G] Near the village the [C] quiet village   
-The [G] lion sleeps 
-{c: } 
+[G] Near the village, the [C] quiet village
+The [G] lion sleeps to-[D]night.   
+
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away   
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away  
 
-[G] Hush my darling don't [C] fear my darling   
+[G] Hush my darling, don't [C] fear my darling   
 The [G] lion sleeps to-[D]night.   
-[G] Hush my darling don't [C] fear my darling   
+[G] Hush my darling, don't [C] fear my darling   
 The [G] lion sleeps to-[D]night.
-{c: } 
+
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away   
 a [G] weem away, aweem away,  a [C] weem away, aweem away,     
 a [G] weem away,  aweem away, a [D] weem away, aweem away     
+
+[G/]

@@ -1,6 +1,6 @@
-{t: Lucy in the Sky with Diamonds }  
+{t: Lucy in the Sky With Diamonds }  
 {artist:The Beatles}  
-{level:Medium}
+{level:Hard}
 {spotify:25yQPHgC35WNnnOUqFhgVR}
 
 (Ps: Song's time is 3/4, like waltz. 

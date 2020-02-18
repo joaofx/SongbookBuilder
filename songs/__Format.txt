@@ -1,0 +1,22 @@
+{t: Title Of The Song }  
+{artist: Artist}  
+{level: Easy/Medium/Hard }
+{spotify: spotift_id }
+TODO {youtube: youtube_id } 
+TODO {tags: new (new song in the list), favorite (group favorites)} 
+
+[G] A chord played for normal beat
+TODO [G/] Single strum
+TODO [[G]] Optional chord
+
+TODO Sections: 
+TODO #Verse
+TODO #Verse 2
+TODO #Chorus
+TODO #Solo
+
+TODO (Instruction that is not part of lyric)
+
+TODO "Backing vocal or second voice line"
+
+TODO (stop ... 1.. 2.. 3) stop with counting

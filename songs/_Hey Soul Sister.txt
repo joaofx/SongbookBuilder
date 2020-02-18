@@ -1,6 +1,7 @@
 {t: Hey Soul Sister }  
 {artist:Train}  
-{level:Easy}  
+{level:Medium}  
+{spotify:4HlFJV71xXKIGcU3kRyttv}
                   
 [C] [C] Hey [G] ay Hey ay ay [Am] ay Hey ay ay [F] ay   
 Your [C] lipstick stains [G] on the front lobe of my [Am] left side brains [F]   

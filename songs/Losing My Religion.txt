@@ -3,11 +3,15 @@
 {artist:R.E.M.}  
 {level:Medium}  
 {spotify:31AOj9sFz2gM0O3hMARRBx}
+{todo: add bridge chords back}
 
-Intro: [F] [F] [F] [F] [Am] [Am] [Am] [Am] x2
-{c: } 
-[G] Oh 
-[Am] life is bigger [Em] it’s bigger than you   
+Intro: 
+[F] [Am] 
+[F] [Am//] 
+
+[G//] Oh 
+[Am] life, .. is bigger 
+[Em] it’s bigger than you   
 And you are [Am] not me 
 The lengths that I will [Em] go to   
 The distance in your [Am] eyes [Am]    
@@ -17,29 +21,55 @@ I’ve said e[G]nough
 That’s me in the [Am] corner 
 That’s me in the [Em] spot light   
 Losing my re[Am]ligion 
-Trying to [Em] keep up with you   
+Trying to [Em] keep .. up with you   
 And I [Am] don’t know if I can do it   
 [Em] Oh no I’ve said too [Dm] much 
 I haven’t said e[G]nough   
 {c: } 
 I thought that I heard you [F] laughing   
-I thought that I [G] heard you [Am] sing
-I [F] think I thought I [Dm] saw you [Am] try [G]   
-{c: } 
+I thought that I heard you [Am] sing
+I [F] think I thought I saw you [Am//] try ... 
+[G//]   
+ 
 Every [Am] whisper    
 Every waking [Em] hour I’m choosing my con[Am]fessions   
 Trying to [Em] keep eye on you   
 Like a [Am] hurt lost and blinded fool, fool   
 [Em] Oh no I’ve said too [Dm] much I said e[G]nough   
 {c: } 
-Consider[Am]  this consider this [Em] hint of the century   
-Consider [Am] this the slip that [Em] brought me to my knees pale   
+Consider [Am] this .. consider this [Em] hint of the century   
+Consider [Am] this .. the slip .. that [Em] brought me to my knees pale   
 [Am] What if all these fantasies come [Em] flaming around   
-Now I’ve [Dm] said... too [G] much   
+Now I’ve [Dm] said .... too [G] much   
 {c: } 
 I thought that I heard you [F] laughing   
-I thought that I [G] heard you [Am] sing  
-I [F] think I thought I [Dm] saw you [Am] try [G]
-[F] That was just a dream, just a [Am] dream, just a [G] dream
+I thought that I heard you [Am] sing  
+I [F] think I thought I saw you [Am] try ... [G//]
 
+(solo, single strums)
+[Am/] [G/] 
+[F/] [G/] 
+But [C/]  that was just a [Dm/] dream
+That [C/] was just a [Dm/] dream
+
+That’s me in the [Am] corner 
+That’s me in the [Em] spot light   
+Losing my re[Am]ligion 
+Trying to [Em] keep up with you   
+And I [Am] don’t know if I can do it   
+[Em] Oh no I’ve said too [Dm] much 
+I haven’t said e[G]nough   
+{c: } 
+I thought that I heard you [F] laughing   
+I thought that I heard you [Am] sing
+I [F] think I thought I saw you [Am] try 
+
+But [F] that was just a dream ... 
+[Am] try, cry, why, try
+[F] That was just a dream, just a [Am//] dream, just a [G//] dream, dream
+
+(riff ending, single strums)
+[Am/]
+[Am/]
+[Am/]
 [Am/]

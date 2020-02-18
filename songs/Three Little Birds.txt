@@ -1,7 +1,8 @@
 {t: Three Little Birds }  
 {key: C}  
 {artist:Bob Marley and the Wailers}  
-{level:Easy}  
+{level:Easy}
+{youtube:https://www.youtube.com/watch?v=7Qie5asc8wg}  
 
 Intro: [C]
 

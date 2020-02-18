@@ -48,6 +48,16 @@
        
     </div>
     {{ end }}
+    {{ if song.youtube }}
+    <div class="mt-3">
+        
+        <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+            width="267" height="150" type="text/html" 
+            src="https://www.youtube.com/embed/{{ song.youtube }}?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&vq=small">
+        </iframe>
+
+    </div>
+    {{ end }}
 
     <div class="mt-4">
         {{ for chord in song.chords }}
@@ -62,6 +72,16 @@
     </div>
 
 </div>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-56632357-3', 'auto');
+    ga('send', 'pageview');
+</script>
 
 </body>
 </html>

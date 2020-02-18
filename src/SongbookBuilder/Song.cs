@@ -16,6 +16,10 @@ namespace SongbookBuilder
         public int Number { get; set; }
         
         public string Spotify { get; set; }
+
+        public string Youtube { get; set; }
+        
+        public bool IsNew { get; set; }
         
         public StringBuilder Tab { get; set; }
 
