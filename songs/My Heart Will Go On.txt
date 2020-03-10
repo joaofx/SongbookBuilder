@@ -1,7 +1,7 @@
 {t: My Heart Will Go On (Titanic) }  
 {key: G}  
 {artist:Celine Dion}  
-{level:Medium}  
+{level:Easy}  
 {c: } 
 Intro:  [G] [D] [C] [D]   
 

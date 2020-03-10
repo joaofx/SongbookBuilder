@@ -1,21 +1,28 @@
-{t: Cecilia [C] }  
+{t: Cecilia }  
 {artist:Simon & Garfunkel}  
 {level:Medium}  
 {spotify:6QhXQOpyYvbpdbyjgAqKdY}  
 {c: } 
+
+Intro: (palm mute) [C]
+
+(palm mute)
 [C] Cecilia, you're [F] breaking my [C] heart   
-You're [F] shaking my [C] confidence [G] daily   
+You're [F] shaking my [C] confidence [G] daily
+(play soft)   
 Oh, [F] Cecil- [C] ia, I'm [F] down on my [C] knees   
 I'm [F] begging you [C] please to come [G] home    
 {c: } 
+(play loud)
 [C] Cecilia, you're [F] breaking my [C] heart   
 You're [F] shaking my [C] confidence [G] daily   
 Oh, [F] Cecil- [C] ia, I'm [F] down on my [C] knees   
 I'm [F] begging you [C] please to come [G] home   
 Come on [C] home   
 {c: } 
+.. [C] ..
 Making [C] love in the [F] afternoon with [C] Cecilia   
-Up in [G7] my bed- [C] room  
+Up in [G7] my bed- [C] room ...
 I got up to [F] wash my face   
 When I [C] come back to bed   
 Someone's [G7] taken my [C] place   
@@ -24,17 +31,13 @@ Someone's [G7] taken my [C] place
 You're [F] shaking my [C] confidence [G] daily   
 Oh, [F] Cecil- [C] ia, I'm [F] down on my [C] knees   
 I'm [F] begging you [C] please to come [G] home   
-Come on [C] home   
-{c: } 
-[C] Cecilia, you're [F] breaking my [C] heart   
-You're [F] shaking my [C] confidence [G] daily   
-Oh, [F] Cecil- [C] ia, I'm [F] down on my [C] knees   
-I'm [F] begging you [C] please to come [G] home    
 
 Jubi- [F] la- [C] tion, she [F] loves me [C] again,   
 I [F] fall on the [C] floor and I’m [G] laughing,   
 Jubi-[F]la-[C]tion, she [F] loves me [C] again,   
 I [F] fall on the [C] floor and I’m [G] laughing   
 {c: } 
+Whoo[F] ooo[C] ooo[F] ooo [C] ooo[F] ooo[C] oooo [G]  oooo
+
 Whoo[F] ooo[C] ooo[F] ooo [C] ooo[F] ooo[C] oooo [G]  oooo
 [C/]

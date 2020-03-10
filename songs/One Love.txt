@@ -2,6 +2,7 @@
 {artist:Bob Marley}  
 {spotify:2HcyIzVsX45jLIxK7SH2aI}  
 {level:Easy}
+{new:}
  
 Intro: [A] [E7] [D] [A] [E7] [A]   
  

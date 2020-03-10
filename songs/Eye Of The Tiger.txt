@@ -2,7 +2,14 @@
 {artist:Survivor}  
 {level:Medium} 
 
-Intro: [Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F/] x2
+(Ps: Song arrangement is different than original. 
+Riff is always played twice.
+After riff, start singing straight away. 
+End of chorus, "with the eeeeeye", eye is double than the original)
+
+Intro: 
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
 
 [Am]Risin’ up [F]back on the street
 [G] Did my time, took my [Am]chances
@@ -20,7 +27,8 @@ And the [Dm]last lone survivor stalks his [C]prey in the [G]night
 And he’s [Dm]watching us [C]all with the [F] eeeeeeeeeeeeye…
 Of the [Am] tiger
 
-[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F/]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
 
 [Am]Face to face [F]out in the heat
 [G] Hanging tough, staying [Am]hungry
@@ -33,7 +41,8 @@ And the [Dm]last lone survivor stalks his [C]prey in the [G]night
 And he’s [Dm]watching us [C]all with the [F] eeeeeeeeeeeeye…
 Of the [Am] tiger
 
-[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F/]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
 
 [Am]Risin’ up [F]straight to the top
 [G] Had the guts, got the [Am]glory
@@ -46,5 +55,6 @@ And the [Dm]last lone survivor stalks his [C]prey in the [G]night
 And he’s [Dm]watching us [C]all with the [F]eye…
 Of the [Am] tiger
 
-[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F/]
-[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F/] [Am /]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F]
+[Am/] [Am/ G/ Am/] [Am/ G/ Am/] [Am/ G/ F] 
+[Am/]

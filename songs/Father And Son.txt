@@ -1,9 +1,10 @@
 {t: Father And Son }  
 {artist:Cat Stevens}  
 {level:Medium}  
-{spotify:19slC7k8bsPOAKDjHYLU2W}  
-{c: }                      
-Ps: if you want to simplify, play [G] instead of [Gsus4]
+{spotify:19slC7k8bsPOAKDjHYLU2W}
+{new:}
+ 
+Ps: if you want to simplify, play [G] when seeing [Gsus4]
 
 Intro: 
 [G] [Gsus4]

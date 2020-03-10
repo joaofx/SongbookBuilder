@@ -2,43 +2,59 @@
 {key: G}  
 {artist: The Cranberries}  
 {level: Easy}  
+{spotify:2IZZqH4K02UIYg5EohpNHF}
 
-Intro: [Em] [C] [G] [D]
+Obs:
+- Verses play softly and quietly
+- Chorus play louder
 
-[Em] Another [C]head hangs lowly
-[G]Child is slowly [D]taken
-[Em] And the violence [C]caused such silence
-[G]Who are we mis[D]taken?
+Intro: 
+[Em] [C] [G] [D]
+[Em] [C] [G] [D]
 
-But you [Em]see… it's not me… it's not [C]my family
-In your [G]head… in your head… they are [D]fighting
-With their [Em]tanks… and their bombs
-And their [C]bombs… and their guns
-In your [G]head… in your head… they are [D]crying
+[Em] Another [C] head hangs lowly
+[G] Child is slowly [D] taken…
+[Em] And the violence [C] caused such silence
+[G] Who are we mis[D]taken?…
 
-In your [Em]hea-ea-ead… in your [C]hea-ea-ead
+But you [Em] see… it's not me… it's not [C] my family
+In your [G] head… in your head… they are [D] fighting
+With their [Em] tanks… and their bombs
+And their [C] bombs… and their guns
+In your [G] head… in your head… they are [D] crying
+
+In your [Em] hea-ea-ead… in your [C] hea-ea-ead
 Zo-om[G]bie… zo-ombie… zo-om[D]bie hey hey
-What’s in your [Em]hea-ea-ead… in your [C]hea-ea-ead
+What’s in your [Em] hea-ea-ead… in your [C] hea-ea-ead
 Zo-om[G]bie… zo-ombie… zo-om[D]bie hey hey hey
-[Em]Oh [C] do-do-do
+
+[Em] do-do-do [C] do-do-do
 [G] Do-do-do [D] do-do-do
 
-[Em] Another [C]mother's breakin'
-[G]Heart is taking [D]over
-[Em] When the violence [C]causes silence
-[G]We must be mis[D]taken
+[Em]... [C]... 
+[G]... [D]...
 
-It's the [Em]same old theme… since [C]1916
-In your [G]head… in your head… they're still [D]fighting
-With their [Em]tanks… and their bombs
-And their [C]bombs… and their guns
-In your [G]head… in your head… they are [D]dying
+[Em] Another [C] mother's breakin'
+[G] Heart is taking [D] over
+[Em] When the violence [C] causes silence
+[G] We must be mis[D]taken
 
-In your [Em]hea-ea-ead… in your [C]hea-ea-ead
+It's the [Em] same old theme… since [C] 1916
+In your [G] head… in your head… they're still [D] fighting
+With their [Em] tanks… and their bombs
+And their [C] bombs… and their guns
+In your [G] head… in your head… they are [D] dying
+
+In your [Em]hea-ea-ead… in your [C] hea-ea-ead
 Zo-om[G]bie… zo-ombie… zo-om[D]bie hey hey
-What’s in your [Em]hea-ea-ead… in your [C]hea-ea-ead
+What’s in your [Em] hea-ea-ead… in your [C] hea-ea-ead
 Zo-om[G]bie… zo-ombie… zo-om[D]bie hey hey hey
-[Em]Oh oh oh oh [C]oh oh oh oh
-Ay [G]ohhhh ah ah [D]aaaah
 
-(Em – single strum)
+[Em] Oh oh oh oh [C] oh oh oh oh
+Ay [G] ohhhh ah ah [D] aaaah
+
+(softly:)
+[Em]... [C]... 
+[G]... [D]...
+
+[Em/]

@@ -6,13 +6,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>Ukulele Krakow Jam</title>
+    <title>{{ song.title }} - Krakow Ukulele Tuesdays</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <style>
         .highlight {background-color: lemonchiffon; font-weight: bold;}
         .chord { font-weight: bold; color:red}
+        #tab { font-size: 80%; font-family: Verdana, Tahoma, sans-serif; }
     </style>
 
 </head>
@@ -61,12 +62,14 @@
 
     <div class="mt-4">
         {{ for chord in song.chords }}
-        <img src="/chords/{{chord}}.gif" />
+            <img src="/chords/{{chord}}.gif" alt="{{chord}}" title="{{chord}}" />
         {{ end }}
     </div>
     
-    {{ song.tab }}
-    
+    <div id="tab">
+        {{ song.tab }}
+    </div>
+
     <div class="mb-5 mt-5">
         <a href="index.html"><- Back to the List</a>
     </div>

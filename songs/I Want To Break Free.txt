@@ -2,9 +2,10 @@
 {artist:Queen}  
 {level:Easy}
 
-Intro: [C] [C] [C] [C] [C] [C] [C] 
+Intro: 
+[C] [C] [C] [C] 
+[C] [C] [C] (stop)
 
-(stop) 
 I want to break [C] free   
 I want to break free   
 I want to break free from your lies   
@@ -30,22 +31,22 @@ When I [D] walk out that [D] door
 [F] Oh how I [G] want to bre-[C]-eak free  
 
 (stop)
-[C] … [F] [C] [G] [F] [C] (pause) 
+[C] … … … … [F]… … [C]… … [G]… [F]… [C]… (stop) 
 
 But life still goes [C] on   
 I can't get used to living without… living without   
 Living without you… by my [F] siii-ii-iiide   
 I don't want to live a-[C]-lo-o-o-one   
 God [G] knows  
-[F] Got to make it on [C] my own  
+[F] ... Got to make it on [C] my own  
 So baby can't you [G] see   
 [F] I've got to bre-[C]-eak free 
 
 (stop)
 I've got to break [C] free   
 I want to bre-e-eak free yeah   
-I want… I want… I want… 
-I want to breeeeeeeeak free   
+I want… I want… I want… I want… 
+To breeeeeeeeak free
 
 (cha-cha-cha)
 [C/] [C/] [C/]
