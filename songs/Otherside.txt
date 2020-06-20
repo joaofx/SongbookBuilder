@@ -1,9 +1,12 @@
 {t:Otherside}
 {artist:Red Hot Chili Peppers}
-{level:Medium}
+{level:Easy}
 {new:} 
 
-Intro: [Am] [F] [C] [G]
+Intro: 
+
+(softly)
+[Am]... [F]... [C]... [G]...
 
 (chorus)
 [Am] How long how [F]lo-o-ong will I
@@ -60,7 +63,7 @@ I [C]don't… I [G]don't believe it's
 
 [Am] How long how [F]lo-o-ong will I
 [C]Slide… [G]separate my
-[Am]Si-i-ide… [F]
+[Am]Si-i-ide… [F] 
 I [C]don't… I [G]don't believe it's
 [Am]Ba-a[F]-ad
 [C]Slittin’ my throat it's [G]all I ever
