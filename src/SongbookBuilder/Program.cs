@@ -33,6 +33,15 @@ namespace SongbookBuilder
             
             SaveSongs(songs);
             SaveIndex(songs);
+            SaveFilter(songs.Where(m => m.IsNew), "new.html");
+            SaveFilter(songs.Where(m => m.Level == "Easy"), "easy.html");
+            SaveFilter(songs.Where(m => m.Level == "Easy" || m.Level == "Medium"), "medium.html");
+        }
+
+        private static void SaveFilter(IEnumerable<Song> songs, string html)
+        {
+            var result = IndexTemplate.Render(new { songs });
+            File.WriteAllText(Path.Combine(OutputPath, html), result);
         }
 
         private static List<Song> BuildSongs()
@@ -73,6 +82,8 @@ namespace SongbookBuilder
             
             foreach (var line in lines)
             {
+                // TODO: Convert all this logic to use regex
+
                 FindChordsInTheLineAndAddToTheSong(line, song);
                 
                 if (IsLineBreak(line))
@@ -136,13 +147,17 @@ namespace SongbookBuilder
                 {
                     var convertingLine = line;
 
+                    convertingLine
+                        .Replace("[stop]", "<strong>[stop]</strong>")
+                        .Replace("[riff]", "<strong>[riff]</strong>");
+
                     if (line.Contains("[") && line.Contains("]"))
                     {
                         convertingLine = convertingLine
                             .Replace("[", "<span class=\"chord\">[")
                             .Replace("]", "]</span>");
                     }
-                    
+
                     outputLines.Append(convertingLine);
                     outputLines.Append("<br/>");
                 }
@@ -183,7 +198,10 @@ namespace SongbookBuilder
                     .Replace("/", "-")
                     .Replace("#", "sharp")
                     .Trim())
-                .Where(m => !m.Equals("NC") && !m.Contains(" "))
+                .Where(m => !m.ToLower().Equals("nc"))
+                .Where(m => !m.Contains(" "))
+                .Where(m => !m.ToLower().Equals("stop"))
+                .Where(m => !m.ToLower().Equals("riff"))
                 .ToList();
 
             foreach (var chord in chords)

@@ -3,30 +3,29 @@
 {artist:John Lennon}  
 {level:Medium}
 
-{c: } 
 [C] Imagine there’s no [F] heaven [C]   
 it’s easy if you [F] try [C]   
 No Hell [F] below us [C]   
 above us only [F] sky   
 Imagine [Am] all the [Dm] people[F]  [G]  living for [G7] today   
-{c: } 
+
 [C] Imagine there’s no [F] countries, [C]   
 it isn’t hard [F] to do  [C]   
 nothing to kill or [F] die for [C]  no religion [F] too   
 Imagine [Am] all the [Dm] people [F] [G] living life in [G7] peace You…[F]   
-{c: } 
+
 You may [G7] say I’m a [C] dreamer [E7] [F]     
 But I’m [G] not the only one [C] [E7] [F]   
 I hope [G] someday you’ll [C] join us,  [E7] [F]   
 And the [G] world will [C] be as one   
-{c: } 
+
 [C] Imagine no po[F]ssessions [C]   
 I wonder if you [F]  can [C]   
 no need for greed nor [F] hunger [C]     
 a brotherhood of [F] man   
 Imagine [Am] all the [Dm] people [F]   
 [G] sharing  all the [G7] world You…[F]   
-{c: } 
+
 You may [G7] say I’m a [C] dreamer [E7] [F]     
 But I’m [G] not the only one [C] [E7] [F]   
 I hope [G] someday you’ll [C] join us,  [E7] [F]   
