@@ -14,16 +14,13 @@
         .highlight {background-color: lemonchiffon; font-weight: bold;}
         .chord { font-weight: bold; color:red}
         #tab { font-size: 80%; font-family: Verdana, Tahoma, sans-serif; }
+        #options a {text-decoration: underline;}
     </style>
 
 </head>
 <body>
 
 <div class="container mt-2 mb-5">
-
-    <p>
-        <a href="#" onclick="history.back()">← Back to the List</a>
-    </p>
 
     <h3 class="song-title">
         #{{ song.number }} {{ song.title }}
@@ -70,8 +67,13 @@
         {{ song.tab }}
     </div>
 
-    <div class="mb-5 mt-5">
-        <a href="#" onclick="history.back()">← Back to the List</a>
+    <div id="options" class="mt-4">
+        <ul class="list-unstyled">
+            <li><a href="index.html"><strong>All songs</strong></a></li>
+            <li><a href="easy.html" class="text-success">Easy songs</a></li>
+            <li><a href="medium.html" class="text-info">Easy and medium songs</a></li>
+            <li><a href="new.html" class="text-warning">New songs</a></li>
+        </ul>
     </div>
 
 </div>

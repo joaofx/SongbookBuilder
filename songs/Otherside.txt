@@ -1,7 +1,6 @@
 {t:Otherside}
 {artist:Red Hot Chili Peppers}
 {level:Easy}
-{new:} 
 
 Intro: 
 

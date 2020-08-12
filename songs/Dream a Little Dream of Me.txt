@@ -1,7 +1,8 @@
 {t: Dream a Little Dream of Me }  
 {key: C}  
-{artist:Ella Fitzgerald}  
+{artist:The Mamas & The Papas}  
 {level:Medium}  
+{new:}
 
 Info:
 - All chords play two beats (as [C//])

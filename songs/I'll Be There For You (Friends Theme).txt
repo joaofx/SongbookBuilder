@@ -2,7 +2,6 @@
 {artist:The Rembrandts}
 {level:Hard}
 {spotify:15tHagkk8z306XkyOHqiip}
-{new:}
 
 Ps: 
 - An easy way to make [C#m] is putting the whole finger on 4th fret
