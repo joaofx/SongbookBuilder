@@ -3,30 +3,36 @@
 {artist:John Lennon}  
 {level:Medium}
 
-[C] Imagine there’s no [F] heaven [C]   
-it’s easy if you [F] try [C]   
-No Hell [F] below us [C]   
-above us only [F] sky   
-Imagine [Am] all the [Dm] people[F]  [G]  living for [G7] today   
+[C] Imagine there’s no [F] heaven 
+[C] it’s easy if you [F] try 
+[C] No Hell [F] below us 
+[C] Above us only [F] sky   
 
-[C] Imagine there’s no [F] countries, [C]   
-it isn’t hard [F] to do  [C]   
-nothing to kill or [F] die for [C]  no religion [F] too   
-Imagine [Am] all the [Dm] people [F] [G] living life in [G7] peace You…[F]   
+[F//] Imagine [Am//] all the [Dm//] people [F//] ... 
+[G] living for [G7] todaaay ya haaa uhh   
 
-You may [G7] say I’m a [C] dreamer [E7] [F]     
-But I’m [G] not the only one [C] [E7] [F]   
-I hope [G] someday you’ll [C] join us,  [E7] [F]   
-And the [G] world will [C] be as one   
+[C] Imagine there’s no [F] countries 
+[C] It isn’t hard [F] to do  
+[C] Nothing to kill or [F] die for 
+[C] No religion [F] too   
 
-[C] Imagine no po[F]ssessions [C]   
-I wonder if you [F]  can [C]   
-no need for greed nor [F] hunger [C]     
-a brotherhood of [F] man   
-Imagine [Am] all the [Dm] people [F]   
-[G] sharing  all the [G7] world You…[F]   
+[F//] Imagine [Am//] all the [Dm//] people [F//] ... 
+[G] living life in [G7] peace … you huu uhh 
 
-You may [G7] say I’m a [C] dreamer [E7] [F]     
-But I’m [G] not the only one [C] [E7] [F]   
-I hope [G] someday you’ll [C] join us,  [E7] [F]   
-And the [G] world will [C] liveas one
+[F//] You may [G7//] say I’m a [C//] dreamer [E7//] …
+[F//] But I’m [G//] not the only one [C//] … [E7//] …
+[F//] I hope [G//] someday you’ll [C//] join us, [E7//] …
+[F//] And the [G//] world will [C//] be as one [C//]  
+
+[C] Imagine no po[F]ssessions 
+[C] I wonder if you [F] can 
+[C] No need for greed nor [F] hunger 
+[C] A brotherhood of [F] man   
+
+[F//] Imagine [Am//] all the [Dm//] people [F//] …
+[G] sharing all the [G7] world you huu uhh 
+
+[F//] You may [G7//] say I’m a [C//] dreamer [E7//] …
+[F//] But I’m [G//] not the only one [C//] … [E7//] …
+[F//] I hope [G] someday you’ll [C] join us, [E7//] … 
+[F//] And the [G] world will [C/] live as one

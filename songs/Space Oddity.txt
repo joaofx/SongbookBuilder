@@ -2,7 +2,6 @@
 {artist:David Bowie}
 {level:Hard}
 {spotify:72Z17vmmeQKAg8bptWvpVG}
-{new:}
 
 Obs: 
 - The count
