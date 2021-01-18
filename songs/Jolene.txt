@@ -2,7 +2,10 @@
 {key: Am}  
 {artist:Dolly Parton}  
 {level:Medium}  
-{c: } 
+
+Intro:
+[Am]... [Am]...
+
 Jo[Am]lene Jo[C]lene Jo[G]lene Jo[Am]lene    
 I'm [G] begging of you [Em7] please don't take my [Am] man   
 Jo[Am]lene Jo[C]lene Jo[G]lene Jo[Am]lene    
@@ -37,5 +40,6 @@ And what[G]ever you de[Em7]cide to do Jo[Am]lene
 Jo[Am]lene Jo[C]lene Jo[G]lene Jo[Am]lene    
 I'm [G] begging of you [Em7] please don't take my [Am] man   
 Jo[Am]lene Jo[C]lene Jo[G]lene Jo[Am]lene    
-[G] Please don't take him [Em7] just because you [/Am] can   
+[G] Please don't take him [Em7] just because you [Am] can   
+[G/] Please don't take him [Em7/] just because you [/Am] can   
      

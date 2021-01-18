@@ -2,41 +2,37 @@
 {artist:Bob Marley}  
 {spotify:2HcyIzVsX45jLIxK7SH2aI}  
 {level:Easy}
-{new:}
  
-Intro: [A] [E7] [D] [A] [E7] [A]   
+Intro: [A] [E7] [D//] [A//] [E7//] [A]   
  
 [A] One love [E7] one heart    
-[D] Let's get to[A]gether and [E7] feel all [A] right    
+[D//] Let's get to-[A//]-gether and [E7//] feel all [A] right    
 [A] One love [E7] one heart    
-Give [D] thanks and praise to the [A] Lord and I will [E7] feel all [A] right    
+Give [D//] thanks and praise to the [A//] Lord and I will [E7//] feel all [A] right    
 [D] Let's get to[A]gether and [E7] feel all [A] right    
 
 [A] Let them all [F#m] pass all their [D] dirty re[A]marks (one love)    
 [A] There is one [F#m] question    
-I'd [D] really [E7] love to [A] ask (one heart)    
+I'd [D/] really [E7/] love to [A/] ask (one heart)    
 Is there a [F#m] place [D] for the hopeless [A] sinner    
-Who has hurt all man[F#m]kind just to [D] save [E7] his [A] own    
+Who has hurt all man[F#m]kind just to [D/] save [E7/] his [A] own    
 
 [A] One love [E7] one heart    
-[D] Let's get to[A]gether and [E7] feel all [A] right    
+[D//] Let's get to[A//]gether and [E7//] feel all [A] right    
 [A] One love [E7] one heart    
-Give [D] thanks and praise to the [A] Lord and I will [E7] feel all [A] right    
-[D] Let's get to[A]gether and [E7] feel all [A] right    
+Give [D//] thanks and praise to the [A//] Lord and I will [E7//] feel all [A] right    
+[D//] Let's get to[A//]gether and [E7//] feel all [A] right    
  
 [A] Let's get to[F#m]gether to fight    
 This [D] holy arma[A]geddon (one love)    
 [A] So when the man [F#m] comes there will    
-[D] Be no [E7] no [A] doom (one song)    
+[D/] Be no [E7/] no [A] doom (one song)    
 [A] Have pity on [F#m] those whose [D] chances grow [A] thinner    
 [A] There ain't no hiding [F#m] place    
-From the [D] father [E7] of cre[A]ation    
+From the [D/] father [E7/] of cre[A]ation    
 
 [A] One love [E7] one heart    
-[D] Let's get to[A]gether and [E7] feel all [A] right    
+[D//] Let's get to[A//]gether and [E7//] feel all [A] right    
 [A] One love [E7] one heart    
-Give [D] thanks and praise to the [A] Lord and I will [E7] feel all [A] right  
-
-[D] Let's get to[A]gether and [E7] feel all [A] right    
-[D] Let's get to[A]gether and [E7] feel all [A] right    
-[D] Let's get to[A]gether and [E7] feel all [A] right
+Give [D//] thanks and praise to the [A//] Lord and I will [E7//] feel all [A] right  
+[D//] Let's get to[A//]gether and [E7//] feel all [A/] right

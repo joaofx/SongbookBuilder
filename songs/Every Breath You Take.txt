@@ -2,43 +2,50 @@
 {key: A}  
 {artist:The Police}  
 {level:Medium}  
-{c: } 
-Intro: [A] [F#m] [D] [E] [A]   
-[A] Every breath you take and every move you [F#m] make   
-Every bond you [D] break every step you [E] take   
+
+4 beats per chord
+
+Intro: 
+[A] [A] [F#m] [F#m] [D] [E7] [A]   
+
+[A] Every breath you take … And every move you [F#m] make … 
+Every bond you [D] break, every step you [E7] take   
+I'll be watching you [F#m] …   
+
+[F#m] Every single [A] day … and every word you [F#m] say …  
+Every game you [D] play, every night you [E7] stay   
+I'll be watching you [A] …   
+
+Oh can't you [D] seeeeee …
+You belong to [A] me …
+How my poor heart [B7] aches …
+with every step you [E7] take …
+
+Every move you [A] make … every vow you [F#m] break …   
+Every smile you [D] fake, every claim you [E7] stake   
 I'll be watching you [F#m]   
-{c: } 
-[F#m] Every single [A] day and every word you [F#m] say   
-Every game you [D] play every night you [E] stay   
-I'll be watching you [A]   
-{c: } 
-Oh can't you [D] seeeeee
-You belong to [A] me   
-How my poor heart [B7] aches 
-with every step you [E] take   
-Every move you [A] make every vow you [F#m] break   
-Every smile you [D] fake every claim you [E] stake   
-I'll be watching you [F#m]   
-{c: } 
+
 [F] Since you've gone I've been lost without a [G] trace   
 I dream at night I can only see your [F] face   
-I look around but it's you I can't re[G]place   
-I feel so cold and I long for your em[F]brace   
-I keep crying baby baby [A] please [F#m]   
-{c: } 
-[D] [E] [F#m] [A] [F#m] [D] [E] [A]   
-{c: } 
+I look around but it's you I can't re-[G]-place   
+I feel so cold and I long for your em-[F]-brace   
+I keep crying baby baby [A] please … [F#m]   
+
+[D] … [E7] … [F#m] … [A] …
+[A] … [F#m] [F#m] … [D] … [E7] … [A] …  
+
 Oh can't you [D] seeeeee
-You belong to [A] me   
+You belong to [A] me …  
 How my poor heart [B7] aches 
-with every step you [E] take   
-Every move you [A] make every vow you [F#m] break   
-Every smile you [D] fake every claim you [E] stake   
-I'll be watching you [F#m]   
-Every move you [D] make every step you [E] take   
-I'll be watching you [F#m]   
-{c: } 
-I'll be watching [A] you [F#m] [D] I’ll be watching you [A] [F#m]   
-[D] I’ll be watching you [A] [F#m] [D] I’ll be watching you [A]   
-{c: } 
-{c: }
+with every step you [E7] take …  
+
+Every move you [A] make … every vow you [F#m] break …
+Every smile you [D] fake … every claim you [E7] stake   
+I'll be watching you [F#m] …   
+Every move you [D] make every step you [E7] take   
+I'll be watching you [F#m] …    
+
+[F#m] I'll be watching [A] you … [A] … [F#m] 
+[D] I’ll be watching you [A] you … [A] … [F#m] 
+[D] I’ll be watching you [A] you … [A] … [F#m] 
+[D] I’ll be watching you [A/]   

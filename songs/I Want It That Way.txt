@@ -1,7 +1,6 @@
 {t:I Want It That Way}  
 {artist:Backstreet Boys}  
 {level:Hard}
-{new:}
 
 (ps: song original start is Bm, here is one note lower (Am) for easier chords)
 

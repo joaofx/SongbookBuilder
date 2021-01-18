@@ -11,7 +11,7 @@ Intro: [G] [C] [G] [D] [Em] [C] [G] [D]
 [G] Tuesday Wednesday [D] break my heart
 [Em] Thursday doesn't [C] even start it's [G] Friday I'm in [D] love
 {c: } 
-[C] Saturdaaay [D/] wait (STOP 1..2..3) 
+[C] Saturdaaay [D/] wait ([stop] 1..2..3) 
 [Em] Sunday always [C] comes too late
 But [G] Friday never [D] hesitate
 {c: } 
@@ -23,8 +23,8 @@ But [G] Friday never [D] hesitate
 [G] Monday you can [C] hold your head, [G] Tuesday Wednesday [D] stay in bed
 Or [Em] Thursday watch the [C] walls instead it's [G] Friday I'm in [D] love
 {c: } 
-[C] Saturdaaay [D/] wait (STOP 1..2..3) 
-Sunday always [C] comes too late
+[C] Saturdaaay [D/] wait ([stop] 1..2..3) 
+[Em] Sunday always [C] comes too late
 But [G] Friday never [D] hesitate
 {c: } 
 [Em] Dressed up to the [F] eyes it's a wonderful sur[G]prise

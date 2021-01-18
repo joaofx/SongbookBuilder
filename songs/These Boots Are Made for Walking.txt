@@ -3,7 +3,6 @@
 {spotify:2nwCO1PqpvyoFIvq3Vrj8N}
 {youtube:Ik8K_R0cWAY}
 {level:Easy}
-{new:}
 
 Info:
 - Original song is in a different key

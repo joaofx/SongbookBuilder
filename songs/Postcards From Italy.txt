@@ -1,9 +1,11 @@
 {t:Postcards From Italy}  
 {artist:Beirut}  
-{level:Easy}  
+{level:Medium}  
 {spotify:4qBHDoJFUUSvTa4aZJfEuw} 
 
-Intro: [F] [A] [F] [A]
+Intro: 
+[F] [A] 
+[F] [A]
 
 The [F] times we had
 Oh, when the [A] wind would blow with rain and snow 

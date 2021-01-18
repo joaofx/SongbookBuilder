@@ -1,15 +1,13 @@
 {t: Hey Ya }  
 {artist:OutKast}  
 {level:Medium}  
-{new:}  
 {spotify:2PpruBYCo4H7WOBJ7Q2EwM}
 
 Tips: 
 - Every [D] is two strums, like [D//]
-- The last beat of [Em] can be played chunked, like as palms
-- Verse can get messy and hard to follow, just do the same thing forever. The song never changes
 
-Intro: Shout: “1-2-3-uh”
+Intro: 
+(1 2 3 4)
 
 [G] My baby don't [C]mess around
 Because she loves me so and this I [D]know for [Em]sure

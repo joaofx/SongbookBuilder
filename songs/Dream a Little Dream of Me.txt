@@ -1,8 +1,7 @@
 {t: Dream a Little Dream of Me }  
 {key: C}  
 {artist:The Mamas & The Papas}  
-{level:Medium}  
-{new:}
+{level: Hard}  
 
 Info:
 - All chords play two beats (as [C//])

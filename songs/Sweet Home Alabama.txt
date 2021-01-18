@@ -1,6 +1,5 @@
 {t:Sweet Home Alabama}  
 {artist:Lynyrd Skynyrd}  
-{new:}
 {level:Easy}
 {spotify:7e89621JPkKaeDSTQ3avtg}
 

@@ -2,7 +2,6 @@
 {artist:Cat Stevens}  
 {level:Medium}  
 {spotify:19slC7k8bsPOAKDjHYLU2W}
-{new:}
  
 Ps: if you want to simplify, play [G] when seeing [Gsus4]
 

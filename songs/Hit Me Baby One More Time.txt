@@ -1,6 +1,7 @@
 {t: Hit Me Baby One More Time }  
 {artist:Britney Spears}  
-{level:Hard} 
+{level:Medium} 
+{youtube:7PtwkucvBJA}
 
 Intro [Am7/] [Am///] x4
 

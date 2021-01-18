@@ -1,7 +1,6 @@
 {t:Fly Me To The Moon}
 {artist:Frank Sinatra}
 {youtube:bu_q4SHdshw}
-{new:}
 {level:Medium}
 
 Intro: 

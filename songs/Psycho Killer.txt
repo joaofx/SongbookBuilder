@@ -1,11 +1,13 @@
 {t:Psycho Killer}
 {artist:Talking Heads}
 {level:Hard}
+{youtube:63VeqzqRK8g}
 {c: }
 
-[intro]
-[A7] [A7] [A7] [G] x2
+Intro:
+[A7/] [A7/] [A7/] [G] x2
 
+Same as intro:
 [A7] I can’t seem to face up to the facts [G]
 [A7] I’m tense and nervous and I can’t relax [G]
 [A7] I can’t sleep cos my bed’s on fire [G]
@@ -20,6 +22,7 @@
 [F] Run run run [G] run run run a[C]way
 Oh oh oh [F]oh [G]ay ay ay ay ay
 
+Same as intro:
 [A7] [A7] [A7] [G] x2
 
 [A7] You start a conversation, you can’t even finish [G]
@@ -39,6 +42,7 @@ Oh oh oh [F]oh [G]ay ay ay ay ay
 [Bm] Ce que j’ai fait… ce soir [C]la
 [Bm] Ce qu’elle a dit… ce soir [C]la
 [A] Realisant mon espoir [G]je me lance, vers la gloire
+Same as intro:
 [A] Okay [G]
 [A]Ay ay ay ay ay ay ay ay [G]
 [A] We are vain and we are blind [G]
@@ -53,5 +57,7 @@ Oh oh oh [F]oh [G]ay ay ay ay ay
 [F] Run run run [G] run run run a[C]way
 Oh oh oh [F]oh [G]ay ay ay ay ay
 
-[A7] [A7] [A7] [G] x4
-[G/] (single strum)
+Same as intro:
+[A7/] [A7/] [A7/] [G/] x4
+
+[A7/]

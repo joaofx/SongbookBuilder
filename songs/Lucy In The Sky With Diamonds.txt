@@ -20,7 +20,7 @@ A [A] girl with kal[A7]eidoscope [F#m] eyes [F#m] [Dm] [Dm]
 [F] Towering [F] over your [Bb] head [Bb] ...   
 [C] Look for the [C] girl with the [G] sun in her [G] eyes and she's [D/] gone (stop)  
 
-(1.. 2.. 3..)
+(count 1.. 2.. 3..)
 [G] Lucy in the [C] sky with [D] diamonds   
 [G] Lucy in the [C] sky with [D] diamonds   
 [G] Lucy in the [C] sky with [D] diamonds [D] ahhhhh 
@@ -34,7 +34,7 @@ That [A] grow so in[A7]credibly [F#m] high [F#m] [Dm] [Dm]
 [F] Waiting to [F] take you a[Bb]way [Bb] ...   
 [C] Climb in the [C] back with your [G] head in the [G] clouds and you're [D/] gone (stop) 
 
-(1.. 2.. 3..)
+(count 1.. 2.. 3..)
 [G] Lucy in the [C] sky with [D] diamonds   
 [G] Lucy in the [C] sky with [D] diamonds   
 [G] Lucy in the [C] sky with [D] diamonds [D] ahhhhh
