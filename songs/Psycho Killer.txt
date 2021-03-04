@@ -5,7 +5,7 @@
 {c: }
 
 Intro:
-[A7/] [A7/] [A7/] [G] x2
+[A7/] [A7/] [A7/] [G/] x2
 
 Same as intro:
 [A7] I can’t seem to face up to the facts [G]
