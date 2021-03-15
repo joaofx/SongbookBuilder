@@ -5,36 +5,38 @@
 {key:D}
 
 Intro:
-[Em] [D] [A]
-[Em] [D] [A]
+[Em] [D] [A] [A]
+[Em] [D] [A] [A]
 
-[Em] The world was on fire and [D] no one could save me but [A] you.
-[Em] It's strange what desire will [D] make foolish people [A] do.  
-[Em] I never dreamed that [D] I'd meet somebody like [A] you.
-[Em] I never dreamed that [D] I'd love somebody like [A] you. But
+[Em] The world was on fire and [D] no one could save me but [A] you. [A]
+[Em] It's strange what desire will [D] make foolish people [A] do. [A]
+[Em] I never dreamed that [D] I'd meet somebody like [A] you. [A]
+[Em] I never dreamed that [D] I'd love somebody like [A] you. [A] But
 {c: }
-[Em] I [D] don't want to fall in [A] love. No
-[Em] I [D] don't want to fall in [A] love, with [Em] you. [D]  [A]
+[Em] I [D] don't want to fall in [A] love. [A] No
+[Em] I [D] don't want to fall in [A] love, [A] with 
+[Em] you. [D]  [A] [A]
 {c: }
-[Em] What a wicked [D] game to play, [A] to make me feel this way.
-[Em] What a wicked [D] thing to do, [A] to let me dream of you.
-[Em] What a wicked [D] thing to say, [A] you never felt this way. 
-[Em] What a wicked [D] thing to do, [A] to make me dream of you and,
+[Em] What a wicked [D] game to play, [A] to make me [A] feel this way.
+[Em] What a wicked [D] thing to do, [A] to let me [A] dream of you.
+[Em] What a wicked [D] thing to say, [A] you never [A] felt this way. 
+[Em] What a wicked [D] thing to do, [A] to make me [A] dream of you and,
 {c: }
-[Em] I [D] don't want to fall in [A] love. No
-[Em] I [D] don't want to fall in [A] love, with
-[Em] you. [D]                       [A]
-[Em] [D] [A]
-[Em] [D] [A]
+[Em] I [D] don't want to fall in [A] love. [A] No
+[Em] I [D] don't want to fall in [A] love, [A] with
+[Em] you. [D] [A] [A]
+[Em] [D] [A] [A]
+[Em] [D] [A] [A]
 {c: }
-[Em] The world was on fire and [D] no one could save me but [A] you.
-[Em] It's strange what desire will [D] make foolish people [A] do.  
-[Em] I never dreamed that [D] I'd love somebody like [A] you.
-[Em] I never dreamed that [D] I'd loose somebody like [A] you, No
+[Em] The world was on fire and [D] no one could save me but [A] you.[A]
+[Em] It's strange what desire will [D] make foolish people [A] do. [A]
+[Em] I never dreamed that [D] I'd love somebody like [A] you. [A]
+[Em] I never dreamed that [D] I'd loose somebody like [A] you, [A] No
 {c: }
-[Em] I [D] don't want to fall in [A] love. No
-[Em] I [D] don't want to fall in [A] love, with
-[Em] you. [D] [A]       
-[Em] No I [D] [A] [Em] [D] [A]
+[Em] I [D] don't want to fall in [A] love. [A] No
+[Em] I [D] don't want to fall in [A] love, [A] with
+[Em] you. [D] [A] [A]     
+[Em] No I [D] [A] [A]
+[Em] [D] [A] [A]
 {c: }
-[Em] Nobody [D] loves no [A] one.
+[Em] Nobody-[D/]-y loves no [A/] one.
