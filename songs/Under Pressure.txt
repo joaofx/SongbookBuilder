@@ -10,10 +10,18 @@ E|-3--5--|
 C|-------|
 G|-------|
 </pre>
+
+<pre>
+bass:
+A|-5-5-5-555-x---|
+E|-x-x-x-xxx-5---|
+C|-2-2-2-222-x---|
+G|-x-x-x-xxx-2---|
+</pre>
+
 Intro:
 
 <b>(bass) + (riff 1)
-(bass) + (riff 1)
 (bass) + (riff 1)</b>
 
 <b>(finger picking) + (bass) + (riff 1)</b>
@@ -56,19 +64,18 @@ Keep [G/] coming up with love but it's so [C/] slashed and torn
 [A] Insanity laughs under pressure we're breaking. Can't we
   
 <b>(metal strumming)</b>
-[D] give ourselves one more [G//] chance? [A//]
-[A] Why can't we [D] give love that one more [G//] chance? [A//]
-[A] Why can't we [D] give love, give love, [G] give love, give love
+[D] give ourselves one more [G//] chance? 
+[A//] Why can't we [D] give love that one more [G//] chance? 
+[A//] Why can't we [D] give love, give love, [G] give love, give love
 [D] Give love, give love, [A] give love, give love?
 
-[A] Because [G] love's such an [A] old fashioned [D] word and love [A] dares you to [G] care for
-The [A] people on the (people on streets) [D] edge of the [A] night
-[A] And love (people on streets) [G] dares you to [A] change our way of
-[G] Caring a-[A]-bout ourselves   [G] This is our [A] last dance
-[G] This is our [A] last chance    [D/] This [D/] is   [A/] our - [G/] selves [A/]
+Because [G] love's such an [A] old fashioned [D] word and love [A] dares you to [G] care for
+The [A] people on the [D] edge of the [A] night
+[A] And love [G] dares you to [A] change our way of
+[G] Caring a-[A]-bout ourselves [G] This is our [A] last dance
+[G] This is our [A] last chance [D/] This [D/] is   [A/] our - [G/] selves [A/]
 
 Under pressure
 (bass) + (riff 1)
 (bass) + (riff 1)
-(bass) 
-[G/] [G/] [A/]
+(bass) [G/] [A/]
