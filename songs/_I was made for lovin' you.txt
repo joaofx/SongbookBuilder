@@ -1,0 +1,88 @@
+{t:I Was Made for Lovin’ You}
+{artist:Kiss}
+{level:Medium}
+{youtube:ZhIsAZO5gl0}
+{spotify:07q0QVgO56EorrSGHC48y3}
+{new:}
+
+Info:
+<!-- there is an optional riff at the very beginning, song would be too long with that though
+<pre>
+riff 1:
+A|--------------------|-5-3---7-7-5--------|
+E|-0-0---0-0-0--------|-5-5---5-5-5--------|
+C|--------------------|--------------------|
+G|-2-0---2-2-0--------|--------------------|
+</pre>
+[Em] [Em] [Am] [D] x2
+-->
+<pre>
+riff 2:
+A|--------0-2-2-0-----|-------0-2-2-0------|
+E|-0-2-3----------3-2-|-0-2-3--------------|
+C|--------------------|--------------------|
+G|--------------------|--------------------|
+</pre>
+
+Intro: 
+[Em] [Em] [Am] [D] x2 + riff2
+  
+[Em] Doo doo doo doo-doo doo-doo doo doo
+[Am] Doo doo doo doo-doo doo-doo
+[Em] Doo doo doo doo-doo doo-doo doo doo                  
+[Am] Doo doo doo doo-doo [D] doo-doo
+
+
+[Em] Tonight I wanna give it all [G] to you
+In the  [B] darkness there's so much [Em] I want to do
+And [Em] tonight I wanna lay it at [G] your feet
+'Cause, girl, I was [B] made for you
+And, girl, you were [A] made for me
+
+(chorus)
+[Em] I was made for loving you, baby
+[Am] You were made for loving me
+And [Em] I can't get enough of you, baby
+[Am] Can you get enough of  [D] me?
+
+[Em] Tonight I wanna see it in  [G] your eyes
+Feel the  [B] magic, there's something that [Em] drives me wild
+And [Em] tonight we're going to make it all [G] come true
+'Cause, girl, you were  [B] made for me
+And, girl, I was  [A] made for you
+
+(chorus)
+[Em] I was made for loving you, baby
+[Am] You were made for loving me
+And [Em] I can't get enough of you, baby
+[Am] Can you get enough of [D] me?
+
+[Em]I was made for loving you, baby
+[Am] You were made for loving me
+And [Em] I can give it all to you, baby
+[Am] Can you give it all to [D] me?
+
+(bridge) <!-- optional - it is easier to sing octav lower than in original-->
+[Am]... [Cmaj7]... [D] O-oh[Em] 
+can't get [Am] eno-[Cmaj7]-ough, [D] oh, [Em] oh 
+can't get [Am] eno-[Cmaj7]-ough, [D] oh, [Em] oh                                       
+I can't get [Am] eno-[Cmaj7]-ough,
+
+<b>(down down strumming)</b>
+[D] [A/] [B] <--!B5-->
+
+[Em] Do, do, do, do, do, do, do, do, do
+[Am] Do, do, do, do, do, do, do
+(chorus)
+[Em] I was made for loving you, baby
+[Am] You were made for loving me
+And [Em] I can't get enough of you, baby
+[Am] Can you get enough of [D] me?
+
+[Em] Oh, I was made...
+[Am] You were made...
+[Em] I can't get enough...
+[Am] No, I can't get enough [D]
+[Em/]
+ <!--I cut the last fading chorus-->
+
