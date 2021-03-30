@@ -1,7 +1,6 @@
 {t:Toxic}
 {artist:Britney Spears}
 {level:Easy}
-{new:}
 {youtube:ImAyZ7ShoVQ}
 
 Intro: 
