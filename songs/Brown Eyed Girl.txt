@@ -1,0 +1,77 @@
+{t:Brown Eyed Girl}
+{artist:Van Morrison}
+{level:Easy}
+{youtube:UfmkgQRmmeE}
+{spotify:3yrSvpt2l1xhsV9Em88Pul}
+{new:}
+
+
+<pre>
+riff :
+A|-2-3-5---3-2-|-7-8--10---8-7-|-2-3-5---3-2-|-0---------0-|
+E|-3-5-7---5-3-|-8-10-12--10-8-|-3-5-7---5-3-|-------2-3---|
+C|-------------|---------------|-------------|-2-----------|
+G|-------------|---------------|-------------|-------------|
+
+<!--or could be played like this [hard for me to say which is easier] 
+A|-2-3-5---3-2-|-7-8--10---8-7-|-2-3-5---3-2-|-0-----------|
+E|-------------|---------------|-------------|-------2-3-5-|
+C|-------------|---------------|-------------|-2-----------|
+G|-0-2-4---2-0-|-5-7--9----7-5-|-0-2-4---2-0-|-------------|
+-->
+</pre>
+
+intro + riff: 
+[G] [C] [G] [D] x2
+
+[G] Hey, where did [C] we go? 
+[G] days when the [D] rains came 
+[G] Down in the [C] hollow 
+[G] playin' a [D] new game
+[G] Laughin' and a-[C]runnin', hey hey
+[G] Skippin' and a-[D]jumpin' 
+[G] In the misty [C] morning fog with 
+[G] Our ...[D] hearts a-thumping and [C] you...
+
+[D] My brown-eyed [G] girl [Em]... 
+[C] You-u, my [D] brown-eyed girl [G]...
+[D7]...
+
+[G] Whatever [C] happened 
+[G] to Tuesday and [D] so slow? 
+[G] Going down the [C] old mine with a… 
+[G] transistor [D] radio 
+[G] Standing in the [C] sunlight laughing 
+[G] Hiding 'hind a [D] rainbow's wall 
+[G] Slipping and [C] sliding
+[G] All along the [D] waterfall with you [C]...
+ 
+[D] My brown-eyed [G] girl [Em] ...
+[C] You-u, my [D] brown-eyed girl [G] 
+
+[D] Do you remem[D]ber when… [D] we used to [G] sing?
+Sha la-la [C] la la la la [G] la la la la tee-[D]da 
+[G] Sha la-la [C] la la la la [G] la la la la tee-[D]da 
+La tee-[G]da ...[D] 
+
+<!-- here is the base solo, but intro + riff is also fine-->
+[G] [C] [G] [D] + riff x2 
+
+[G] So hard to [C] find my way… 
+[G] now that I'm all [D] on my own 
+[G] I saw you [C] just the other day… 
+[G] My, how [D] you have grown 
+[G] Cast my memory [C] back there, Lord 
+[G] Sometimes I'm [D] overcome thinking 'bout it
+[G] Making love in the [C] green grass 
+[G] Behind the [D] stadium with you [C]...
+
+[D] My brown-eyed [G] girl [Em]...
+[C] You-u, my [D] brown-eyed girl [G] 
+
+[D] Do you remember when… we used to [G] sing? 
+Sha-la-la [C] la-la la-la [G] la-la la-la tee-[D]da 
+[G] Sha-la-la [C] la-la la-la [G] la-la la-la tee-[D]da 
+[G] Sha-la-la [C] la-la la-la [G] la-la la-la tee-[D]da 
+[G] Sha-la-la [C] la-la la-la [G] la-la la-la tee-[D]da 
+La tee-[G/]da
