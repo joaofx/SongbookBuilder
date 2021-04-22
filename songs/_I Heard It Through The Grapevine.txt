@@ -1,18 +1,25 @@
-I Heard It Through The Grapevine
-Creedence Clearwater Revival
+{t: I Heard It Through The Grapevine }  
+{artist: Creedence Clearwater Revival}  
+{level: Easy }
+{spotify: h5qhbJhRw3Q5s41Jt6JmFw0?}
 
- like munson covers
-ten thumb productions has else also good 
-C string 2252 2254 - tab for intro
-riff
+<pre>
+riff:
+A|---------------|---------------|
+E|---------------|---------------|
+C|2-----2-5---2--|--2-2--5-4---2-|
+G|---------------|---------------|
+</pre> 
+
 intro:
- [Dm] x2
+[Dm] + riff x4
+
 Ooh-ooh, [Dm] bet you wondered how I knew
 'Bout your [A7] plan to make me [G] blue
 With some other [Dm] GUY that you knew before
 Between the two of us [A7] guys, you know I [G] love you more
-It took me by surPRI-[Bm]-ISE I must [G] say
-When I [Dm] found out yesterday
+It took me by SURPRI-[Bm]-ISE I must [G] say
+When I [Dm] found out yester-day
 
 Ooh-ooh, [Dm] I heard it through the grapevine
 Not much [G] longer would you be mine
@@ -20,7 +27,7 @@ Ooh-ooh, [Dm] I heard it through the grapevine
 And I'm [G] just about to lose my mind
 Honey, honey [Dm] yeah
 
- [Dm] +riff x4
+[Dm] + riff x4
 
 You know [Dm] that a man ain't supposed to cry
 But these [A7] tears I can't hold [G] inside
@@ -35,13 +42,13 @@ Ooh-ooh, [Dm] I heard it through the grapevine
 And I'm [G] just about to lose my mind
 Honey, honey [Dm] yeah
 
- [Dm] + riff x4
+[Dm] + riff x4
 
 People say [Dm] ha-alf from what you see
 Nah-nah-[A7]none from what you [G] hear
 I can't [Dm] HELP but bein' confused
 If it's [A7] true, won't you [G] tell me here?
-Do you [Bm]PLA-AN to let me go-o
+Do you [Bm] PLA-AN to let me go-o
 For the other [Dm] guy that you knew [G] before?
 
 Ooh-ooh, [Dm] I heard it through the grapevine
@@ -49,4 +56,7 @@ Not much [G] longer would you be mine
 Ooh-ooh, [Dm] I heard it through the grapevine
 And I'm [G] just about to lose my mind
 Honey, honey [Dm] yeah
- [Dm] +riff x4
+
+[Dm] +riff x4
+ 
+<--! RIP SOLO, chords like in verse and chorus-->
