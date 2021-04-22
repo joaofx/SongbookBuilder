@@ -1,41 +1,51 @@
-{t: Why Don't You Get A Job? }  
-{artist: The Offspring}  
+{t: Why Don't You Get A Job? } 
+{artist: The Offspring} 
 {level: Easy}
-{spotify: spotift_id }
+{spotify:0sNKiz82ATCvT3f3XVVUUj}
 
+<--! denceing the strum along -->
+[NC] 
 My friend's got a girlfriend, man, he hates that bitch
 He tells me every day
 He says, "Man, I really gotta lose my chick
 In the worst kind of way"
-She sits on her ass, he works his hands to the bone
-To give her money every payday
-But she wants more dinero just to stay at home
-Well, my friend, you gotta say
-I won't pay, I won't pay ya, no way
-Na-na, why don't you get a job?
-Say no way, say no way-ah, no way
-Na-na, why don't you get a job?
-I guess all his money, well, it isn't enough
-To keep the bill collectors at bay
-I guess all his money, well, it isn't enough
-'Cause that girl's got expensive taste
-I won't pay, I won't pay ya, no way
-Na-na, why don't you get a job?
-Say no way, say no way-ah, no way
-Na-na, why don't you get a job?
-Well, I guess it ain't easy doing nothing at all, oh yeah
-But, hey man, free rides just don't come along every day
+
+[F] She sits on her ass, [Bb] he works his hands to the bone
+[F] To give her money every [C] payday
+[F] But she wants more dinero just to [Bb] stay at home
+Well, my [F//] friend, you [C//] gotta [F] say
+
+[F] I won't pay, I won't pay ya, [Bb] no way
+[F//] Na-na, why [C//] don't you get a [F] job?
+[F] Say no way, say no way-ah, [Bb] no wa-a-a-ay
+[F//] Na-na, why [C//] don't you get a [F//] job?
+
+[F] I guess all his money, well, it [Bb]isn't enough
+[F] To keep the bill collectors at [C] bay
+[F] I guess all his money, well, it [Bb]isn't enough
+'Cause that [F//] girl's got [C//] expensive [F] taste
+
+[F] I won't pay, I won't pay ya, [Bb] no way
+[F//] Na-na, why [C//] don't you get a [F] job?
+[F] Say no way, say no way-ah, [Bb] no wa-a-a-ay
+[F//] Na-na, why [C//] don't you get a [F//] job?
+
+[Bb] Well, I guess it ain't easy doing nothing at [F] aaaall, oh yeah
+[Bb] But, hey man, free rides just don't come [G] along every [C] day
 (Let me tell you about my other friend now)
-My friend's got a boyfriend, man, she hates that dick
-She tells me every day
-He wants more dinero just to stay at home
-Well, my friend, you gotta say
-I won't pay, I won't pay ya, no way
-Na-na, why don't you get a job?
-Say no way, say no way-ah, no way
-Na-na, why don't you get a job?
-I won't give you no money, I always pay
-Na-na, why don't you get a job?
-Say no way, say no way-ah, no way
-Na-na, why don't you get a job?
-<--!Hey, that's something everyone can enjoy-->
+
+[F] My friend's got a boyfriend, man, she [Bb] hates that dick
+[F] She tells me every [C] day
+[F] He wants more dinero just to [Bb] stay at home
+Well, my [F//] friend, you [C//] gotta [F] say
+
+[F] I won't pay, I won't pay ya, [Bb] no way
+[F//] Na-na, why [C//] don't you get a [F] job?
+[F] Say no way, say no way-ah, [Bb] no wa-a-a-ay
+[F//] Na-na, why [C//] don't you get a [F//] job?
+
+[F] I won't pay, I won't pay ya, [Bb] no way
+[F//] Na-na, why [C//] don't you get a [F] job?
+[F] Say no way, say no way-ah, [Bb] no wa-a-a-ay
+[F//] Na-na, why [C//] don't you get a [F//] job?
+<--!Hey, that's something everyone can enjoy???-->
