@@ -3,6 +3,11 @@
 {level: Easy }
 {spotify: h5qhbJhRw3Q5s41Jt6JmFw0?}
 
+
+info:
+* different key than orginal
+* uppercase for parts that are sang higher
+<--!alternative to riff-->
 <pre>
 riff:
 A|---------------|---------------|
