@@ -1,0 +1,57 @@
+{t:Raindrops Keep Fallin’ on my Head}
+{artist:B J Thomas}
+{level:Hard}
+{youtube:sySlY1XKlhM}
+{spotify:oOnOS4xNZOMpCT0lKTNo2}
+{new:}
+
+info:
+- different key than original
+- Am instead of Am7 <!-- first more obvious, second sounds nicer-->
+<!-- ways of simplifying
+*** second option gives us less switches between chords (6 instances below)
+## skipping Gmaj7 single strums (2 instances below)
+all instances of Gmaj7 could be changed to Bm7 to make it more beginner friendly, it sounds close enough
+-->
+
+intro:
+[G]...[D]...[C]...[D]...
+
+[G] Raindrops keep fallin’ on my [Gmaj7] head
+And [G7] just like the guy whose feet are [Cmaj7] too big for his 
+[Bm7//] bed… [E7//] nothin’ seems to [Bm7//] fit… [E7//] those
+[Am7] Raindrops are fallin’ on my [Am7] head, they keep fallin’ 
+
+[C/] So [C/] I [D/] just <!--***or easier [D7/] So [D7/] I [D7/] just-->
+[G] Did me some talkin’ to the [Gmaj7] sun
+And [G7] I said I didn’t like the [Cmaj7] way he’d got things 
+[Bm7//] Done [E7//] sleepin’ on the [Bm7//] job [E7//] those
+[Am7] Raindrops are fallin’ on my [Am7] head, they keep fallin’ 
+
+[C/] But [C/] there’s [D/] one <!--C D as in ***-->
+[G] Thing… I [Gmaj7] know
+The [C] blues they sent to [D] meet me won’t
+De[Bm7]feat me... it [Bm7] won’t be long ‘til
+[E7] happiness steps [Am7] up to greet me
+([C//] [D/]) ([C//] [D/])
+
+[G] Raindrops keep fallin’ on my [Gmaj7] head
+But [G7] that doesn’t mean my eyes will [Cmaj7] soon be turning 
+[Bm7//] Red [E7//] cryin’s not for [Bm7//] me [E7//] 'cause
+[Am7] I’m never gonna stop the [Am7] rain by complainin’
+[C/] Be[C/]cause [D/] I’m [G] free [Gmaj7/] <!--## Gmaj7 optional cause it changes really fast to Am, C//D/ as in ***-->
+
+[Am7/] Nothin’s [D//] worryin’ [G] me... <!--Am7//D/ as in ***-->
+[Gmaj7] ...[C] ... [D] ...[Bm7] ...
+It [Bm7] won’t be long ‘til
+[E7] happiness steps [Am7] up to greet me
+([C//][D/]) ([C//][D/])
+
+[G] Raindrops keep fallin’ on my [Gmaj7] head
+But [G7] that doesn’t mean my eyes will [Cmaj7] soon be turning 
+[Bm7//] Red [E7//] cryin’s not for [Bm7//] me [E7//] cos
+[Am7] I’m never gonna stop the [Am7] rain by complainin’
+[C/] Be[C/]cause [D/] <!--C//D/ as in ***-->
+[G] Free-e [Gmaj7/] <!-- Gmaj7/ as in ##-->
+(slower)
+[Am7/] nothin’s [D/] worryin’ ...[Gmaj7/] me-e-e [G/] <!--Am7/D/ as in *** -->

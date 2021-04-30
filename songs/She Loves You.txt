@@ -2,12 +2,9 @@
 {artist: The Beatles}  
 {level:Medium}  
 {youtube:NN50dnljfZQ}
-{new:}
 
 Ps:
-- [D7] can be done easily. Finger 2 1st string 2nd fret AND finger 3 3rd string 2nd fret
 - Key is different than original (starts in Em)
-- Attention the the pauses at the Chorus
 
 Intro: (1 . 2 . 1 2 3 .)
 

@@ -2,7 +2,6 @@
 {artist:David Bowie}  
 {level:Medium}
 {spotify:4mWahKerLaVddUjb8d1Q4Q}
-{new:}
 
 [riff]: string E: (5 5 5 3 . 6 5 3)
 

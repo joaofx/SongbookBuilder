@@ -18,6 +18,7 @@ Intro:
 [Cmaj7//] Here comes the [A7//] sun   
 And I say, [G//] it’s alright. (stop)
 
+<!-- [Am7/] [G/] [Am7/] [G/] | [G//] [D7//] -->
 [riff 2]... [G//] [D7//]
 
 [G] Little darling, it’s been a [Cmaj7//] long cold lonely [D7//] winter.   
