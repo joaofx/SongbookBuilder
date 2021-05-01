@@ -1,7 +1,6 @@
 {t: California Dreaming }  
 {artist:The Mamas and the Papas}  
 {level:Hard}
-{new:}
 {youtube:lnJbP4rO6R4}
 
 (Ps: 

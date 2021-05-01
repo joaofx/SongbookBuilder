@@ -4,7 +4,6 @@
 {youtube:mGUjVbsYG6E}
 {new:}
 
-
 [G] So you're on the [B] prowl wondering  whether [C]
 She left already or not [C]
 [Am] Leather jacket, collar [D] popped like Cantonna [G]
@@ -12,7 +11,6 @@ Never knowing when to stop [G]
 [G] Sunglasses indoors, [B] par for the course
 [C] Lights in the floors and [C] sweat on the walls [Am]
 [D] Cages and [G] poles [G]
-
 
 [G] Call off the search for your [B] soul
 Or put it on [C] hold again
@@ -61,7 +59,9 @@ Party [D] anthem, [D] oh
 [B] Come on, come on, come [C] on 
 [Em] Come on, come on, come [Am] on 
 [D] Come on, come on, come [G] on 
+
 <b>(strumming)</b>
+
 [B] Come on, come on, come [C] on 
 [C] Before the moment's go-[G]-one 
 Number [C//] one [Cm//] party [G] anthem

@@ -1,7 +1,6 @@
 {t: Shake it Off }  
 {artist:Taylor Swift}  
 {level:Easy}  
-{new:}  
 {youtube:oOURjK5Hl1k}
 
 Intro: (mute strums)

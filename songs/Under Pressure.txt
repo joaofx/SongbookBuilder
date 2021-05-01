@@ -10,19 +10,29 @@ E|-3--5--|
 C|-------|
 G|-------|
 </pre>
+
+<pre>
+bass:
+A|-5-5-5-555-x---|
+E|-x-x-x-xxx-5---|
+C|-2-2-2-222-x---|
+G|-x-x-x-xxx-2---|
+</pre>
+
 Intro:
 
 <b>(bass) + (riff 1)
 (bass) + (riff 1)</b>
 
 <b>(finger picking) + (bass) + (riff 1)</b>
+[D]... [A]... [G]... [A]...
 [D] Doom doom bah deh  [A] Doom doom ba deh [G] Doom doom bah [A] Deh deh
 [D] Pressure… pushing [A] down on me … Pressing [G] down on you, no man ask [A] for
 Under [D] pressure… that burns a [A] building down… Splits a [G] family in two  
 Puts [A] people on streets
 [D] Mmmm bah bah deh [A] Doom bah bah deh [G] Plee deh dah [A] Ee deh dah, that's Ok
  
-<b>(horse strumming)</b>
+<b>(metal strumming)</b>
 It's the [G] terror of knowing what the [A] world is about
 [G] Watching some good friends screaming  …  [A] "Let me out!"
 Pray to-[G]-morrow gets me [A] higher, 
@@ -38,7 +48,7 @@ Day day de mm hm  Da da da ba ba  Okay
 [D] People on streets   …   Dee da  Dee [A] da day 
 [G] People on streets   …   Dee da  Dee [A] da dee da dee da
  
-<b>(horse strumming)</b>
+<b>(metal strumming)</b>
 It's the [G] terror of knowing what the [A] world is about
 [G] Watching some good friends screaming  …  [A] "Let me out!"
 Pray to-[G]-morrow gets me [A] high, high, high___________
@@ -51,22 +61,21 @@ Keep [G/] coming up with love but it's so [C/] slashed and torn
 
 <b>(down down strumming)</b>
 [A] Love, love, love, love, love
-[A] Insanity laughs under pressure we're breaking
+[A] Insanity laughs under pressure we're breaking. Can't we
   
-<b>(horse strumming)</b>
-[A] Can't we [D] give ourselves one more [G] chance? [A]
-[A] Why can't we [D] give love that one more [G] chance? [A]
-[A] Why can't we [D] give love, give love, [G] give love, give love
+<b>(metal strumming)</b>
+[D] give ourselves one more [G//] chance? 
+[A//] Why can't we [D] give love that one more [G//] chance? 
+[A//] Why can't we [D] give love, give love, [G] give love, give love
 [D] Give love, give love, [A] give love, give love?
 
-[A] Because [G] love's such an [A] old fashioned [D] word and love [A] dares you to [G] care for
-The [A] people on the (people on streets) [D] edge of the [A] night
-[A] And love (people on streets) [G] dares you to [A] change our way of
-[G] Caring a-[A]-bout ourselves   [G] This is our [A] last dance
-[G] This is our [A] last chance    [D/] This [D/] is   [A/] our - [G/] selves [A/]
+Because [G] love's such an [A] old fashioned [D] word and love [A] dares you to [G] care for
+The [A] people on the [D] edge of the [A] night
+[A] And love [G] dares you to [A] change our way of
+[G] Caring a-[A]-bout ourselves [G] This is our [A] last dance
+[G] This is our [A] last chance [D/] This [D/] is   [A/] our - [G/] selves [A/]
 
 Under pressure
 (bass) + (riff 1)
 (bass) + (riff 1)
-(bass) 
-[G/] [G/] [A/]
+(bass) [G/] [A/]
