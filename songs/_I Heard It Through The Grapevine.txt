@@ -6,7 +6,7 @@
 
 info:
 * different key than orginal
-* uppercase for parts that are sang higher
+* uppercase is for parts that are sang higher
 <--!alternative to riff-->
 <pre>
 riff:
@@ -22,7 +22,7 @@ intro:
 Ooh-ooh, [Dm] bet you wondered how I knew
 'Bout your [A7] plan to make me [G] blue
 With some other [Dm] GUY that you knew before
-Between the two of us [A7] guys, you know I love you [G] more <--!G check-->
+Between the two of us [A7] guys, you know I love you [G] more 
 It took me by SURPRI-[Bm]-ISE I must [G] say
 When I [Dm] found out yester-[G]-day
 
