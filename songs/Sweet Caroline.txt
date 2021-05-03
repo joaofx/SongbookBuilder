@@ -1,6 +1,5 @@
 {t:Sweet Caroline}  
 {artist:Neil Diamond}  
-{new:}
 {level:Medium}
 {youtube:zwde7-Wn_Aw}
 

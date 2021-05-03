@@ -3,7 +3,6 @@
 {key:Am}
 {level:Easy}
 {spotify:2Foc5Q5nqNiosCNqttzHof}
-{new:}
 
 4 beats per chord
 

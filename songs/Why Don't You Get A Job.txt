@@ -1,4 +1,4 @@
-{t: Why Don't You Get A Job? } 
+{t: Why Don't You Get A Job } 
 {artist: The Offspring} 
 {level: Easy}
 {spotify:0sNKiz82ATCvT3f3XVVUUj}
