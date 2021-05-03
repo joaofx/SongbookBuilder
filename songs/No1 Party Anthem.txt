@@ -12,7 +12,6 @@ Never knowing when to stop [G]
 [C] Lights in the floors and [C] sweat on the walls [Am]
 [D] Cages and [G] poles [G]
 
-
 [G] Call off the search for your [B] soul
 Or put it on [C] hold again
 She's [C] having a sly indoor [Am] smoke
@@ -22,6 +21,7 @@ As all the [C] signals are sent, [C] her eyes invite you to [Am] approach
 And it seems as [D] though those lumps in your [Cm] throat
 That you just [D] swallowed have got you going [G]
 
+<b>(fingerstyle)</b>
 [B] Come on, come on, come [Em] on 
 [G7] Come on, come on, come [C] on 
 Number [Cm] one party [G] anthem 
@@ -36,9 +36,11 @@ It's [C] not like I'm falling in [C] love, I just want you
 To [Am] do me no [D] good
 And you look [Cm] like you cou-[D]-uld  [G]
 
+<b>(fingerstyle)</b>
 [B] Come on, come on, come [Em] on 
 [G7] Come on, come on, come [C] on 
 Number [Cm] one party [G] anthem
+<b>(strumming)</b>
 [B] Come on, come on, come [Em] on 
 [G7] Before the moment's go-[C]-one 
 Number [Cm] one party [G] anthem, [G7] yeah, yeah
@@ -51,11 +53,15 @@ The good time [Am] girls, the cubi[Em]cles
 The house of [Am] fun, the number [C] one [C]
 Party [D] anthem, [D] oh
 
-[G][G][Em][G7][C][Cm][G]
+<b>(fingerstyle)</b>
+[G][B][Em][G7][C][Cm][G]
 
 [B] Come on, come on, come [C] on 
 [Em] Come on, come on, come [Am] on 
 [D] Come on, come on, come [G] on 
+
+<b>(strumming)</b>
+
 [B] Come on, come on, come [C] on 
 [C] Before the moment's go-[G]-one 
 Number [C//] one [Cm//] party [G] anthem
