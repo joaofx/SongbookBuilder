@@ -3,7 +3,7 @@
 {level: Easy}
 {spotify:0sNKiz82ATCvT3f3XVVUUj}
 
-<--! denceing the strum along -->
+<!-- denceing the strum along -->
 [NC] 
 My friend's got a girlfriend, man, he hates that bitch
 He tells me every day
@@ -48,4 +48,4 @@ Well, my [F//] friend, you [C//] gotta [F] say
 [F//] Na-na, why [C//] don't you get a [F] job?
 [F] Say no way, say no way-ah, [Bb] no wa-a-a-ay
 [F//] Na-na, why [C//] don't you get a [G] jo-[C]-o-[F/]-ob?
-<--!Hey, that's something everyone can enjoy???-->
+<!--Hey, that's something everyone can enjoy???-->

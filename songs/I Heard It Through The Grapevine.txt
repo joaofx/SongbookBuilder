@@ -7,7 +7,7 @@
 info:
 * different key than orginal
 * uppercase is for parts that are sang higher
-<--!alternative to riff-->
+<!--alternative to riff-->
 <pre>
 riff:
 A|---------------|---------------|
@@ -64,4 +64,4 @@ Honey, honey [Dm] yeah
 
 [Dm] +riff x4
  
-<--! RIP SOLO, chords like in verse and chorus-->
+<!-- RIP SOLO, chords like in verse and chorus-->
