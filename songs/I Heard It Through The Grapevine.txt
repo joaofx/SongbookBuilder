@@ -2,6 +2,7 @@
 {artist: Creedence Clearwater Revival}  
 {level: Easy }
 {spotify: h5qhbJhRw3Q5s41Jt6JmFw0?}
+{new:}
 
 
 info:
