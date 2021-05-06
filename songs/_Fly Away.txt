@@ -1,7 +1,7 @@
 {t:Fly Away}
 {artist:Lenny Kravitz}
 
-<--!info:
+<!--info:
 * one [B] strum before [C]
 -->
 intro
