@@ -2,11 +2,12 @@
 {artist:The Velvet Underground}
 {level:Medium}<!-- this Ebm chord is just one time &one strum -->
 {youtube:fND_Y6OgsDs}
-{spotify:}
+{spotify:6cA1usDL8nTHeSgFewQat3}
 {new:}
 
 info:
 *key different than in orginal
+*Ebm chord is played by sliding Em partern up, and hitting only 3 strings (CEA)
 
 1, 2, 3
 
@@ -26,8 +27,8 @@ Leave the [C] wineglass [A7] out
 And [Dm] drink a toast to [G] never
 Oh, [C] someday I know
 Someone will [C7] look into my eyes
-And say [F/] hello
-You're my very special [Fm/] one
+And say [F/] "hello - 
+You're my very special [Fm/] one"
 But if you [C] close the [A7] door
 I'd [Dm//] never have to [G//] see the day [C//] again [B//] 
 <b>(down down strum)</b>
