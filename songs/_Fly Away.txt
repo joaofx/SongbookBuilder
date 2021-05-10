@@ -1,5 +1,9 @@
 {t:Fly Away}
 {artist:Lenny Kravitz}
+{level: Easy }
+{spotify:1OxcIUqVmVYxT6427tbhDW}
+{youtube: EvuL5jyCHOw } 
+{new:}
 
 <!--info:
 * one [B] strum before [C]
