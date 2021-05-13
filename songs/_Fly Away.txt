@@ -1,42 +1,52 @@
 {t:Fly Away}
 {artist:Lenny Kravitz}
+{level: Easy }
+{spotify:1OxcIUqVmVYxT6427tbhDW}
+{youtube: EvuL5jyCHOw } 
+{new:}
 
+<!--info:
+* one [B] strum before [C]
+-->
 intro
 [A] ... [C] ... [G] ... [D] ... (4x)
 
-A C G D
-1 I wish that I could fly into the sky so very high
-A C - G - D
-just like a dragonfly
-A C G D
-I'd fly above the trees over the seas in all degrees
-A C - G - D
-to anywhere I please Oh
+[A]- I wish that [C] I could fly [G]- into the sky  [D]- so very high
+[A]- just like a [C] dragonfly [G] ... [D] ...
+[A]- I'd fly [C] above the trees  [G]- over the seas  [D]- in all degrees
+[A]-to any[C]where I please  [G]   [D] Oh
 
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
 
-A C G D
-Let's go and see the stars the milky way or even Mars
-A C - G - D
-where it could just be ours
-A C G D
-Let's fade into the sun, let your spirit fly where we are one,
-A C G D
-just for a little fun Oh oh oh yeah
+[A]- Let's go and  [C] see the stars  [G] the milky way  [D] or even Mars
+[A]- where it could  [C] just be ours [G] ... [D] ...
+[A]- Let's fade in[C]to the sun, [G]  let your spirit fly [D] where we are one,
+[A]- just for a [C] little fun [G] Oh oh [D] oh yeah
 
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yea
 
-A ? C ? G ? D (4x)
+[A] ... [C] ... [G] ... [D] ... (4x)
 
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
-A C G D A C G D
-I want to get away I want to fly away yeah yeah yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
+(I got to get away!)
 
-Source: www.ukulele-tabs.com
+[A] I want to  [C] get away  [G] I want to  [D] get away
+[A] I want to  [C] get away  [G] I want to  [D] get away .. yeah!
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
+(Girl I got to get away!)
+
+[A] I want to  [C] get away  [G] I want to  [D] get away
+[A] I want to  [C] get away  [G] I want to  [D] get away .. yeah!
+[A] I want to  [C] get away  [G] I want to  [D] fly 
+a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah 
+Yeah yeah yeah yeah yeah!

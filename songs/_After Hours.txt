@@ -1,0 +1,50 @@
+{t:After Hours}
+{artist:The Velvet Underground}
+{level:Medium}<!-- this Ebm chord is just one time &one strum -->
+{youtube:fND_Y6OgsDs}
+{spotify:6cA1usDL8nTHeSgFewQat3}
+{new:}
+
+info:
+*key different than in orginal
+*Ebm chord is played by sliding Em partern up, and hitting only 3 strings (CEA)
+
+1, 2, 3
+
+If you [C] close the [A7] door
+The [Dm] night could last for[G]ever
+Leave the [C] sunshine [A7] out
+And [Dm] say hello to [G] never
+All the [C] people are dancing
+And they're [C7] having such fun
+I [F] wish it could happen to [Fm/] me [stop] 
+But if you [C] close the [A7] door
+I'd [Dm//] never have to [G//] see the day [C] again
+
+If you [C] close the [A7] door
+The [Dm] night could last [G] forever
+Leave the [C] wineglass [A7] out
+And [Dm] drink a toast to [G] never
+Oh, [C] someday I know
+Someone will [C7] look into my eyes
+And say [F/] "hello - 
+You're my very special [Fm/] one"
+But if you [C] close the [A7] door
+I'd [Dm//] never have to [G//] see the day [C//] again [B//] 
+<b>(down down strum)</b>
+[Em] Dark party bars, shiny [B] Cadillac cars
+And the [Em//] people on [B//] subways and [Em//] trains [Ebm/] [Em/] <!-- check -->
+Looking [Am] gray in the rain as they [Am] stand disarrayed
+Oh, but [Dm/] people look [Dm/] well in the [G/] dark [stop] 
+<b>(normal strum)</b>
+If you [C] close the [A7] door
+The [Dm] night could last for[G]ever
+Leave the [C] sunshine [A7] out
+And [Dm] say hello to [G] never
+All the [C] people are dancing
+And they're [C7] having such fun
+I [F] wish it could happen to [Fm] me
+But if you [C] close the [A7] door
+I'd [Dm//] never have to [G//] see the day [C//] again [A7//] 
+I'd [Dm//] never have to [G//] see the day [C//] again [A7//], once more
+I'd [Dm//] never have to [G//] see the day [C/] again
