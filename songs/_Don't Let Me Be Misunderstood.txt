@@ -1,6 +1,6 @@
 {t:Don't Let Me Be Misunderstood}
 {artist:Animals/Krakow Street Band}
-{level:Medium}<!??? maybe easy with easier version of intro/bridge-->
+{level:Medium}<!--??? maybe easy with easier version of intro/bridge-->
 {youtube:CDbL51q0pNk}
 {spotify:}
 {new:}
