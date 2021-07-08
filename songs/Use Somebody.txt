@@ -1,7 +1,6 @@
 {t:Use Somebody}
 {artist:Kings Of Leon}
 {level:Easy}
-{new:}
 {youtube:Sc-2SbQJeXE}
 
 [C] Wohhh ohh Woahh [Em] Wohhh ohh Woahh 

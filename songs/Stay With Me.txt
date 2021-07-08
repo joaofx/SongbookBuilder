@@ -3,7 +3,6 @@
 {artist:Sam Smith}  
 {level:Easy}  
 {spotify:5Nm9ERjJZ5oyfXZTECKmRt}
-{new:}
 
 Intro: 
 [Am/] [F/] [C/] (1, 2, 3, 4)

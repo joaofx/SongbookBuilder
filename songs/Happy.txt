@@ -2,7 +2,6 @@
 {artist:Pharrell Williams}  
 {level:Medium}  
 {spotify:60nZcImufyMA1MKQY3dcCH}  
-{new:}
 {c: } 
 
 (Intro: 5 single strums)
