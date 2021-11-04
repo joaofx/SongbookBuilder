@@ -2,7 +2,6 @@
 {artist:Simon & Garfunkel}  
 {level:Medium}  
 {spotify:0iOZM63lendWRTTeKhZBSC}  
-{new:}
 
 Intro:
 [E7]... [E7]...

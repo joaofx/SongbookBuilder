@@ -1,7 +1,6 @@
 {t:La Bamba}  
 {artist:Ritchie Valens}  
 {level:Easy}
-{new:}
 
 2 beats for [C] or [F]
 4 beats for [G]

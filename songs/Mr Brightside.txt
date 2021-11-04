@@ -1,14 +1,13 @@
-{t:Mr. Brightside}
+{t:Mr Brightside}
 {artist:The Killers}
 {level:Easy}
 {youtube:gGdGFtwCNBE}
-{spotify:0C0XlULifJtAgn6ZNCW2eu}
+{spotify:003vvx7Niy0yvhvHt4a68B}
 {new:}
 
 info:
 * different key than orginal
 <!--* instead od second F in verse Fsus2-->
-
 
 [C]..[Cmaj7]..[F]..[F].. x2
 
@@ -60,10 +59,10 @@ They're ta[F]king control
 [G] Open up my [C] eager eyes [F], 
 'cause [Am] I'm Mr. Brigh[G]tside
 
-<!--[solo]-->
 [C]..[F]..[Am]..[G] x2
 
 I ne[C]ver ..[F]..[Am]..[G]
 I ne[C]ver ..[F]..[Am]..[G]
 I ne[C]ver ..[F]..[Am]..[G]
 I ne[C]ver ..[F]..[Am]..[G]
+[C/]

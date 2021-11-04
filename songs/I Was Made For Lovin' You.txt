@@ -3,16 +3,15 @@
 {level:Medium}
 {youtube:ZhIsAZO5gl0}
 {spotify:07q0QVgO56EorrSGHC48y3}
-{new:}
 
 <b>Riffs are optional</b>
 
 <pre>
 riff 1:
 A|--------------------|-5-3---7-7-5--------|
-E|-0-0---0-0-0--------|-5-5---5-5-5--------|
-C|--------------------|--------------------|
-G|-2-0---2-2-0--------|--------------------|
+E|-5-3---5-5-3--------|-5-5---5-5-5--------|
+C|-4-4---4-4-4--------|--------------------|
+G|--------------------|--------------------|
 </pre>
 
 <pre>
@@ -24,7 +23,6 @@ G|--------------------|--------------------|
 </pre>
 
 Intro: 
-(palm mute) 
 [Em]... [Em]...
 
 (riff 1)
@@ -64,15 +62,6 @@ And [Em] I can't get enough of you, baby
 [Am] You were made for loving me
 And [Em] I can give it all to you, baby
 [Am] Can you give it all to [D] me?
-
-(bridge) <!-- optional - it is easier to sing octav lower than in original-->
-[Am//]... [Cmaj7//]... [D//] O-oh [D//]...
-can't get [Am//] eno-[Cmaj7]-ough, [D//] oh, [D//] oh 
-can't get [Am//] eno-[Cmaj7//]-ough, [D//] oh, [D//] oh                                       
-I can't get [Am//] eno-[Cmaj7//]-ough,
-
-<b>(down down strumming)</b>
-[D//] [A/] [B]... [B]...
 
 [Em] Doo doo doo doo-doo doo-doo doo doo
 [Am] Doo doo doo doo-doo doo-doo

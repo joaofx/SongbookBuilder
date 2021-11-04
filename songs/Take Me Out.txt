@@ -2,7 +2,6 @@
 {artist:Fraz Ferdinand}  
 {level:Medium}  
 {spotify:6ooluO7DiEhI1zmK94nRCM}
-{new:}
 
 Intro:
 [E/] 

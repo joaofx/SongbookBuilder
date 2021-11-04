@@ -33,14 +33,20 @@ namespace SongbookBuilder
             
             SaveSongs(songs);
             SaveIndex(songs);
-            SaveFilter(songs.Where(m => m.IsNew), "new.html");
-            SaveFilter(songs.Where(m => m.Level == "Easy"), "easy.html");
-            SaveFilter(songs.Where(m => m.Level == "Easy" || m.Level == "Medium"), "medium.html");
+            SaveFilter(songs, songs.Where(m => m.IsNew), "new.html");
+            SaveFilter(songs, songs.Where(m => m.Level == "Easy"), "easy.html");
+            SaveFilter(songs, songs.Where(m => m.Level == "Easy" || m.Level == "Medium"), "medium.html");
+            SaveFilter(songs, songs.Where(m => m.Level == "Hard"), "hard.html");
         }
 
-        private static void SaveFilter(IEnumerable<Song> songs, string html)
+        private static void SaveFilter(IEnumerable<Song> allSongs, IEnumerable<Song> songs, string html)
         {
-            var result = IndexTemplate.Render(new { songs });
+            var totalEasy = allSongs.Count(x => x.Level == "Easy");
+            var totalMedium = allSongs.Count(x => x.Level == "Medium");
+            var totalHard = allSongs.Count(x => x.Level == "Hard");
+            var total = allSongs.Count();
+
+            var result = IndexTemplate.Render(new { songs, total, totalEasy = totalEasy, totalMedium, totalHard });
             File.WriteAllText(Path.Combine(OutputPath, html), result);
         }
 
@@ -141,6 +147,10 @@ namespace SongbookBuilder
                     
                     song.Artist = artist;
                 }
+                else if (line.StartsWith("{nosticky:"))
+                {
+                    song.Sticky = false;
+                }
                 else if (line.StartsWith("{"))
                     continue;
                 else
@@ -178,7 +188,12 @@ namespace SongbookBuilder
         
         private static void SaveIndex(List<Song> songs)
         {
-            var result = IndexTemplate.Render(new { songs });
+            var totalEasy = songs.Count(x => x.Level == "Easy");
+            var totalMedium = songs.Count(x => x.Level == "Medium");
+            var totalHard = songs.Count(x => x.Level == "Hard");
+            var total = songs.Count();
+
+            var result = IndexTemplate.Render(new { songs, total, totalEasy = totalEasy, totalMedium, totalHard });
             File.WriteAllText(Path.Combine(OutputPath, $"index.html"), result);
         }
         

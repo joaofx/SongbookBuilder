@@ -5,10 +5,7 @@
 {youtube: EvuL5jyCHOw } 
 {new:}
 
-<!--info:
-* one [B] strum before [C]
--->
-intro
+Intro:
 [A] ... [C] ... [G] ... [D] ... (4x)
 
 [A]- I wish that [C] I could fly [G]- into the sky  [D]- so very high
@@ -31,22 +28,11 @@ a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
 [A] I want to  [C] get away  [G] I want to  [D] fly 
 a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yea
 
-[A] ... [C] ... [G] ... [D] ... (4x)
-
-[A] I want to  [C] get away  [G] I want to  [D] fly 
-a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
-[A] I want to  [C] get away  [G] I want to  [D] fly 
-a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
-(I got to get away!)
-
-[A] I want to  [C] get away  [G] I want to  [D] get away
-[A] I want to  [C] get away  [G] I want to  [D] get away .. yeah!
-[A] I want to  [C] get away  [G] I want to  [D] fly 
-a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah
-(Girl I got to get away!)
+[A] ... [C] ... [G] ... [D] ... (2x)
 
 [A] I want to  [C] get away  [G] I want to  [D] get away
 [A] I want to  [C] get away  [G] I want to  [D] get away .. yeah!
 [A] I want to  [C] get away  [G] I want to  [D] fly 
 a[A]wa-a-ay  [C] yeah  [G] yeah  [D] yeah 
-Yeah yeah yeah yeah yeah!
+Yeah yeah yeah yeah yeah! [A/]
+

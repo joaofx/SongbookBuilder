@@ -15,7 +15,17 @@
         .chord { font-weight: bold; color:red}
         #tab { font-size: 80%; font-family: Verdana, Tahoma, sans-serif; }
         #options a {text-decoration: underline;}
-        .sticky { position: fixed; top: 0; margin-top: 0 !important; left: 0; padding: 0px 0px; width: 100%; border-bottom: 1px solid #cfd8dc;}
+        .sticky { 
+            position: fixed; 
+            top: 0; 
+            margin-top: 0 !important; 
+            left: 0; 
+            padding: 0px 0px; 
+            width: 100%; 
+            border-bottom: 1px solid #cfd8dc; 
+            /* overflow-x: auto;
+            white-space: nowrap; */
+        }
     </style>
 
 </head>
@@ -58,7 +68,7 @@
     </div>
     {{ end }}
 
-    <div class="mt-4">
+    <div class="mt-4" style="overflow-x: auto;">
         {{ for chord in song.chords }}
             <img src="/chords/{{chord}}.gif" alt="{{chord}}" title="{{chord}}" />
         {{ end }}
@@ -92,6 +102,7 @@
     ga('send', 'pageview');
 </script>
 
+{{ if song.sticky }}
 <script>
 window.onload = function initFloatingChords() {
 
@@ -133,5 +144,6 @@ window.onload = function initFloatingChords() {
     }
 }
 </script>
+{{ end }}
 </body>
 </html>
