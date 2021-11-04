@@ -3,9 +3,6 @@
 {artist:The Turtles}  
 {level:Medium} 
 
-Info:
-* in the ending <span style="color:gray"> this is second voice </span> 
-
 Imagine [Am] me and you I do   
 I think about you [G] day and night it's only right   
 To think about the [F] girl you love and hold her tight   
@@ -42,19 +39,11 @@ So happy to-[E7]gether [E7]
 No matter how they [G] toss the dice it has to be   
 The only one for [F] me is you and you for me    
 So happy to-[E7]gether (oo-oo-oo-oo)   
-(voice 1 is fading till end, voice 2 is getting louder)
 [Am] So happy to-[E7]gether (oo-oo-oo-oo) 
 [Am] how is the [E7] weather 
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] So happy to-[E7]gether 
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] we're happy to-[E7]gether 
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] So happy to-[E7]gether
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] happy to-[E7]gether 
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] So happy to-[E7]gether 
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>
 [Am] so happy to-[E7]gether [A/]
-<span style="color:gray"> pa pa pa pa pa - pa pa pa pa pa</span>

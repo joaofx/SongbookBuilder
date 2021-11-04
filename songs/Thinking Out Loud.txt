@@ -3,53 +3,65 @@
 {key:D}
 {level:Medium}
 
-[D] When your legs don't work like they [G] used to be-[A]fore  
-[D] And I can't  sweep you off of your [G] feet [A] 
-[D] Will your  mouth still remember the [G] taste of my love [A] 
-[D] Will your  eyes still smile [G] from your cheeks [A] 
-{c: }                   
-And darling [D] I  will be loving [G] you [A] 'til we're seven-[D]ty   [G] [A] 
-And baby my [D]  heart could still fall [G] as [A] hard  at twenty[D]-three 
-[G] And I'm thinking '[A] bout how 
+info:
+*// means half beat <!--I gues:/-->
+<!-- I know that adding F#m isn't exactly siplification, at least chord-wise, but it is, when you take rythm into account-->
+<!-- so that way, it sounds better-->
+
+[D//] When your [F#m] legs don't work like they [G//] used to before [A].... 
+[D//] And I [F#m] can't sweep you off of your [G//] feet [A]....
+[D//] Will your [F#m] mouth still remember the [G//] taste of my love [A].... 
+[D//] Will your [F#m] eyes still smile [G//] from your cheeks [A].... 
+{c: }       
+And darling [D//] I [F#m] will be loving [G//] you [A] 'til we're seven-[D//]ty 
+[F#m].... [G//].. [A].... 
+And baby my [D//].. [F#m] heart could still fall [G//] as [A] hard at twenty[D//]-three [F#m]....
+[G//] And I'm thinking '[A] bout how 
 {c: } 
-[Em] People fall in love in mys-[A7]terious [D] ways
-[Em] Maybe just the touch of a [A7] hand
-Well [Em] me I fall in love with you [A7] every single [Bm] day 
-[Em] And I just wanna [G] tell you I [A7] am
-{c: }  
-So honey [D] now  [Bm] [G] 
-Take me [A] into your loving [D] arms [Bm] [G] 
-Kiss me [A] under the light of a [D] thousand [Bm] stars  [G] 
-Place your [A] head on my beating [D] heart [Bm] 
-I'm thinking [G] out [A] loud
-And maybe [Bm] we  [A] found [G] love [D] right [Em] where [A] we [D] are
+[Em] People fall in love in mys-[A//]terious [D//] ways
+[Em] Maybe just the touch of a [A] hand
+Well [Em] me I fall in love with you [A//] every single [Bm//] day 
+[Em] And I just wanna [G//] tell you 
+<b>(down-down strum)</b>
+I [A] am
+{c: } 
+So honey [D//] now [F#m].... [G//]..
+Take me [A] into your loving [D//] arms [F#m].... [G//].. 
+Kiss me [A] under the light of a [D//] thousand [F#m] stars [G//]..
+Place your [A] head on my beating [D//] heart [F#m].... 
+I'm thinking [G//] out [A] loud
+And maybe [Bm/] we [A/] found [G/] love [D/] right [Em/] where [A/] we [D/] are
 {c: }
-[D] And when my [D] head's over gone and my [G] memory fades [A]
-[D] And the [D] crowds don't remember my [G] name [A] 
-[D] When my [D] hands don't [G] play the strings the [A] same way, 
-I know [D] you will still love me the[G] same [A] 
-{c: }  
-Cause honey [D] your soul could never [G] grow [A] old it's ever-[D]green  [Bm] [G] [A] 
-And baby [D] your smile's forever [G] in my [A] mind and mem-[D]ory [Bm] [G] 
+[D//] And when my [F#m] hair's over gone and my [G//] memory fades [A]....
+[D//] And the [F#m] crowds don't remember my [G//] name [A]....
+[D//] When my [F#m] hands don't [G//] play the strings the [A] same way, 
+[D//] mmm... I know [F#m] you will still love me the [G//] same [A].... 
+{c: } 
+Cause honey [D//] your [F#m] soul could never [G//] grow [A] old 
+it's ever-[D//]green [F#m].... [G//].. [A].... 
+And baby [D//] your [F#m] smile's forever [G//] in my [A] mind 
+and mem-[D//]ory [F#m].... [G//]..
 And I'm thinking [A] 'bout how
 {c: }
-[Em] People fall in love in mys-[A7]terious [D] ways
-And [Em] maybe it's all part of a [A7] plan
-Well [Em] I'll just keep on making the [A7] same mis-[Bm]stakes
-[Em] Hoping that you'll under-[A7]stand
+[Em] People fall in love in mys[A//]te-erious [D//] ways
+And [Em] maybe it's all part of a [A] plan
+Well [Em] I'll continue making the [A//] same mis[Bm//]stakes
+[Em] Hoping that you'll 
+<b>(down-down strum)</b>
+under[A]sta-and
 {c: }
-That baby [D] now, [Bm] ooo[G] ooh
-Take me [A] into your loving [D] arms [Bm] [G] 
-Kiss me [A] under the light of a [D] thousand [Bm] stars  [G] 
-Place your [A] head on my beating [D] heart [Bm] 
-I'm thinking [G] out [A] loud
-And maybe [Bm] we  [A] found [G] love [D] right [Em] where [A] we [D] are
-{c: Play next line 4 times}  
-[D] [Bm] [G] [A] 
-So baby [D] now [Bm] [G] 
-Take me [A] into your loving [D] arms [Bm] [G] 
-Kiss me [A] under the light of a [D] thousand [Bm] stars, oh [G] darlin'
-Place your [A] head on my beating [D] heart [Bm] 
-I'm thinking [G] out [A] loud
+That baby [D//] now, [F#m] ooo[G//] ooh
+Take me [A] into your loving [D//] arms [F#m].... [G//].. 
+Kiss me [A] under the light of a [D//] thousand [F#m] stars [G//].. 
+Place your [A] head on my beating [D//] heart [F#m]....
+I'm thinking [G//] o-out [A] loud
+And maybe [Bm/] we [A/] found [G/] love [D/] right [Em/] where [A/] we [D/] are
+{c: Play next line 4 times} 
+[D//].. [F#m].... [G//].. [A].... <b>x4</b>
+So baby [D//] now [F#m].... [G//] ..
+Take me [A] into your loving [D//] arms [F#m].... [G//].. 
+Kiss me [A] under the light of a [D//] thousand [F#m] stars, oh [G//] darlin'
+Place your [A] head on my beating [D//] heart [F#m]....
+I'm thinking [G//] out [A] loud
 {c: Play next line 3 times} 
-And maybe [Bm] we  [A] found [G] love [D] right [Em] where [A] we [D] are
+And maybe [Bm/] we [A/] found [G/] love [D/] right [Em/] where [A/] we [D/] are <b>x3</b>
