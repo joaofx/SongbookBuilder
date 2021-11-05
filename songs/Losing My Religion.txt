@@ -5,6 +5,8 @@
 {spotify:31AOj9sFz2gM0O3hMARRBx}
 {todo: add bridge chords back}
 
+<iframe width="460" height="180" src="https://www.youtube.com/embed/_m7qYXjvAgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Intro: 
 [F] [Am] 
 [F] [Am//] 

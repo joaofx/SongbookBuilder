@@ -3,7 +3,6 @@
 {level:Easy}
 {spotify:390AWnOn2rfe9FzQjYmxIH}
 {key:D}
-{new:}
 
 Intro:
 [Em] [D] [A] [A]

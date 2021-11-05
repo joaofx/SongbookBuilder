@@ -3,8 +3,6 @@
 {level:Medium}
 {youtube:49FB9hhoO6c}
 {spotify:0KzAbK6nItSqNh8q70tb0K}
-{new:}
-
 
 Intro: 
 info: 
@@ -13,6 +11,7 @@ info:
 * explain riff
 * <span style="color:gray">"O-o-oh"</span>'s at end with second voice 
 <!--* riff could also be played during verses-->
+
 <pre>
 riff: 
  [F]         [Dm]        [A]         [Bb]

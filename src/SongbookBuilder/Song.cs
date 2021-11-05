@@ -21,6 +21,8 @@ namespace SongbookBuilder
         
         public bool IsNew { get; set; }
         
+        public bool Sticky { get; set; } = true;
+
         public StringBuilder Tab { get; set; }
 
         public List<string> Chords = new List<string>();

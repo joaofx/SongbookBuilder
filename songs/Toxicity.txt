@@ -1,0 +1,80 @@
+{t:Toxicity}
+{artist:System Of A Down}
+{level:Medium}
+{youtube:iywaBOMvYLI}
+{spotify:0snQkGI5qnAmohLE7jTsTn?}
+{new:}
+
+Ps: different key than the original
+Ps: 2 beats per chord
+
+<pre>
+riff:
+A|-7-7-7-7-7-7-7-7|-10-10-10-10-10-10-10-10|
+E|5-5-5-5-5-5-5-5-|8--8--8--8--8--8--8--8--|
+C|----------------|------------------------|
+G|----------------|------------------------|
+</pre>
+
+Intro:
+
+[riff]
+[riff]
+
+[Am/] xxx [Am/] xxx [F] [E7]
+[Am/] xxx [Am/] xxx [F] [E7]
+[Am] [Am] [F] [E7]
+[Am/] xxx [Am/] xxx [F] [E7]
+
+(softer with [riff])
+[Am] [C]
+[Am] [C]
+
+[Am] Conversion, [C] software version 7.0
+[Am] Looking at life through the eyes of a [C] tire hub
+[Am] Eating seeds as a [C] pastime activity
+[Am] The toxicity of our [C] city, of our city
+
+(chorus)
+[Am/] You, what do you own the [Am/] world 
+How do you own [F] disorder, [E7] disorder
+[Am/] Now, somewhere [Am/] between the sacred silence, 
+[F] sacred silence and [E7] sleep
+[Am] Somewhere [Am] between the [F] sacred silence and [E7] sleep
+[Am/] Disorder, [Am/] disorder, [F] diso[E7]rder
+
+(softer with [riff])
+[Am] [C]
+[Am] [C]
+
+[Am] More wood for their [C] fires, loud neighbors
+[Am] Flashlight reveries caught in the [C] headlights of a truck
+[Am] Eating seeds as a [C] pastime activity
+[Am] The toxicity of our [C] city, of our city
+
+(chorus)
+[Am/] You, what do you own the [Am/] world 
+How do you own [F] disorder, [E7] disorder
+[Am/] Now, somewhere [Am/] between the sacred silence, 
+[F] sacred silence and [E7] sleep
+[Am] Somewhere [Am] between the [F] sacred silence and [E7] sleep
+[Am/] Disorder, [Am/] disorder, [F] diso[E7]rder
+
+[Am] [Am] [Am] [Am]
+
+(chorus)
+[Am/] You, what do you own the world 
+How do you own [F] disorder, [E7] disorder
+[Am/] Now, somewhere [Am/] between the sacred silence, 
+[F] sacred silence and [E7] sleep
+[Am] Somewhere between the [F] sacred silence and [E7] sleep
+[Am/] Disorder [Am/] disorder, [F] diso[E7]rder
+
+[Am] [Am] [Am] [Am]
+
+(end)
+[Am//] When I be-[F//]-came the sun, 
+[Am//] I shone  life into the [F//] man's hearts
+[Am//] When I be-[F/]-came the sun, 
+[Am//] I shone life into the [F//] man'shearts
+[Am/]

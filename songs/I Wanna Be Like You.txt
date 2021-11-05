@@ -3,7 +3,6 @@
 {level:Medium}
 {spotify:117ktaeROQ4zkWmDiTAkPf}
 {youtube:K1L1u1gRoag}
-{new:}
 
 Intro:
 [Am]... [Am]... 

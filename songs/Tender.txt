@@ -5,13 +5,18 @@
 {spotify:42cxPm9jgbaxIVN77XA1m6}
 {new:}
 
-Intro:
-(quietly)
-[A]... [A]... [E7//] [A]..
-[A]... [A]... [E7//] [A]..
+<pre>
+riff 1:
+A|--------------------7---------------------|
+E|---7-9-7--------7-9---9---9--9-7---7-7----|
+C|-9-------9----9------------------------9--|
+G|------------------------------------------|
+</pre>
 
-(louder)
-[A]... [A]...
+Intro:
+(quietly - riff 1)
+[A]... [A]... [E7//] [A]..
+[A]... [A]... [E7//] [A]..
 
 [A] Tender is the night .. [G//] lying by your [A] side
 [A] Tender is the touch .. of [G//] someone that you [A] love too much

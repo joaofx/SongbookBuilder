@@ -25,9 +25,10 @@ ul { list-style: none; padding-left: 0px; }
 
         <div id="options" class="mt-2">
             <ul class="list-unstyled">
-                <li><a href="index.html"><strong>All songs</strong></a></li>
-                <li><a href="easy.html" class="text-success">Easy songs</a></li>
-                <li><a href="medium.html" class="text-info">Easy and medium songs</a></li>
+                <li><a href="index.html"><strong>All songs ({{ total }})</strong></a></li>
+                <li><a href="easy.html" class="text-success">Easy songs  ({{ total_easy }})</a></li>
+                <li><a href="medium.html" class="text-info">Easy and medium songs  ({{ total_easy }} + {{ total_medium }})</a></li>
+                <li><a href="hard.html" class="text-danger">Hard songs  ({{ total_hard }})</a></li>
                 <li><a href="new.html" class="text-warning">New songs</a></li>
             </ul>
         </div>

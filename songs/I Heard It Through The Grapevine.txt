@@ -1,10 +1,8 @@
-{t: I Heard It Through The Grapevine }  
-{artist: Creedence Clearwater Revival}  
-{level: Easy }
-{spotify: h5qhbJhRw3Q5s41Jt6JmFw0}
-
-{new:}
-
+{t:I Heard It Through The Grapevine }  
+{artist:Marvin Gaye}  
+{level:Easy }
+{spotify:1tqT6DhmsrtQgyCKUwotiw}
+{youtube:gFGV7QYlY1g}
 
 info:
 * different key than orginal
