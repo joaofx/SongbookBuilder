@@ -1,4 +1,4 @@
-{t: Shine Happy People }  
+{t: Shiny Happy People }  
 {artist: REM }  
 {level: Medium}  
 {youtube: HL4uh_erpD8}
