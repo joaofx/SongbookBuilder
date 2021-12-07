@@ -1,0 +1,23 @@
+{t:White Christmas}
+{artist:Bing Crosby}
+{level:Medium}
+{youtube:w9QLn7gM-hY}
+{new:}
+
+Info:
+* repeat twice 
+
+Intro: 
+[G] 
+
+[G] I'm [G] dreaming of a [Am] white [D] Christmas
+[C] Just like the [Am] ones I used to [G] know [G] 
+Where the [G] tree tops [G7] glisten
+And [C] children [Cm] listen
+To [G] hear [Em] sleigh bells in the [Am] snow [D] 
+
+[G] I'm [G] dreaming of a [Am] white [D] Christmas
+[C] With every [Am] Christmas card I [G] write [G] 
+May your [G] days be [G] merry and [C] bright [Cm] 
+And may [G/] all [Em/] your [Am/] Christma[D/]s' be [G] white
+

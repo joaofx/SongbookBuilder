@@ -1,0 +1,68 @@
+{t: Shiny Happy People }  
+{artist: REM }  
+{level: Medium}  
+{youtube: HL4uh_erpD8}
+{new:}
+
+riff 1:
+<pre>
+|-2---3-2-0--|-2---3-2-0--|-2---3-2-0--|-0----0-----|
+|-----------3|-----------3|-----------3|-----------3|
+|------------|------------|------------|------------|
+|------------|------------|------------|------------|
+
+
+|-2---3-2-0--|-2---3-2-0--|-2---3-2-0--|--3--2--0---|
+|-----------3|-----------3|-----------3|-----------3|
+|------------|------------|------------|------------|
+|------------|------------|------------|------------|
+</pre>
+
+Intro:
+
+(waltz) (riff 1)
+[G]... [Em]... [Bm]... [C]...
+[G]... [Em]... [Bm]... [C/] [C/] [C/] [C/]
+
+[B]... [A]...
+[B]... [A]...
+[B] Shiny happy [A] people laughing.
+[B]... [A]...
+
+[F#m] Meet me in the crowd [A] People [E7] people
+[F#m] Throw your love around. [A] Love me [E7] love me
+[F#m] Take it into town [A] Happy [E7] happy
+[F#m] Put it in the ground where the [A] flowers [E7] grow.
+
+[G]... [G] Gold and silver [E7] shine
+
+[B]... [A]...
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people laughing.
+
+[F#m] Everyone around [A] Love them [E7] love them.
+[F#m] Put it in your hands [A] Take it [E7] take it.
+[F#m] There's no time to cry [A] Happy [E7] happy.
+[F#m] Put it in your heart where [A] tomorrow [E7] shines.
+
+[G]... [G] Gold and silver [E7] shine
+
+[B]... [A]...
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people laughing.
+
+Intro:
+(waltz) (riff 1)
+[G]... [Em]... [Bm]... [C]...
+[G]... [Em]... [Bm]... [C/] [C/] [C/] [C/]
+
+[B]... [A]...
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people laughing.
+[B]... [A]...
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A] people holding hands.
+[B] Shiny happy [A/] people laughing.
