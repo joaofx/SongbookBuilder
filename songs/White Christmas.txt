@@ -1,4 +1,4 @@
-{t:White Christmas}
+{t:🎅 White Christmas}
 {artist:Bing Crosby}
 {level:Medium}
 {youtube:w9QLn7gM-hY}
