@@ -1,5 +1,5 @@
 {t: Bang Bang }  
-{artist:Nancy Sinastra}  
+{artist:Nancy Sinatra}  
 {level:Easy}  
 
 Intro: [Am] [Dm] [G] [E7]
