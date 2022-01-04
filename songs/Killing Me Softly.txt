@@ -1,54 +1,54 @@
-{t: Killing Me Softly [Am] }  
+{t: Killing Me Softly [Em] }  
 {key: Am}  
 {artist:Roberta Flack}  
 {level:Medium}  
     
-[Am] Strumming my pain with his [Dm] fingers   
-[G7] Singing my life with his [C] words   
-[Am] Killing me softly with [D] his song   
-Killing me [G] softly with [F] his song   
-Telling my [C] whole life with [F] his words   
-Killing me [Asus4] softly with his [A] song  
+[Em] Strumming my pain with his [Am] fingers   
+[D7] Singing my life with his [G] words   
+[Em] Killing me softly with [A] his song   
+Killing me [D] softly with [C] his song   
+Telling my [G] whole life with [C] his words   
+Killing me [F] softly with his [E7] song  
 {c: } 
-[Dm] I heard he [G7] sang a good song   
-[C] I heard he [F] had a style   
-[Dm] And so I [G7] came to see him   
-And [Am] listen for a while   
-[Dm] And there he [G7] was this young boy   
-[C] A stranger [E7] to my eyes 
+[Am] I heard he [D7] sang a good song   
+[G] I heard he [C] had a style   
+[Am] And so I [D7] came to see him   
+And [Em] listen for a while   
+[Am] And there he [D7] was this young boy   
+[G] A stranger [B] to my eyes 
 {c: } 
-[Am] Strumming my pain with his [Dm] fingers   
-[G7] Singing my life with his [C] words   
-[Am] Killing me softly with [D] his song   
-Killing me [G] softly with [F] his song   
-Telling my [C] whole life with [F] his words   
-Killing me [Asus4] softly with his [A] song  
+[Em] Strumming my pain with his [Am] fingers   
+[D7] Singing my life with his [G] words   
+[Em] Killing me softly with [A] his song   
+Killing me [D] softly with [C] his song   
+Telling my [G] whole life with [C] his words   
+Killing me [F] softly with his [E7] song 
 {c: } 
-[Dm] I felt all [G7] flushed with fever   
-[C] Embarrassed [F] by the crowd   
-[Dm] I felt he [G7] found my letters   
-And [Am] read each one out loud   
-[Dm] I prayed that [G7] he would finish   
-[C] But he just [E7] kept right on 
+[Am] I felt all [D7] flushed with fever   
+[G] Embarrassed [C] by the crowd   
+[Am] I felt he [D7] found my letters   
+And [Em] read each one out loud   
+[Am] I prayed that [D7] he would finish   
+[G] But he just [B] kept right on 
 {c: } 
-[Am] Strumming my pain with his [Dm] fingers   
-[G7] Singing my life with his [C] words   
-[Am] Killing me softly with [D] his song   
-Killing me [G] softly with [F] his song   
-Telling my [C] whole life with [F] his words   
-Killing me [Asus4] softly with his [A] song    
+[Em] Strumming my pain with his [Am] fingers   
+[D7] Singing my life with his [G] words   
+[Em] Killing me softly with [A] his song   
+Killing me [D] softly with [C] his song   
+Telling my [G] whole life with [C] his words   
+Killing me [F] softly with his [E7] song    
 {c: } 
-[Dm] He sang as [G7] if he knew me   
-[C] In all my [F] dark despair   
-[Dm] And then he [G7] looked right through me   
-As [Am] if I wasn't there    
-[Dm] And he just [G7] kept on singing   
-[C] Singing [E7] clear and strong    
+[Am] He sang as [D7] if he knew me   
+[G] In all my [C] dark despair   
+[Am] And then he [D7] looked right through me   
+As [Em] if I wasn't there    
+[Am] And he just [D7] kept on singing   
+[G] Singing [B] clear and strong    
 {c: }
-[Am] Strumming my pain with his [Dm] fingers   
-[G7] Singing my life with his [C] words   
-[Am] Killing me softly with [D] his song   
-Killing me [G] softly with [F] his song   
-Telling my [C] whole life with [F] his words   
-Killing me [Asus4] softly with his [A] song  
-[A/]
+[Em] Strumming my pain with his [Am] fingers   
+[D7] Singing my life with his [G] words   
+[Em] Killing me softly with [A] his song   
+Killing me [D] softly with [C] his song   
+Telling my [G] whole life with [C] his words   
+Killing me [F] softly with his [E7] song    
+[E7/]
