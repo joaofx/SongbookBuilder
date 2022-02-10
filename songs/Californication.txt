@@ -2,7 +2,6 @@
 {artist:Red Hot Chili Peppers}  
 {level:Medium}
 {spotify:48UPSzbZjgc449aqz8bxox}
-{new:}
 
 Intro:
 [Am] [F]

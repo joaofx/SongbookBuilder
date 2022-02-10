@@ -1,7 +1,7 @@
 {t:Toxic}
 {artist:Britney Spears}
 {level:Easy}
-{youtube:ImAyZ7ShoVQ}
+{youtube:oKbq39lj6wI}
 
 Intro: 
 [Am] … [Am] … [Am] … [Am/] (stop)

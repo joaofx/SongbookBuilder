@@ -1,7 +1,6 @@
 {t: Why Don't You Get A Job } 
 {artist: The Offspring} 
 {level: Easy}
-{new:}
 {spotify:0sNKiz82ATCvT3f3XVVUUj}
 
 <!-- denceing the strum along -->

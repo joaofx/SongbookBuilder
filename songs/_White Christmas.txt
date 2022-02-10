@@ -2,7 +2,6 @@
 {artist:Bing Crosby}
 {level:Medium}
 {youtube:w9QLn7gM-hY}
-{new:}
 
 Info:
 * repeat twice 

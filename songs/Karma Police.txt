@@ -2,7 +2,6 @@
 {artist:Radiohead}  
 {level:Medium}
 {spotify:63OQupATfueTdZMWTxW03A}
-{new:}
 
 2 beats per chord
 

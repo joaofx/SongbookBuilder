@@ -1,7 +1,7 @@
 {t: House Of Gold}  
 {artist:Twenty One Pilots} 
-{key: F}   
 {level:Medium}
+{youtube:grK3foF8gUE}
 
 (chunking only on first verse all in [C]
  

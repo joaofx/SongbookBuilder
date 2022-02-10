@@ -3,7 +3,6 @@
 {level:Hard}
 {youtube:sySlY1XKlhM}
 {spotify:oOnOS4xNZOMpCT0lKTNo2}
-{new:}
 
 info:
 - different key than original

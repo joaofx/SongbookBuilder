@@ -33,7 +33,7 @@ namespace SongbookBuilder
             
             SaveSongs(songs);
             SaveIndex(songs);
-            SaveFilter(songs, songs.Where(m => m.IsNew), "new.html");
+            // SaveFilter(songs, songs.Where(m => m.IsNew), "new.html");
             SaveFilter(songs, songs.Where(m => m.Level == "Easy"), "easy.html");
             SaveFilter(songs, songs.Where(m => m.Level == "Easy" || m.Level == "Medium"), "medium.html");
             SaveFilter(songs, songs.Where(m => m.Level == "Hard"), "hard.html");
@@ -64,8 +64,18 @@ namespace SongbookBuilder
             
             foreach (var songFile in songFiles)
             {
+                if (number == 54) number++;
+
+                if (songFile.Contains("Imagine.txt")) 
+                {
+                    var imagine = BuildSong(songFile, 54);
+                    songs.Insert(53, imagine);
+                    continue;
+                }
+                
                 var song = BuildSong(songFile, number);
                 songs.Add(song);
+                
                 number++;
             }
 
@@ -134,10 +144,6 @@ namespace SongbookBuilder
 
                     song.Youtube = youtube;
                 }
-                else if (line.StartsWith("{new:"))
-                {
-                    song.IsNew = true;
-                }
                 else if (line.StartsWith("{artist:"))
                 {
                     var artist = line
@@ -155,13 +161,13 @@ namespace SongbookBuilder
                     continue;
                 else
                 {
-                    var convertingLine = line;
-
-                    convertingLine
+                    var convertingLine = line
                         .Replace("[stop]", "<strong>[stop]</strong>")
-                        .Replace("[riff]", "<strong>[riff]</strong>");
+                        .Replace("[riff]", "<strong>[riff]</strong>")
+                        .Replace("[back]", "<b><i>")
+                        .Replace("[/back]", "</i></b>");
 
-                    if (line.Contains("[") && line.Contains("]"))
+                    if (convertingLine.Contains("[") && convertingLine.Contains("]"))
                     {
                         convertingLine = convertingLine
                             .Replace("[", "<span class=\"chord\">[")
@@ -217,6 +223,8 @@ namespace SongbookBuilder
                 .Where(m => !m.Contains(" "))
                 .Where(m => !m.ToLower().Equals("stop"))
                 .Where(m => !m.ToLower().Equals("riff"))
+                .Where(m => !m.ToLower().Equals("back"))
+                .Where(m => !m.ToLower().Equals("-back"))
                 .ToList();
 
             foreach (var chord in chords)

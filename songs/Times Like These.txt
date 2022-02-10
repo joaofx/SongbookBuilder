@@ -2,7 +2,6 @@
 {artist:Foo Fighters}
 {level:Easy}
 {youtube:QJiZp9dk_5A}
-{new:}
 
 Intro:  
 [D]... [D]... [D]... [D]... 

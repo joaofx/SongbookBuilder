@@ -1,7 +1,6 @@
 {t: Don't Stop Me Now } 
 {artist:Queen}  
 {level:Hard}  
-{new:}
 {spotify:5T8EDUDqKcs6OSOwEsfqG7}
 
 (slow)

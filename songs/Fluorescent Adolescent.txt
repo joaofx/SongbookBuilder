@@ -1,7 +1,6 @@
-{t:Fluorescent Adolescent }  
+{t:⭐Fluorescent Adolescent }  
 {artist:Arctic Monkeys}  
 {level:Medium} 
-{new:}
 
 Intro:
 [D///] (1 2) 

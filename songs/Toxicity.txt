@@ -1,9 +1,7 @@
 {t:Toxicity}
 {artist:System Of A Down}
 {level:Medium}
-{youtube:iywaBOMvYLI}
-{spotify:0snQkGI5qnAmohLE7jTsTn?}
-{new:}
+{youtube:PV2NtyQDQ3I}
 
 Ps: different key than the original
 Ps: 2 beats per chord
@@ -17,13 +15,12 @@ G|----------------|------------------------|
 </pre>
 
 Intro:
-
 [riff]
 [riff]
 
 [Am/] xxx [Am/] xxx [F] [E7]
 [Am/] xxx [Am/] xxx [F] [E7]
-[Am] [Am] [F] [E7]
+[Am]... [Am]... [F]... [E7]...
 [Am/] xxx [Am/] xxx [F] [E7]
 
 (softer with [riff])
@@ -60,7 +57,7 @@ How do you own [F] disorder, [E7] disorder
 [Am] Somewhere [Am] between the [F] sacred silence and [E7] sleep
 [Am/] Disorder, [Am/] disorder, [F] diso[E7]rder
 
-[Am] [Am] [Am] [Am]
+[Am]... [Am]... [Am]... [Am]...
 
 (chorus)
 [Am/] You, what do you own the world 
@@ -70,11 +67,11 @@ How do you own [F] disorder, [E7] disorder
 [Am] Somewhere between the [F] sacred silence and [E7] sleep
 [Am/] Disorder [Am/] disorder, [F] diso[E7]rder
 
-[Am] [Am] [Am] [Am]
+[Am]... [Am]... [Am]... [Am]...
 
 (end)
 [Am//] When I be-[F//]-came the sun, 
 [Am//] I shone  life into the [F//] man's hearts
 [Am//] When I be-[F/]-came the sun, 
-[Am//] I shone life into the [F//] man'shearts
+[Am//] I shone life into the [F//] man's hearts
 [Am/]

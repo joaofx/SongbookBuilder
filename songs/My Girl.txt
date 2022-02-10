@@ -3,7 +3,6 @@
 {level:Medium}
 {youtube:8Ff2Z0Dq2sg}
 {spotify:745H5CctFr12Mo7cqa1BMH}
-{new:}
 
 <pre>
 riff:

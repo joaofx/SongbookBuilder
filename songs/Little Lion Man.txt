@@ -2,7 +2,6 @@
 {artist: Mumford and Sons}
 {level:Easy}
 {spotify:2KrN3MCNztKcSleZgHEj83}
-{new:}
 
 Intro:
 [Dm] [F] [Dm] [F]

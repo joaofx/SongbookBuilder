@@ -1,7 +1,6 @@
 {t: Here Comes The Sun }  
 {artist:The Beatles}  
 {level: Hard}
-{new:}
 {key: G}
 {youtube:BcfXtcCr3uI}
 

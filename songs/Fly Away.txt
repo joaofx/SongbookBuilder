@@ -3,7 +3,6 @@
 {level: Easy }
 {spotify:1OxcIUqVmVYxT6427tbhDW}
 {youtube: EvuL5jyCHOw } 
-{new:}
 
 Intro:
 [A] ... [C] ... [G] ... [D] ... (4x)

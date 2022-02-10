@@ -3,7 +3,6 @@
 {level:Easy}
 {youtube:gGdGFtwCNBE}
 {spotify:003vvx7Niy0yvhvHt4a68B}
-{new:}
 
 info:
 * different key than orginal

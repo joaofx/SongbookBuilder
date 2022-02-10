@@ -1,9 +1,8 @@
-{t:All About That Bass}
+{t:⭐All About That Bass}
 {artist:Meghan Trainor}
 {level:Easy}
 {youtube:7PCkvCPvDXk}
 {spotify:5jE48hhRu8E6zBDPRSkEq7}
-{new:}
 
 Intro: 
 [A]... [Bm]... [E7]... [A] 

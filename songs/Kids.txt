@@ -2,6 +2,7 @@
 {artist:MGMT}  
 {level:Easy}
 {spotify:1jJci4qxiYcOHhQR247rEU}
+{youtube:ORH4Abv-8Dg}
 
 <pre>
 riff 1:
@@ -16,7 +17,7 @@ C|-9-------9--9-6--9-------|
 G|-------------------------|
 </pre>
 
-Intro (riff 1): 
+(intro) [riff] 
 [F#m] … [D] … [A] … [E7] …
 [F#m] … [D] … [A] … [E7] …
 [F#m] … [D] … [A] … [E7] …
@@ -31,7 +32,7 @@ Crawling on your [A] knees toward him [E7] …
 [F#m] Picking insects off of [D] plants
 [A] No time to think of conse[E7]quences
 
-(chorus) (riff 1)
+(chorus) [riff]
 [F#m] Control yourself [D] Take only what you [A] need from it [E7] …
 [F#m] A family of [D] trees wanting… to [A] be haunted [E7] …
 
@@ -48,7 +49,7 @@ Like looking through a [A]fogged mirror [E7]
 [F#m]Decisions too decisions are [D]made and not bought but I
 [A]thought… this wouldn't hurt a [E7]lot, I guess not
 
-(chorus) (riff 1)
+(chorus) [riff]
 [F#m] Control yourself [D]
 Take only what you [A]need from it [E7]
 [F#m] A family of [D]trees wanting… to [A]be haunted [E7]

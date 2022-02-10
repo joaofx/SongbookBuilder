@@ -2,7 +2,6 @@
 {artist:Animals/Krakow Street Band}
 {level: Medium}
 {youtube:CDbL51q0pNk}
-{new:}
 
 Intro: 
 [Am]...[Dm]... x2 

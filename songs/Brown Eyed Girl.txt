@@ -3,8 +3,6 @@
 {level:Easy}
 {youtube:UfmkgQRmmeE}
 {spotify:3yrSvpt2l1xhsV9Em88Pul}
-{new:}
-
 
 <pre>
 riff :

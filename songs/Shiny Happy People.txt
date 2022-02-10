@@ -2,9 +2,8 @@
 {artist: REM }  
 {level: Medium}  
 {youtube: HL4uh_erpD8}
-{new:}
 
-riff 1:
+[riff 1]
 <pre>
 |-2---3-2-0--|-2---3-2-0--|-2---3-2-0--|-0----0-----|
 |-----------3|-----------3|-----------3|-----------3|
@@ -20,10 +19,12 @@ riff 1:
 
 Intro:
 
-(waltz) (riff 1)
+<b>(waltz)</b>
+[riff 1]
 [G]... [Em]... [Bm]... [C]...
 [G]... [Em]... [Bm]... [C/] [C/] [C/] [C/]
 
+<b>(normal)</b>
 [B]... [A]...
 [B]... [A]...
 [B] Shiny happy [A] people laughing.
@@ -54,10 +55,12 @@ Intro:
 [B] Shiny happy [A] people laughing.
 
 Intro:
-(waltz) (riff 1)
+<b>(waltz)</b>
+[riff 1]
 [G]... [Em]... [Bm]... [C]...
 [G]... [Em]... [Bm]... [C/] [C/] [C/] [C/]
 
+<b>(normal)</b>
 [B]... [A]...
 [B] Shiny happy [A] people holding hands.
 [B] Shiny happy [A] people holding hands.
@@ -66,3 +69,9 @@ Intro:
 [B] Shiny happy [A] people holding hands.
 [B] Shiny happy [A] people holding hands.
 [B] Shiny happy [A/] people laughing.
+
+<b>(waltz)</b>
+[riff 1]
+[G]... [Em]... [Bm]... [C]...
+[G]... [Em]... [Bm]... [C/] [C/] [C/] [C/]
+[G/]

@@ -1,7 +1,6 @@
 {t:Under Pressure}
 {artist:Queen & David Bowie}
 {level:Hard}
-{new:}
 
 <pre>
 riff 1:

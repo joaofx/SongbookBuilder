@@ -2,7 +2,6 @@
 {artist:The Smiths}
 {level:Medium}
 {youtube: ZTgcUySAab4}
-{new:}
 
 Ps: one key lower than original
 

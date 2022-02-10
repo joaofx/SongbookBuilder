@@ -1,7 +1,7 @@
 {t: Can't Take My Eyes Off You }  
 {key: G}  
 {artist:Frankie Vallie}  
-{new:}
+{level:Medium} 
 {youtube:1Zp4rc4QFzM}
 
 4 beats per chord

@@ -1,7 +1,6 @@
 {t:Bohemian Rhapsody}
 {artist:Queen}
 {level:Hard}
-{new:}
 {nosticky:}
 
 <!--
