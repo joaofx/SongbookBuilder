@@ -1,4 +1,4 @@
-{t:Beggin’}
+{t:⭐Beggin’}
 {artist:Madcon}
 {level:Easy}
 {youtube:zrFI2gJSuwA}
