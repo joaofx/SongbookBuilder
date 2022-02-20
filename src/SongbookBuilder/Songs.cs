@@ -28,12 +28,12 @@ public class Songs
 
             if (songFile.Contains("Imagine.txt")) 
             {
-                var imagine = Song.BuildSong(songFile, 54, parseBody: false);
+                var imagine = Song.BuildSong(songFile, 54, parseBody);
                 songs.Insert(53, imagine);
                 continue;
             }
                 
-            var song = Song.BuildSong(songFile, number, parseBody: false);
+            var song = Song.BuildSong(songFile, number, parseBody);
             songs.Add(song);
                 
             number++;
