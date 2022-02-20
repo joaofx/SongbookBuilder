@@ -1,4 +1,4 @@
-{t: House of the Rising Sun [Am] }  
+{t: House of the Rising Sun }  
 {key: Am}  
 {artist:The Animals}  
 {level:Medium}  

@@ -1,4 +1,4 @@
-{t:No. 1 Party Anthem}
+{t: Number 1 Party Anthem}
 {artist:Arctic Monkeys}
 {level:Medium}
 {youtube:mGUjVbsYG6E}

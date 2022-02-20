@@ -1,4 +1,4 @@
-{t: Another Brick in the Wall }  
+{t: Another Brick In The Wall }  
 {key: Dm}  
 {artist:Pink Floyd}  
 {level:Easy}  

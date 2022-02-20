@@ -1,4 +1,4 @@
-{t: Hotel California [Am] }  
+{t: Hotel California }  
 {key: Am}  
 {artist:Eagles}  
 {level:Medium}

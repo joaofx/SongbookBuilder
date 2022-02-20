@@ -1,4 +1,4 @@
-{t: Ring of Fire }  
+{t: Ring Of Fire }  
 {artist:Johnny Cash}  
 {level:Easy}          
 {spotify:6YffUZJ2R06kyxyK6onezL}

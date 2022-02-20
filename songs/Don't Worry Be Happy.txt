@@ -1,4 +1,4 @@
-{t: Don’t Worry, Be Happy }  
+{t: Don't Worry Be Happy }  
 {artist:Bobby McFerrin}  
 {level:Easy}
 

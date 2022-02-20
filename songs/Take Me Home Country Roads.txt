@@ -1,4 +1,4 @@
-{t: Take Me Home, Country Roads }  
+{t: Take Me Home Country Roads }  
 {key: C}  
 {artist:John Denver}  
 {level:Medium}  

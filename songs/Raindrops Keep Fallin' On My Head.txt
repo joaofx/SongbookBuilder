@@ -1,4 +1,4 @@
-{t:Raindrops Keep Fallin’ on my Head}
+{t:Raindrops Keep Fallin' On My Head}
 {artist:B J Thomas}
 {level:Hard}
 {youtube:sySlY1XKlhM}

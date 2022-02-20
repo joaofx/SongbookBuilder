@@ -1,4 +1,4 @@
-{t: Shake it Off }  
+{t: Shake It Off }  
 {artist:Taylor Swift}  
 {level:Easy}  
 {youtube:oOURjK5Hl1k}

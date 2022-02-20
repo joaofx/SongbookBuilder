@@ -1,4 +1,4 @@
-{t: Hallelujah (G) }  
+{t: Hallelujah }  
 {artist:Leonard Cohen}  
 {level:Medium}
 

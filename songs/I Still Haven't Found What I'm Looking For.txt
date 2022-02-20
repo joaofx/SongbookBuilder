@@ -1,4 +1,4 @@
-{t: I Still Haven’t Found What I'm Looking For}  
+{t: I Still Haven't Found What I'm Looking For}  
 {artist:U2}
 {level:Easy}
 {spotify:6wpGqhRvJGNNXwWlPmkMyO}

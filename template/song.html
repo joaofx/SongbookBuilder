@@ -31,7 +31,16 @@
 </head>
 <body>
 
-<div class="container mt-2 mb-5">
+<header class="container">
+    <div class="m-2 mb-4 text-center">
+        <img src="/images/ukulele-krakow.png" class="img-fluid" alt="Krakow Ukulele" width="200">
+    </div>
+</header>
+
+<div class="container">
+    <div class="row justify-content-center">
+        
+<div class="col-lg-8 col-md-10 col-sm-12 my-3">
 
     <h3 class="song-title">
         #{{ song.number }} {{ song.title }}
@@ -41,9 +50,14 @@
         {{ song.artist }}
     </h5>
 
-    <span class="{{ song.level_class }}">
-        <small>Level: {{ song.level }}</small>
-    </span>
+    <h5>
+        Level: 
+        <span class="badge rounded-pill bg-{{ song.level_class }} text-white">{{ song.level }}</span>
+    </h5>
+    
+<!--    <div class="alert alert-{{ song.level_class }}">-->
+<!--        <small>Level: {{ song.level }}</small>-->
+<!--    </div>-->
     
     {{ if song.spotify }}
     <div class="mt-3">
@@ -87,6 +101,9 @@
         </ul>
     </div>
 
+</div>
+
+    </div>
 </div>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js">
