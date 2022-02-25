@@ -48,7 +48,7 @@ public class Song
                 return "warning";
             
             if (Level == "Hard")
-                return "secondary";
+                return "danger";
 
             return string.Empty;
         }
