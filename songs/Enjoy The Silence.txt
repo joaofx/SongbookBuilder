@@ -1,0 +1,57 @@
+{t:⭐Enjoy The Silence}
+{artist:Depeche Mode}
+{level:Medium}
+{youtube:X_FRmI1T-AI}
+{spotify:6WK9dVrRABMkUXFLNlgWFh}
+
+<div class="mb-1">
+Beats per chord: <b>4</b>
+</div>
+
+<hr />
+
+Start: 1 2 3 4
+
+TODO: intro
+
+[Am] Words like violence
+[Cm] Break the silence
+[F] Come crashing in
+[F] Into my little world
+[Am] Painful to me
+[Cm] Pierce right through me
+[F] Can't you understand
+[F] Oh my little girl
+
+[Dm] All I ever wanted
+[F] All I ever needed
+[Am] Is here in my [C] arms
+[Dm] Words are very [F] unnecessary
+[Am] They can only do [F] harm [F]...
+
+TODO: intro
+
+[Am] Vows are spoken
+[Cm] To be broken
+[F] Feelings are intense
+[F] Words are trivial
+[Am] Pleasures remain
+[Cm] So does the pain
+[F] Words are meaningless
+[F] And forgettable
+
+[Dm] All I ever wanted
+[F] All I ever needed
+[Am] Is here in my [C] arms
+[Dm] Words are very [F] unnecessary
+[Am] They can only do [F] harm [F]...
+
+TODO: intro
+
+[Dm] All I ever wanted
+[F] All I ever needed
+[Am] Is here in my [C] arms
+[Dm] Words are very [F] unnecessary
+[Am] They can only do [F] harm [F]...
+
+[Dm/]

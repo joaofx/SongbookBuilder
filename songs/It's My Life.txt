@@ -1,4 +1,4 @@
-{t:⭐It's My Life}  
+{t:It's My Life}  
 {artist:Bon Jovi}  
 {level:Medium}
 {spotify:0v1XpBHnsbkCn7iJ9Ucr1l}

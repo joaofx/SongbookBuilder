@@ -138,7 +138,7 @@ public class Song
             {
                 var convertingLine = line
                     .Replace("[stop]", "<strong>[stop]</strong>")
-                    .Replace("[riff]", "<strong>[riff]</strong>")
+                    .Replace("[riff]", "<span class='text-muted'><strong>[riff]</strong></span>")
                     .Replace("[back]", "<b><i>")
                     .Replace("[/back]", "</i></b>");
 

@@ -1,4 +1,4 @@
-{t:⭐Crazy Little Thing Called Love}  
+{t:Crazy Little Thing Called Love}  
 {artist:The Queen}  
 {level:Hard}
 
