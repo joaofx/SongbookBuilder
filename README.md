@@ -46,5 +46,6 @@ To export the songbook html's to be uploaded to a web server (run the command at
 ```shell
 dotnet run export C:\Ukulele\Songbook
 ```
+<!-- dotnet run export D:\Ukulele\krakow-ukulele -->
 
 The htmls will be exported at `PATH_TO_YOUR_ARTIFACTS_DIRECTORY\export`
