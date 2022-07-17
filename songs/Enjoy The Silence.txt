@@ -1,57 +1,72 @@
 {t:⭐Enjoy The Silence}
 {artist:Depeche Mode}
 {level:Medium}
-{youtube:X_FRmI1T-AI}
+{youtube:lwLkXRIgoZw}
 {spotify:6WK9dVrRABMkUXFLNlgWFh}
 
 <div class="mb-1">
 Beats per chord: <b>4</b>
 </div>
 
+(riff 1)
+<pre>
+A|---2---4-|----5---4-|---2---4-|----5---4-|
+E|-2---2---|--2---2---|-2---2---|--2---2---|
+C|---------|----------|---------|----------|
+G|---------|----------|---------|----------|
+
+A|---2-----|----------|---2-----|----------|
+E|-2---2-5-|--x-3-x-2-|-2---2-5-|--x-3-x-2-|
+C|---------|----------|---------|----------|
+G|---------|----------|---------|----------|
+</pre>
+
 <hr />
 
 Start: 1 2 3 4
 
-TODO: intro
+[riff]
+[Bm]... [D]... [Bm]... [D]...
+[Bm]... [D]... [Bm]... [D]...
 
-[Am] Words like violence
-[Cm] Break the silence
-[F] Come crashing in
-[F] Into my little world
-[Am] Painful to me
-[Cm] Pierce right through me
-[F] Can't you understand
-[F] Oh my little girl
+[Bm] Words like violence
+[Dm] Break the silence
+[G] Come crashing in
+[G] Into my little world
+[Bm] Painful to me
+[Dm] Pierce right through me
+[G] Can't you understand
+[G] Oh my little girl
 
-[Dm] All I ever wanted
-[F] All I ever needed
-[Am] Is here in my [C] arms
-[Dm] Words are very [F] unnecessary
-[Am] They can only do [F] harm [F]...
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms...
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm [Bb]...
 
-TODO: intro
+[riff]
+[Bm]... [D]... [Bm]... [D]...
+[Bm]... [D]... [Bm]... [D]...
 
-[Am] Vows are spoken
-[Cm] To be broken
-[F] Feelings are intense
-[F] Words are trivial
-[Am] Pleasures remain
-[Cm] So does the pain
-[F] Words are meaningless
-[F] And forgettable
+[Bm] Vows are spoken
+[Dm] To be broken
+[G] Feelings are intense
+[G] Words are trivial
+[Bm] Pleasures remain
+[Dm] So does the pain
+[G] Words are meaningless
+[G] And forgettable
 
-[Dm] All I ever wanted
-[F] All I ever needed
-[Am] Is here in my [C] arms
-[Dm] Words are very [F] unnecessary
-[Am] They can only do [F] harm [F]...
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm
 
-TODO: intro
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm [Bb]...
 
-[Dm] All I ever wanted
-[F] All I ever needed
-[Am] Is here in my [C] arms
-[Dm] Words are very [F] unnecessary
-[Am] They can only do [F] harm [F]...
-
-[Dm/]
+[Bm/]

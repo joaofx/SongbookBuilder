@@ -9,21 +9,22 @@
 Beats per chord: <b>8</b>
 </div>
 
-<hr />
-
-[riff]
+(riff 1)
 <pre>
-A|--------------------|-5-3---7-7-5--------|
-E|-5-3---5-5-3--------|-5-5---5-5-5--------|
-C|-4-4---4-4-4--------|--------------------|
-G|--------------------|--------------------|
+A|------3-5-3---------|
+E|----5-------3-6-5---|
+C|--------------------|
+G|--------------------|
 </pre>
 
-Start: 1 2 3 4
+<hr />
 
-[F/] [riff]
+<b>Start</b>: 1 2 3 4
+
+[F/] [riff]..
+
 Don't let me [Gsus2] down... don't let me [F] down
-Don't let me [Gsus2] down, don't let me [F] down [riff] [stop]
+Don't let me [Gsus2] down, don't let me [F] down <grey>[riff]</grey> [stop]
 
 Nobody ever loved me like she [Gsus2] does
 Oh she does... yes she [F] does... [stop]
@@ -42,10 +43,10 @@ It's a love that had no [F] past [riff] [stop]
 Don't let me [Gsus2] down... don't let me [F] down
 Don't let me [Gsus2] down, don't let me [F] down... [stop]
 
-And from the first time that she really [Gsus2] done me
+And from the first time that she really [Gsus2] done me...
 Oh she done me, she done me [F] good... [stop]
 
-I guess nobody ever really [Gsus2] done me
+I guess nobody ever really [Gsus2] done me ...
 Oh she done me, she done me [F] good... [stop]
 
 Don't let me [Gsus2] down... don't let me [F] down
@@ -54,4 +55,4 @@ Don't let me [Gsus2] down, don't let me [F] down ... [stop]
 Heeee [Gsus2] Yeeee
 Heeee [F] Yeeee
 Heeee [Gsus2] Yeeee
-Heeee [F] Yeeee [riff] [Gsus2/]
+Heeee [F/] Yeeee [riff]
