@@ -1,0 +1,72 @@
+{t:⭐Enjoy The Silence}
+{artist:Depeche Mode}
+{level:Medium}
+{youtube:lwLkXRIgoZw}
+{spotify:6WK9dVrRABMkUXFLNlgWFh}
+
+<div class="mb-1">
+Beats per chord: <b>4</b>
+</div>
+
+(riff 1)
+<pre>
+A|---2---4-|----5---4-|---2---4-|----5---4-|
+E|-2---2---|--2---2---|-2---2---|--2---2---|
+C|---------|----------|---------|----------|
+G|---------|----------|---------|----------|
+
+A|---2-----|----------|---2-----|----------|
+E|-2---2-5-|--x-3-x-2-|-2---2-5-|--x-3-x-2-|
+C|---------|----------|---------|----------|
+G|---------|----------|---------|----------|
+</pre>
+
+<hr />
+
+Start: 1 2 3 4
+
+[riff]
+[Bm]... [D]... [Bm]... [D]...
+[Bm]... [D]... [Bm]... [D]...
+
+[Bm] Words like violence
+[Dm] Break the silence
+[G] Come crashing in
+[G] Into my little world
+[Bm] Painful to me
+[Dm] Pierce right through me
+[G] Can't you understand
+[G] Oh my little girl
+
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms...
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm [Bb]...
+
+[riff]
+[Bm]... [D]... [Bm]... [D]...
+[Bm]... [D]... [Bm]... [D]...
+
+[Bm] Vows are spoken
+[Dm] To be broken
+[G] Feelings are intense
+[G] Words are trivial
+[Bm] Pleasures remain
+[Dm] So does the pain
+[G] Words are meaningless
+[G] And forgettable
+
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm
+
+[Em] All I ever wanted
+[G] All I ever needed
+[Bm] Is here in my [A] arms
+[Em] Words are very [G] unnecessary
+[Bm] They can only do [Bb] harm [Bb]...
+
+[Bm/]

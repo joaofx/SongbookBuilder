@@ -1,4 +1,4 @@
-{t:⭐Careless Whisper}
+{t:Careless Whisper}
 {artist:George Michael}
 {level: Easy}
 {spotify:4jDmJ51x1o9NZB5Nxxc7gY}

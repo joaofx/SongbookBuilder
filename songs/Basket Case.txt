@@ -1,4 +1,4 @@
-{t:⭐Basket Case}  
+{t:Basket Case}  
 {artist:Green Day}  
 {level:Medium}
 {spotify:6L89mwZXSOwYl76YXfX13s}

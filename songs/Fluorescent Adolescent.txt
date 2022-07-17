@@ -1,4 +1,4 @@
-{t:⭐Fluorescent Adolescent }  
+{t:Fluorescent Adolescent }  
 {artist:Arctic Monkeys}  
 {level:Medium} 
 
