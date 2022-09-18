@@ -3,33 +3,38 @@
 {level:Medium}  
 
 Intro: [C]
-              
+<!--Instead of [C]gently or fingerpicking:
+[F]...[Dm]...[Gm]...[C]...
+[F]...[Dm]...[A#/]...[F/]...[G] -->
+           
 [C] Love of my life, you've [Am] hurt me
 You've [Dm] broken my heart and [G] now you leave me 
 [C] Love of my life, can't you [F] see?
-Bring it [Dm] back, bring it [Am] back
-Don't [Bb] take it away [F] from me
-[Bb] Because [Am/] you [Dm/] don't [G] know 
-What it [C] means to [F] me [F] 
-                       
+Bring it [Dm//] back, bring it [Am//] back
+Don't [Bb//] take it away [F//] from me
+[Bb/] Because [Am/] you [Dm/] don't [G/] know 
+What it [C/] means to [F] me [F] 
+
+<--![F]...[Dm]...[A#/]...[F/]...[G] -->                      
 [C] Love of my life, don't [Am] leave me
 You [Dm] taken my love you [G] now desert me
 [C] Love of my life can't you [F] see?
-Bring it [Dm] back, bring it [Am] back
-Don't [Bb] take it [F] away  from me                      
-[Bb] Because [Am/] you [Dm/] don't [G] know 
-What it [C] means to [F] me [F]
-                    
+Bring it [Dm//] back, bring it [Am//] back
+Don't [Bb//] take it [F//] away  from me                      
+[Bb/] Because [Am/] you [Dm/] don't [G/] know 
+What it [C/] means to [F] me [F]
+
+       
 [Dm] You will remember when [Am] this is flown over
 And [Bb] everything's all by the [F] way
 When [Dm] I grow older [Am] I will be there at your [D7] side
 To remind you how I [Gm] still love you
 [C7/] (stop) I still love you 
          
-[Dm] Back, hurry [Am] back
-Please [Bb] bring it back [F] home to me             
-[Bb] Because [Am/] you [Dm/] don't [G] know 
-What it [C] means to [F] me
+[Dm/] Back, hurry [Am/] back
+Please [Bb/] bring it back [F/] home to me             
+[Bb/] Because [Am/] you [Dm/] don't [G/] know 
+What it [C/] means to [F] me
  
 [Dm] Love of my life   
 [Am] Love of my life         
