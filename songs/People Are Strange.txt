@@ -1,15 +1,13 @@
-{t:*People Are Strange}
+{t:⭐People Are Strange}
 {artist:The Doors}
 {level:Easy}
-{youtube:}
-{spotify:}
 {new:}
 
 Info:
 * in chorus after [B7//] strumming pauses
 
 (intro:)
-[Em]<b>x2</b>
+[Em]... [Em]...
 
 [Em] People are strange
 [Am//] When you're a [Em//] stranger
@@ -63,4 +61,4 @@ When you're [B7//] strange
 When you're [B7//] strange
 When you're[stop]... 
 [B7/]strange...
-<--![Em/]-->
+<!--[Em/]-->

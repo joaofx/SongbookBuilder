@@ -1,8 +1,6 @@
-{t:*Another Love}
+{t:⭐Another Love}
 {artist:Tom Odell}
 {level:Easy}
-{youtube:}
-{spotify:}
 {new:}
 
 Intro:
