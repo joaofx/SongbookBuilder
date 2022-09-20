@@ -1,4 +1,4 @@
-{t:⭐Beggin'}
+{t:Beggin'}
 {artist:Madcon}
 {level:Easy}
 {youtube:zrFI2gJSuwA}
@@ -61,3 +61,4 @@ Only [Dm] then can I begin to [E7]  live again
 [Dm] Put your loving [E7] hand out, baby
 [Am] Beggin', [F] beggin' you
 [Dm] Put your loving [E7] hand out, darling
+[Am/]

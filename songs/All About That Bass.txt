@@ -1,4 +1,4 @@
-{t:⭐All About That Bass}
+{t:All About That Bass}
 {artist:Meghan Trainor}
 {level:Easy}
 {youtube:7PCkvCPvDXk}

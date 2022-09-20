@@ -137,10 +137,11 @@ public class Song
             else
             {
                 var convertingLine = line
+                    .Replace("<grey>", "<span class='text-muted'>")
+                    .Replace("</grey>", "</span>")
                     .Replace("[stop]", "<strong>[stop]</strong>")
-                    .Replace("[riff]", "<strong>[riff]</strong>")
-                    .Replace("[back]", "<b><i>")
-                    .Replace("[/back]", "</i></b>");
+                    .Replace("[riff]", "<span class='text-muted'><strong>(riff)</strong></span>")
+                    .Replace("[back]", "<b><i>");
 
                 if (convertingLine.Contains("[") && convertingLine.Contains("]"))
                 {

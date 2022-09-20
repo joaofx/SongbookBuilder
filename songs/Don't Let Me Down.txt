@@ -1,0 +1,58 @@
+{t:⭐Don't Let Me Down}
+{artist:The Beatles}
+{level:Easy}
+{youtube:NoGRUjTNSng}
+{spotify:5BhMoGrz5KzG2fA5uzHjZ1}
+{new:}
+
+<div class="mb-1">
+Beats per chord: <b>8</b>
+</div>
+
+(riff 1)
+<pre>
+A|------3-5-3---------|
+E|----5-------3-6-5---|
+C|--------------------|
+G|--------------------|
+</pre>
+
+<hr />
+
+<b>Start</b>: 1 2 3 4
+
+[F/] [riff]..
+
+Don't let me [Gsus2] down... don't let me [F] down
+Don't let me [Gsus2] down, don't let me [F] down <grey>[riff]</grey> [stop]
+
+Nobody ever loved me like she [Gsus2] does
+Oh she does... yes she [F] does... [stop]
+
+And if somebody loved me like she [Gsus2] does
+Oh she does... yes she [F] does [riff] [stop]
+
+Don't let me [Gsus2] down... don't let me [F] down
+Don't let me [Gsus2] down, don't let me [F] down... [stop]
+
+I'm in love for the first [F] time
+Don't you know it's gonna [C] last
+It's a love that lasts [C] forever
+It's a love that had no [F] past [riff] [stop]
+
+Don't let me [Gsus2] down... don't let me [F] down
+Don't let me [Gsus2] down, don't let me [F] down... [stop]
+
+And from the first time that she really [Gsus2] done me...
+Oh she done me, she done me [F] good... [stop]
+
+I guess nobody ever really [Gsus2] done me ...
+Oh she done me, she done me [F] good... [stop]
+
+Don't let me [Gsus2] down... don't let me [F] down
+Don't let me [Gsus2] down, don't let me [F] down ... [stop]
+
+Heeee [Gsus2] Yeeee
+Heeee [F] Yeeee
+Heeee [Gsus2] Yeeee
+Heeee [F/] Yeeee [riff]

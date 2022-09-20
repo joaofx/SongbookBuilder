@@ -29,7 +29,7 @@ Create a directory with this structure (or use the one already set in this repos
 
 ### Running Locally
 
-Run at the command line where this project is:
+Run the command at `src/SongbookBuilder`:
 
 ```shell
 dotnet run serve PATH_TO_YOUR_ARTIFACTS_DIRECTORY
@@ -41,10 +41,11 @@ dotnet run serve C:\Ukulele\Songbook
 
 ### Exporting
 
-To export the songbook html's to be uploaded to a web server:
+To export the songbook html's to be uploaded to a web server (run the command at `src/SongbookBuilder`:)
 
 ```shell
 dotnet run export C:\Ukulele\Songbook
 ```
+<!-- dotnet run export D:\Ukulele\krakow-ukulele -->
 
 The htmls will be exported at `PATH_TO_YOUR_ARTIFACTS_DIRECTORY\export`

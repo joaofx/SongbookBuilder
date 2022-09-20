@@ -1,4 +1,4 @@
-{t:⭐Crazy}  
+{t:Crazy}  
 {artist:Gnarls Barkley}  
 {level:Easy}
 {youtube:SZF9rKzOqCI}
