@@ -141,7 +141,8 @@ public class Song
                     .Replace("</grey>", "</span>")
                     .Replace("[stop]", "<strong>[stop]</strong>")
                     .Replace("[riff]", "<span class='text-muted'><strong>(riff)</strong></span>")
-                    .Replace("[back]", "<b><i>");
+                    .Replace("[back]", "<b><i>")
+                    .Replace("[/back]", "</b></i>");
 
                 if (convertingLine.Contains("[") && convertingLine.Contains("]"))
                 {
