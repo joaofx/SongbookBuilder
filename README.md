@@ -29,14 +29,14 @@ Create a directory with this structure (or use the one already set in this repos
 
 ### Running Locally
 
-Run the command at `src/SongbookBuilder`:
+Run the command at `src/SongbookBuilder` directory:
 
 ```shell
-dotnet run serve PATH_TO_YOUR_ARTIFACTS_DIRECTORY
+dotnet run serve PATH_TO_REPOSITORY_ROOT
 ```
-Example:
+For example, if the root of this project in your local machine is `C:\Ukulele\SongbookBuilder`, then run:
 ```shell
-dotnet run serve C:\Ukulele\Songbook
+dotnet run serve C:\Ukulele\SongbookBuilder
 ```
 <!-- dotnet run serve D:\Ukulele\SongbookBuilder\ -->
 
