@@ -1,6 +1,6 @@
 {t:🎅 Jingle Bell Rock}  
 {artist: Joseph Beal and Jim Boothe}  
-{level:Easy}
+{level:Medium}
 
 Info:
 * easy way to play F# => same shape as G chord, just one fret lower and mute G string
