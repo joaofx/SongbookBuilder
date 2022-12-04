@@ -4,6 +4,7 @@
 {youtube:w9QLn7gM-hY}
 
 Info:
+* strumming pattern: two down
 * repeat twice 
 
 Intro: 
@@ -17,6 +18,5 @@ To [G] hear [Em] sleigh bells in the [Am] snow [D]
 
 [G] I'm [G] dreaming of a [Am] white [D] Christmas
 [C] With every [Am] Christmas card I [G] write [G] 
-May your [G] days be [G] merry and [C] bright [Cm] 
-And may [G/] all [Em/] your [Am/] Christma[D/]s' be [G] white
-
+May your [G] days be [G7] merry and [C] bright [Cm] 
+And may [G/] all [Em/] your [Am/] Christma[D/]s' be [G] white [G] 
