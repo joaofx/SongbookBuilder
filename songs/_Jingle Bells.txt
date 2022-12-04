@@ -2,8 +2,20 @@
 {artist: J.S. Pierpont}  
 {level:Easy}
 
+Info:
+strumming pattern: island strum
 
 Intro: [C]
+
+[C] Jingle bells, [C] jingle bells,
+[C] Jingle all the [C] way.
+[F] Oh what fun it [C] is to ride
+In a [D] one-horse open sle[G7/]igh, [G7/] hey!
+
+[C] Jingle bells, [C] jingle bells,
+[C] Jingle all the [C] way.
+[F] Oh what fun it [C] is to ride
+In a [G7] one-horse open sle[C]igh
 
 [C] Dashing through the [C] snow
 [C] In a one-horse open [F] sleigh,
@@ -22,28 +34,6 @@ In a [D] one-horse open sle[G7/]igh, [G7/] hey!
 [C] Jingle bells, [C] jingle bells,
 [C] Jingle all the [C] way.
 [F] Oh what fun it [C] is to ride
-In a [D] one-horse open sle[C]igh [C]...
+In a [G7] one-horse open sle[C]igh 
 
-[C] Now the ground is [C] white,
-[C] Go it while you're [F] young.
-[F] Take the girls [G7] tonight,
-And [G7] sing this sleighing [C] song.
-Just [C] get a bobtailed [C] bay,
-Two [C] forty for his [F] speed,
-[F] Hitch him to an [G7] open sleigh,
-And [G7] crack, you'll take the [C/]lead - [G7] oh!
-
-
-[C] Jingle bells, [C] jingle bells,
-[C] Jingle all the [C] way.
-[F] Oh what fun it [C] is to ride
-In a [D] one-horse open sle[G7/]igh, [G7/] hey!
-
-[C] Jingle bells, [C] jingle bells,
-[C] Jingle all the [C] way.
-[F] Oh what fun it [C] is to ride
-In a [D] one-horse open sle[C]igh [C]...
-
-[F] Oh, what fun [C] is to ride in a [G7] one horse open [C] sleigh
-
-[F][C][C/]
+[F] Oh, what fun [C] is to ride in a [G7] one horse open [C/] sleigh
