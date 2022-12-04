@@ -1,21 +1,21 @@
 {t:🎅 All I Want For Christmas Is You}  
 {artist: Sammy Cahn and Jule Styne}  
-{level:Easy}
-
 {artist: Mariah Carey and Walter Afanasieff}  
-{level:Easy}
+{level:Hard}
+Info:
+strumming pattern: 4 down per chord
 
-Intro: [G]
+Intro: [G] <b>(slowly)</b>
 
-
-[G] I don't want a [G] lot for Christmas
-[G] There is just one [G] thing I need
-[C] I don't care a[C]bout the presents [Cm] underneath the [Cm] Christmas tree
-[G] I just want you [G//] for my [B7//] own
-[Em] More than you could [Em//] ever [Cm//] know
-[G] Make my wish come [E7] true
-[Am] All I want for [D] Christmas is [G] you
-[Em] Yeah [C] [D]
+[G/] I don't want a [G/] lot for Christmas
+[G/] There is just one [G/] thing I need
+[C/] I don't care a[C/]bout the presents [Cm/] underneath the [Cm/] Christmas tree
+[G/] I just want you [G/] for my [B7/] own
+[Em/] More than you could [Em/] ever [Cm/] know
+[G/] Make my wish come [E7/] true
+[Am/] All I want for [D/] Christma-a-as 
+i-i-i-is [G] you 
+[Em] Yeah [C] <b>(faster)</b>[D]
 
 [G] I don't want a [G] lot for Christmas
 [G] There is just one [G] thing I need (and I)
@@ -45,18 +45,18 @@ Baby, [Am] all I want for [D] Christmas is [G] you
 [G] I hear those [E7] sleigh bells ringing
 
 [Am/] Santa, won't you bring me the [Am/] one I really need? 
-Won't you [D/] please bring my [D/] baby to [D///] me? [D///] yeah yeah yeah 
+Won't you [D/] please bring my baby to me? 
 
 [G] I don't want a [G] lot for Christmas 
 [G] This is all I'm [G] asking for
 [C] I just wanna [C] see my baby [Cm] standing right out[Cm]side my door
-[G] I just want you [G//] for my [B7] own
+[G] I just want you [G//] for my [B7// ] own
 [Em] More than you could [Em//] ever [Cm//] know
 [G] Make my wish come [E7] true
-Baby, [Am] all I want for [D///] Christmas [D///]is 
+Baby, [Am] all I want for [D] Christmas is 
 [G] You, [Em] baby [C] [D]
 
-[C] All I want for [Em] Christmas is [C] you, [D] baby
-[C] All I want for [Em] Christmas is [C] you, [D] baby
-[C] All I want for [Em] Christmas is [C] you, [D] baby
+[G] All I want for [Em] Christmas is [C] you, [D] baby
+[G] All I want for [Em] Christmas is [C] you, [D] baby
+[G] All I want for [Em] Christmas is [C] you, [D] baby
 [G/]Ohhh 
