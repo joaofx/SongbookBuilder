@@ -1,40 +1,47 @@
 {t:🎅 Let It Snow}  
 {artist: Sammy Cahn and Jule Styne}  
-{level:Easy}
+{level:Medium}
 
+Info:
+strumming pattern: island strum
 
-*half of the island strum [d du]
+Intro: [G7] 
 
-Intro: [G7] [C/ //]
-
-Oh, the [C*] weather [G7*] outside is [C] frightful
-[C*] But the fire [D7*] is so de[G7]lightful
-And [Dm*] since we've [A7*] no place to [Dm] go
+Oh, the [C//] weather [G7//] outside is [C] frightful
+[C//] But the fire [D7//] is so de[G7]lightful
+And [Dm//] since we've [A7//] no place to [Dm] go
 Let it [G7] snow, let it snow, let it [C] snow
 
-[C*] It doesn't show [G7*] signs of [C] stopping,
-And I [C*] brought some [D7*] corn for [G7] popping
-The [Dm*] lights are turned [A7*] way down [Dm] low
-Let it [G7] snow, let it snow, let it [C] snow
-
-When we [G] finally kiss good [G] night,
-How I'll [Am*] hate going [D7*] out in the [G] storm
-But if you [G] really hold me [G] tight
-[A7*] All the way home [D7] I'll be [G7] warm
-
-[C*] The fire is [G7*] slowly [C] dying
-And, my [C*] dear, we're [D7*] still good-[G7]bye-ing
-[Dm*] But as long as you'd [A7*] love me [Dm] so,
+[C//] It doesn't show [G7//] signs of [C] stopping,
+And I [C//] brought some [D7//] corn for [G7] popping
+The [Dm//] lights are turned [A7//] way down [Dm] low
 Let it [G7] snow, let it snow, let it [C] snow
 
 When we [G] finally kiss good [G] night,
-How I'll [Am*] hate going [D7] out in the [G] storm
+How I'll [Am//] hate going [D7//] out in the [G] storm
 But if you [G] really hold me [G] tight
-[A7*] All the way home [D7] I'll be [G7] warm
+[A7//] All the way home [D7//] I'll be [G7] warm
 
-Oh [C*] the fire is [G7*] slowly [C] dying
-And, my [C*] dear, we're [D7*] still good-[G7]bye-ing
-[Dm*] But as long as you'd [A7*] love me [Dm] so,
+[C//] The fire is [G7//] slowly [C] dying
+And, my [C//] dear, we're [D7//] still good-[G7]bye-ing
+[Dm//] But as long as you'd [A7//] love me [Dm] so,
 Let it [G7] snow, let it snow, let it [C] snow
 
-Let it [G7] snow, let it [G7] snow, let it [C] snow [C/] [G7/] [C/]
+<i>(pa-pa-pa)</i>
+[C//] [G7//] [C] ...
+[C//] [D7//] [G7]...
+[Dm//] [A7//] [Dm]...
+[G7] ... [C] ...
+
+When we [G] finally kiss good [G] night,
+How I'll [Am//] hate going [D7//] out in the [G] storm
+But if you [G] really hold me [G] tight
+[A7//] All the way home [D7//] I'll be [G7] warm
+
+Oh [C//] the fire is [G7//] slowly [C] dying
+And, my [C//] dear, we're [D7//] still good-[G7]bye-ing
+[Dm//] But as long as you'd [A7//] love me [Dm] so,
+<b>(slowing down)</b>
+Let it [G7] sno-o-ow, 
+let it [G7] sno-o-ow,
+let it [C] sno-o-o-o-
