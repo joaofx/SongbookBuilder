@@ -1,49 +1,54 @@
 {t:🎅 Santa Claus Is Coming To Town}  
 {artist: Haven Gillespie and J. F. Coots}  
-{level:Easy}
+{level:Medium}
 
-Backbeat strum: d D d D
-*half of the strum [d D]
+Info: 
+strumming pattern: 4 down
 
 Intro: [G]
 
 You [G] better watch out
-You [G] better not cry
+You [C] better not cry
 You [G] better not pout
-I'm [C]* telling you [Cm/] why
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [G]
+I'm [C//] telling you [Cm/] why
+[G//] Santa [Em//] Claus is [Am//] coming [D//] to [G] town [D7]
 
 He's [G] making a list
 He's [C] checking it twice
-He's [G] gonna find out who's [C]* naughty or [Cm/] nice
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [G]
-
+He's [G] gonna find out who's [C//] naughty or [Cm/] nice
+[G//] Santa [Em//] Claus is [Am//] coming [D//] to [G] town [G]
 
 [G7] He sees you when you're [C] sleeping
 And he [G7] knows when you're a[C]wake
 [A7] He knows if you've been [D] bad or good
-So be [A7] good for goodness [D/] sake, [D7/] Oh!
+<b>(louder)</b>
+So be [A7/] good 
+for goodness [D7/] sake, 
 
+Oh!
 You [G] better watch out
-You [G] better not cry
+You [C] better not cry
 You [G] better not pout
-I'm [C]* telling you [Cm/] why
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [G]
+I'm [C//] telling you [Cm/] why
+[G//] Santa [Em//] Claus is [Am//] coming [D//] to [G] town [G]
 
 Now, [G7] He sees you when you're [C] sleeping
 And he [G7] knows when you're a[C]wake
 [A7] He knows if you've been [D] bad or good
-So be [A7] good for goodness [D/] sake, [D7/] Oh!
+<b>(louder)</b>
+So be [A7/] good 
+for goodness [D7/] sake, 
+
+Oh!
+You [G] better watch out
+You [C] better not cry
+You [G] better not pout
+I'm [C//] telling you [Cm/] why
+[G//] Santa [Em//] Claus is [Am//] coming [D//]  to [G] town [D7]
 
 You [G] better watch out
-You [G] better not cry
+You [C] better not cry
 You [G] better not pout
-I'm [C]* telling you [Cm/] why
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [G]
-
-You [G] better watch out
-You [G] better not cry
-You [G] better not pout
-I'm [C]* telling you [Cm/] why
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [G]
-[G]* Santa [Em]* Claus is [Am]* coming to [G]* town [C]* [G/]
+I'm [C//] telling you [Cm/] why
+[G//] Santa [Em//] Claus is [Am//] coming [D//] to [G] town [G]
+[G//] Santa [Em//] Claus is [Am//] coming [D//] to [G] town [D7/] [G/]
