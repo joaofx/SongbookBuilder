@@ -1,4 +1,4 @@
-{t:🎅 Happy Xmas }  
+{t:🎅Happy Xmas }  
 {artist:John Lennon}  
 {level:Medium}
 {spotify:3zJw3rugfpVrmBeDDnUYzy}

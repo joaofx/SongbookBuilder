@@ -1,4 +1,4 @@
-{t:🎅 Have yourself a merry little Christmas}
+{t:🎅Have Yourself A Merry Little Christmas}
 {artist: Judy Garland/Sam Smith}  
 {level:Hard}
 
@@ -17,7 +17,7 @@ out of [B7] sight [E7] .. [A7] .. [D7]
 [G] From now [Em]  on our [Am] troubles will be [B7] miles 
 [Em] away [Em] ..  [G] .. [G7]
  
-[Chorus]
+(chorus)
 [Cmaj7] Here [Cmaj7] we are as in [Bm] olden days [E7]
 Happy [Am] golden days [D] .. of [Gmaj7] yore [Gmaj7]
 [Em] Faithful [Em] friends who were [Bm] dear to us [Bm] 

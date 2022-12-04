@@ -1,4 +1,4 @@
-{t:🎅 Last Christmas}  
+{t:🎅Last Christmas}  
 {artist:Wham!}  
 {level:Easy}
 

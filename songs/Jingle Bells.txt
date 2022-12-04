@@ -1,4 +1,4 @@
-{t:🎅 Jingle Bells}  
+{t:🎅Jingle Bells}  
 {artist: J.S. Pierpont}  
 {level:Easy}
 

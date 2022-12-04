@@ -45,8 +45,8 @@ dotnet run serve C:\Ukulele\SongbookBuilder
 To export the songbook html's to be uploaded to a web server (run the command at `src/SongbookBuilder`:)
 
 ```shell
-dotnet run export C:\Ukulele\Songbook
+dotnet run export C:\Ukulele\SongbookBuilder
 ```
-<!-- dotnet run export D:\Ukulele\krakow-ukulele -->
+<!-- dotnet run export D:\Ukulele\SongbookBuilder\ -->
 
 The htmls will be exported at `PATH_TO_YOUR_ARTIFACTS_DIRECTORY\export`
