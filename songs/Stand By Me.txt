@@ -1,4 +1,4 @@
-{t: Stand by Me }  
+{t: Stand By Me }  
 {key: G}  
 {artist:Ben E King}  
 {level:Easy}  
