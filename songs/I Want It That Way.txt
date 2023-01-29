@@ -2,13 +2,15 @@
 {artist:Backstreet Boys}  
 {level:Hard}
 
-(ps: song original start is Bm, here is one note lower (Am) for easier chords)
+Info:
+- song original start is Bm, here is one note lower (Am) for easier chords
+- for riff part play 0, 3, 7 on A string
 
-Intro:
+<i>(intro)</i>
 [Am] [F] [C]
 [Am] [F] [C]
 
-(single strum)
+<i>(single strum)</i>
 You [Am/] are .. my [F/] fi[C/]re
 The [Am/] one .. de[F/]si[C/]re
 Be[Am/]lieve .. when [F/] I [C/] say
@@ -19,10 +21,10 @@ But [Am] we .. are [F] two [C] worlds
 Your [Am] heart .. when [F] you [C] say
 That [Am] I want it [G] that [C] way
 
-(Chorus)
-Tell me [F] why, (Ain't nothin' but a [G] heart[Am]ache)
-Tell me [F] why, (Ain't nothin' but a [G] mis[Am]take)
-Tell me [F] why, I never wanna [G] hear [C] you say
+<i>(chorus)</i>
+Tell me [F] why, [back]Ain't nothin' but a [G] heart[Am]ache[/back]
+Tell me [F] why, [back]Ain't nothin' but a [G] mis[Am]take[/back]
+Tell me [F] why, [back]I never wanna [G] hear [C] you say[/back]
 [Am] I want it [G] that [C] way
 
 Am [Am] I .. your [F] fi[C]re
@@ -30,9 +32,10 @@ Your [Am] one .. de[F]si[C]re
 I [Am] know .. it's [F] too [C] late
 But [Am] I want it [G] that [C] way
 
-Tell me [F] why, (Ain't nothin' but a [G] heart[Am]ache)
-Tell me [F] why, (Ain't nothin' but a [G] mis[Am]take)
-Tell me [F] why, I never wanna [G] hear [C] you say
+<i>(chorus)</i>
+Tell me [F] why, [back]Ain't nothin' but a [G] heart[Am]ache[/back]
+Tell me [F] why, [back]Ain't nothin' but a [G] mis[Am]take[/back]
+Tell me [F] why, [back]I never wanna [G] hear [C] you say[/back]
 [Am] I want it [E7] that way
 
 [Am] Now i can see that we've [C] fallen apart
@@ -40,23 +43,23 @@ From the [F] way that it used to [Dm//] be [G//] yeah
 No [Am] matter the distance, i [C] want you to know 
 That [F] deep down inside of [G/] meeeee
 
-(single strum)
+<i>(single strum)</i>
 You [Am/] are, my [F/] fi[C/]re
 The [Am/] one, de[F/]si[C/]re
 You [F/] are, you are, you [G/] are, you [C/] are (stop)
 
-(riff) Don't want to hear you
+[riff] Don't want to hear you
 
-[F] Ain't nothin' but a [G] heart[Am]ache
-[F] Ain't nothin' but a [G] mis[Am]take
-[F] I never wanna [G] hear [C] you say
-[Am] I want it [G] that [C] way
+[G] Ain't nothin' but a [A] heart[Bm]ache
+[G] Ain't nothin' but a [A] mis[Bm]take
+[G] I never wanna [A] hear [D] you say
+[Bm] I want it [A] that [D] way
 
-(Chorus)
-Tell me [F] why, (Ain't nothin' but a [G] heart[Am]ache)
-Tell me [F] why, (Ain't nothin' but a [G] mis[Am]take)
-Tell me [F] why, i never wanna [G] hear [C] you say
-[Am] I want it [G] that [C] way
+<i>(chorus)</i>
+Tell me [G] why, [back]Ain't nothin' but a [A] heart[Bm]ache[/back]
+Tell me [G] why, [back]Ain't nothin' but a [A] mis[Bm]take[/back]
+Tell me [G] why, [back]I never wanna [A] hear [D] you say[/back]
+[Bm] I want it [A] that [D] way
 
-(quietly single strums)
-‘Cause [Am/] i want it [G] that [C/] way
+<i>(quietly single strums)</i>
+‘Cause [Bm/] i want it [A/] that [D/] way
