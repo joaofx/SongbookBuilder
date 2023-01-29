@@ -4,61 +4,62 @@
 {new:}
 
 Info:
-* in chorus after [B7//] strumming pauses
+- in chorus after [E7//] strumming pauses
+- key is different than orginal, should be easier to sing, and beginner friendly chords
 
-(intro:)
-[Em]... [Em]...
+<i>(intro:)</i>
+[Am]... [Am]...
 
-[Em] People are strange
-[Am//] When you're a [Em//] stranger
-[Am//] Faces look [Em//] ugly
-[B7//] When you're [Em//] alone
-[Em] Women seem wicked
-[Am//] When you're [Em//] unwanted
-[Am//] Streets are [Em//] uneven
-[B7//] When you're [Em//] down
+[Am] People are strange
+[Dm//] When you're a [Am//] stranger
+[Dm//] Faces look [Am//] ugly
+[E7//] When you're [Am//] alone
+[Am] Women seem wicked
+[Dm//] When you're [Am//] unwanted
+[Dm//] Streets are [Am//] uneven
+[E7//] When you're [Am//] down
 
-[B7] When you're strange
-[G] Faces come out of the [B7//] rain
-When you're strange [B7//]
-[G] No one remembers your [B7//] name
-When you're [B7//] strange
-When you're [B7//] strange
-When you're... [B7]strange...[B7]
+[E7] When you're strange
+[C] Faces come out of the [E7//] rain
+When you're strange [E7//]
+[C] No one remembers your [E7//] name
+When you're [E7//] strange
+When you're [E7//] strange
+When you're... [E7]strange...[E7]
 
-[Em] People are strange
-[Am//] When you're a [Em//] stranger
-[Am//] Faces look [Em//] ugly
-[B7//] When you're [Em//] alone
-[Em] Women seem wicked
-[Am//] When you're [Em//] unwanted
-[Am//] Streets are [Em//] uneven
-[B7//] When you're [Em//] down
+[Am] People are strange
+[Dm//] When you're a [Am//] stranger
+[Dm//] Faces look [Am//] ugly
+[E7//] When you're [Am//] alone
+[Am] Women seem wicked
+[Dm//] When you're [Am//] unwanted
+[Dm//] Streets are [Am//] uneven
+[E7//] When you're [Am//] down
 
-[B7] When you're strange
-[G] Faces come out of the [B7//] rain
-When you're strange [B7//]
-[G] No one remembers your [B7//] name
-When you're [B7//] strange
-When you're [B7//] strange
-When you're... [B7]strange...[B7]
+[E7] When you're strange
+[C] Faces come out of the [E7//] rain
+When you're strange [E7//]
+[C] No one remembers your [E7//] name
+When you're [E7//] strange
+When you're [E7//] strange
+When you're... [E7]strange...[E7]
 All right, yeah
 
-[Em]...
-[Am//][Em//]
-[Am//][Em//]
-[B7//][Em//]
-[Em]...
-[Am//][Em//]
-[Am//][Em//]
-[B7//][Em//]
+[Am]...
+[Dm//][Am//]
+[Dm//][Am//]
+[E7//][Am//]
+[Am]...
+[Dm//][Am//]
+[Dm//][Am//]
+[E7//][Am//]
 
-[B7] When you're strange
-[G] Faces come out of the [B7//] rain
-When you're strange [B7//]
-[G] No one remembers your [B7//] name
-When you're [B7//] strange
-When you're [B7//] strange
+[E7] When you're strange
+[C] Faces come out of the [E7//] rain
+When you're strange [E7//]
+[C] No one remembers your [E7//] name
+When you're [E7//] strange
+When you're [E7//] strange
 When you're[stop]... 
-[B7/]strange...
-<!--[Em/]-->
+[E7/]strange...
+<!--[Am/]-->
