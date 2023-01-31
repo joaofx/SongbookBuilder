@@ -3,8 +3,8 @@
 {level:Easy}
 {youtube:qrO4YZeyl0I}
 {spotify:0SiywuOBRcynK0uKGWdCnn}
-
 {new:}
+
 <i>(intro)</i>
 Oh oh oh oh [F/] oh oh oh oh [G/] oh oh oh oh
 [Am/] Caught in a bad romance [C/]
@@ -19,15 +19,15 @@ Gaga, "Oh la la"
 Want your bad romance
 
 <i>(verse)</i>
-[Am] I want your ugly, [C] I want your [F] disease
-[Am] I want your everything [C] as long as it's [G] free
-I want your [Am] love
-[C] Love, love, [F] love, I want your [Am] love [C][G]
+[Am] I want your ugly, [C//] I want your [F//] disease
+[Am] I want your everything [C//] as long as it's [G//] free
+I want your [Am] love ... [C//] Love, love, [F//] love, 
+I want your [Am] love [C//][G//]
 
-[Am] I want your drama, the [C] touch of your [F] hand
-[Am] I want your leatherstudded [C] kiss in the [G] sand
-I want your [Am] love
-[C] Love, love, [F] love, I want your [Am] love [C][G]
+[Am] I want your drama, the [C//] touch of your [F//] hand
+[Am] I want your leatherstudded [C//] kiss in the [G//] sand
+I want your [Am] love ... [C//] Love, love, [F//] love, 
+I want your [Am] love [C//][G//]
 
 <i>(pre-chorus)</i>
 [Am/] You know that I want you
@@ -54,15 +54,15 @@ Gaga, "Oh la la"
 Want your bad romance
  
 <i>(verse)</i>
-[Am] I want your horror, [C] I want your [F] design
-[Am] 'Cause you're a criminal [C] as long as you're [G] mine
-I want your [Am] love
-[C] Love, love, [F] love, I want your [Am] love [C][G]
+[Am] I want your horror, [C//] I want your [F//] design
+[Am] 'Cause you're a criminal [C//] as long as you're [G//] mine
+I want your [Am] love ... [C//] Love, love, [F//] love,
+I want your [Am] love [C//][G//]
 
-[Am] I want your psycho, your [C] vertigo [F] shtick
-[Am] Want you in my rear window, [C] baby, it's [G] sick
-I want your [Am] love
-[C] Love, love, [F] love, I want your [Am] love [C][G] 
+[Am] I want your psycho, your [C//] vertigo [F//] shtick
+[Am] Want you in my rear window, [C//] baby, it's [G//] sick
+I want your [Am] love ... [C//] Love, love, [F//] love, 
+I want your [Am] love [C//][G//] 
 
 <i>(pre-chorus)</i>
 [Am/] You know that I want you
@@ -117,7 +117,6 @@ Oh oh oh oh [F] oh oh oh oh [G] oh oh oh oh
 [Am] Caught in a bad romance [C]
 Oh oh oh oh [F] oh oh oh oh [G] oh oh oh oh
 [E7] Caught in a bad romance [Am] 
- 
  
 <i>(outro)</i>
 [Am] (Down-Down)
