@@ -3,58 +3,64 @@
 {level:Hard}
 {youtube:lnJbP4rO6R4}
 
-(Ps: 
+Info: 
+- most chords are played with just two strums
 - intro tempo [A7sus4/] 1 .. 2 [A7sus4/] 1 ..
 - vocal harmonies repeats what is sang
-- the part with no vocal harmonies
-- last lines (daaay)
-)
-
-Intro: 
+- there is a part with no vocal harmonies
+- last lines "on such a winters day" are done by the second voice
+- intro solo:<pre>
+ | [A7sus4/]      |[A7sus4/]      |[A7sus4/]       |[A7sus4/]
+A|----------------|-----0-1-0-----|---------7-5-3--|-5-------|
+E|-----0---3-1-0--|-----------3-1-|-----0----------|-5-------|
+C|---2------------|---2-----------|---2------------|-4-------|
+G|-2-----2--------|-2-------------|-2-----2--------|-2-------|
+</pre>
+Intro + solo: 
 [A7sus4/] ... [A7sus4/] ...
 [A7sus4/] ... [A7sus4/] ...
 
-(with vocal harmonies)
-All the leaves are [Dm] brown [C] [Bb]
-And the [C] sky is [A7sus4] grey [A7]
-I've been for a [F] walk [A7] [Dm]
-On a [Bb] winter's [A7sus4] day [A7]
+<i>(with vocal harmonies)</i>
+All the leaves are [Dm//] brown [C//] [Bb//]
+And the [C//] sky is [A7sus4] grey [A7]
+I've been for a [F//] walk [A7//] [Dm//]
+On a [Bb//] winter's [A7sus4] day [A7]
 
-I’d be safe and [Dm] warm [C] [Bb]
-If I [C] was in [A7sus4] LA [A7]
-California [Dm] dreamin’ [C] [Bb]
-On [C] such a winter's [A7sus4] day [A7]
+I’d be safe and [Dm//] warm [C//] [Bb//]
+If I [C//] was in [A7sus4] LA [A7]
+California [Dm//] dreamin’ [C//] [Bb//]
+On [C//] such a winter's [A7sus4] day [A7]
 
-(no vocal harmonies)
-Stopped into a [Dm] church [C] [Bb]
-I passed [C] along the [A7sus4] way [A7]
-Well I got down on my [F] knees [A7] [Dm]
-And I pre[Bb]tend to [A7sus4] pray [A7]
+<i>(no vocal harmonies)</i>
+Stopped into a [Dm//] church [C//] [Bb//]
+I passed [C//] along the [A7sus4] way [A7]
+Well I got down on my [F//] knees [A7//] [Dm//]
+And I pre[Bb//]tend to [A7sus4] pray [A7]
 
-You know the preacher likes the [Dm] cold [C] [Bb]
-He knows I'm [C] gonna [A7sus4] stay [A7]
-California [Dm] dreamin’ [C] [Bb]
-On [C] such a winter's [A7sus4] day [A7]
+You know the preacher likes the [Dm///] cold [C//] [Bb//]
+He knows I'm [C//] gonna [A7sus4] stay [A7]
+California [Dm//] dreamin’ [C//] [Bb//]
+On [C//] such a winter's [A7sus4] day [A7]
 
-Solo: 
+<i>(instrumental)</i>
 [Dm] | [Dm] | [Dm] | [Dm]
 [F//] [A//] | [Dm//] [Bb//] | [A7sus4] | [A7]
 [Dm//] [C//] | [Bb//] [C//] | [A7sus4] | [A7]
 [Dm//] [C//] | [Bb//] [C//] | [A7sus4] | [A7]
 
-(with vocal harmonies)
-All the leaves are [Dm] brown [C] [Bb]
-And the [C] sky is [A7sus4] grey [A7]
-I've been for a [F] walk [A7] [Dm]
-On a [Bb] winter's [A7sus4] day [A7]
+<i>(with vocal harmonies)</i>
+All the leaves are [Dm//] brown [C//] [Bb//]
+And the [C//] sky is [A7sus4] grey [A7]
+I've been for a [F//] walk [A7//] [Dm//]
+On a [Bb//] winter's [A7sus4] day [A7]
 
-If I didn’t [Dm] tell her [C] [Bb]
-I could [C] leave [A7sus4] today [A7]
-California [Dm] dreamin’ [C] [Bb]
-On [C] such a winter's– (daaay)
-[Dm] California dreamin’ [C] [Bb]
-On [C] such a winter's- (daaay)
-[Dm] California dreamin’ [C] [Bb]
-On [C]such a winter's [Bb] daaaay
+If I didn’t [Dm//] tell her [C//] [Bb//]
+I could [C//] leave [A7sus4] today [A7]
+California [Dm//] dreamin’ [C//] [Bb//]
+   [back]On [C//] such a winter's– daaay[/back]
+[Dm//] California dreamin’ [C//] [Bb//]
+   [back]On [C//] such a winter's- daaay[/back]
+[Dm//] California dreamin’ [C//] [Bb//]
+On [C//]such a winter's [Bb] daaaay [Bb] ...
 
 [Dm/]

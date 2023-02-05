@@ -3,18 +3,20 @@
 {artist:The Monkees}  
 {level:Medium}  
 
-Ps: At Chorus just alternate between [G] and [C] using same duration for them
+Info:
+- rearanged ending, so its like that one from Shreck movie
+- at chorus and ending just alternate between [G] and [C] using same duration for them
 
-Intro: 
+<i>(intro)</i>
 [G]
 
 [G] I thought love was [D] only true in [G] fairy tales   
-Meant for someone [D] else but not for [G] me. 
+[G] Meant for someone [D] else but not for [G] me. 
 [C] Love was out to [G] get me   
 [C] That's the way it [G] seemed.   
 [C] Disappointment [G] haunted all my [D] dreams. [D/] (stop)
    
-(Chorus:)
+<i>(chorus)</i>
 Then I saw her [G] face, .. [C] .. 
 Now I'm a be[G]liever! .. [C] ..
 Not a [G] trace .. [C] .. 
@@ -23,12 +25,12 @@ Of doubt in my [G] mind .. [C] ..
 [C/] I'm a be[G/]liever! I couldn't [F/] leave her if I [D] tried. [D]  
 
 [G] I thought love was [D] more or less a [G] given thing,   
-Seems the more I [D] gave the less I [G] got
+[G]Seems the more I [D] gave the less I [G] got
 [C] What's the use in [G] trying?   
 [C] All you get is [G] pain.   
 [C] When I needed [G] sunshine I got [D] rain. [D/] (stop)  
 
-(Chorus:)
+<i>(chorus)</i>
 Then I saw her [G] face, .. [C] .. 
 Now I'm a be[G]liever! .. [C] ..
 Not a [G] trace .. [C] .. 
@@ -36,12 +38,13 @@ Of doubt in my [G] mind .. [C] ..
 [G/] (stop) I'm in love oooohh  
 [C/] I'm a be[G/]liever! I couldn't [F/] leave her if I [D] tried. [D] 
      
-[G] I thought love was [D] more or less a [G] given thing,   
-Seems the more I [D] gave the less I [G] got  
-[C] Love was out to [G] get me, [C] That's the way it [G] seemed.   
-[C] Disappointment [G] haunted all my [D] dreams.  (stop) 
+[G] ... [D] ...[G] ... ...   
+[G] ... [D] ...[G] ... ... 
+[C] What's the use in [G] trying?   
+[C] All you get is [G] pain.   
+[C] When I needed [G] sunshine I GOT [D] RAIN! [D/] (stop)  (stop) 
 
-(Chorus:)
+<i>(chorus)</i>
 Then I saw her [G] face, .. [C] .. 
 Now I'm a be[G]liever! .. [C] ..
 Not a [G] trace .. [C] .. 
@@ -50,10 +53,16 @@ Of doubt in my [G] mind .. [C] ..
 [C/] I'm a be[G/]liever! I couldn't [F/] leave her if I [D] tried. [D] (stop)
 
 Then I saw her [G] face, .. [C] .. 
-Now I'm a be[G]liever! .. [C] ..
+Now I'm a be[G]liever! .. [C] .. Hey
 Not a [G] trace .. [C] .. 
 Of doubt in my [G] mind .. [C] ..
-[G/] (stop) I'm in love oooohh  
-[C/] I'm a be[G/]liever! I couldn't [F/] leave her if I [D] tried. [D]
+[G]  I'm in loooove.... [C] ..
+Now I'm a be[G]liever! .. [C] ..
 
-[G/]
+[G] ... [C] ...
+I be[G]live, I belive, I belive, I belive, I be[C]live, I belive...
+[G]...[C]...
+(loud)
+[G]I... Be[C]live  <b>x4</b>
+[G]I... Bel[C/]iiiiiiive
+
