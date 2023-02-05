@@ -1,5 +1,5 @@
 {t:🎂Happy Birthday}
-{artist: Patty&Mildred Hill (Traditional tune)}
+{artist: Patty & Mildred Hill (Traditional tune)}
 {level:Easy}
 
 Happy [C/] Birthday to [G7/] You

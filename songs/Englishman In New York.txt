@@ -1,4 +1,4 @@
-{t:⭐Englishman in New York}
+{t:⭐Englishman In New York}
 {artist:Sting}
 {level:Easy}
 {youtube:d27gTrPPAyk}

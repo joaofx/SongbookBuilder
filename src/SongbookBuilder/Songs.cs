@@ -101,6 +101,7 @@ public class Songs
         return song
             .Replace("⭐", string.Empty)
             .Replace("🎅", string.Empty)
+            .Replace("🎂", string.Empty)
             .Replace("-", " ");
     }
 
