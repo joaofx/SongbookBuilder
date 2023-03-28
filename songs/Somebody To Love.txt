@@ -1,7 +1,7 @@
 {t:⭐Somebody To Love } 
 {key: Em} 
 {artist:Jefferson Airplane} 
-{level:Easy} 
+{level:Medium} 
 
 [Em]... [A//][D//] [Em]... [Em]
 When the [Em] truth is found [A//][D//] to be... [Em]... [Em] lies
