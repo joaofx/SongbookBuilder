@@ -8,8 +8,10 @@ info:
 * different key than orginal
 <!--* instead od second F in verse Fsus2-->
 
+<i>(intro)</i>
 [C]..[Cmaj7]..[F]..[F].. x2
 
+<i>(verse)</i>
 [C] Coming out of my [Cmaj7] cage and I've been doing just [F] fine
 Gotta, gotta be down [F] because I want it all
 [C] It started out with a [Cmaj7] kiss; how did it end up like [F] this?
@@ -19,11 +21,13 @@ While he's having a [F] smoke and she's taking a [C] drag
 Now they're going to [Cmaj7] bed, and my stomach is [F] sick
 And it's all in my [F] head, but she's touching his
 
-[Am] Chest now, he takes off her
-[G] Dress now, let me [F] go
+<i>(bridge)</i>
+[Am] Chest now, he takes off her [G] dress now, 
+Let me [F] go ... [F] ...
 [Am] I just can't look; it's [G] killing me
-And ta[F]king control
+And ta[F]king control ... [F] ...
 
+<i>(chorus)</i>
 [C] Jealousy, 
 [F] turning saints in[Am]to the sea
 [G] Swimming through sick [C] lullabies, 
@@ -35,6 +39,7 @@ And ta[F]king control
 
 [C]..[F]..[Am]..[G] x2
 
+<i>(verse)</i>
 [C] Coming out of my [Cmaj7] cage and I've been doing just [F] fine
 Gotta, gotta be down [F] because I want it all
 [C] It started out with a [Cmaj7] kiss; how did it end up like [F] this?
@@ -44,11 +49,13 @@ While he's having a [F] smoke and she's taking a [C] drag
 Now they're going to [Cmaj7] bed, and my stomach is [F] sick
 And it's all in my [F] head, but she's touching his
 
-[Am] Chest now, he takes off her
-[G] Dress now, let me [F] go
-[Am]I just can't look; it's [G] killing me
-And ta[F]king control
+<i>(bridge)</i>
+[Am] Chest now, he takes off her [G] dress now, 
+Let me [F] go ... [F] ...
+[Am] I just can't look; it's [G] killing me
+And ta[F]king control ... [F] ...
 
+<i>(chorus)</i>
 [C] Jealousy, 
 [F] turning saints in[Am]to the sea
 [G] Swimming through sick [C] lullabies, 
@@ -60,6 +67,7 @@ And ta[F]king control
 
 [C]..[F]..[Am]..[G] x2
 
+<i>(outro)</i>
 I ne[C]ver ..[F]..[Am]..[G]
 I ne[C]ver ..[F]..[Am]..[G]
 I ne[C]ver ..[F]..[Am]..[G]
