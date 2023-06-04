@@ -21,7 +21,7 @@ Think I'll [Dm] walk me outside and buy a rainbow smile
 But be [Am] free
 They're all [G] free
 
-<i>(chorus)</i> <b>x2</b>
+<i>(chorus)</i> 
 [F] So maybe [Dm] tomorrow
 I'll find my [Am] wa-a-a-ay [G] home
 [F] So maybe [Dm] tomorrow
@@ -38,7 +38,7 @@ I wanna [Dm] swim in the ocean
 Wanna take my time for [Am] me
 All [G] me
 
-<i>(chorus)</i> <b>x2</b>
+<i>(chorus)</i> 
 [F] So maybe [Dm] tomorrow
 I'll find my [Am] wa-a-a-ay [G] home
 [F] So maybe [Dm] tomorrow
@@ -60,5 +60,8 @@ I'll find my [Am] wa-a-a-ay [G] home
 I'll find my [Am/] wa-a-a-ay [G/] home
 [F/] So maybe [Dm/] tomorrow
 I'll find my [Am/] wa-a-a-ay [G/] home
-na -na -na -na
-[F] ... [Dm] ... [Am] ... [G] ... <b>x2</b>
+
+
+[F] na -na -na -na [Dm] na -na -na -na 
+[Am] na -na -na -na [G] na -na -na -na 
+[F/]
