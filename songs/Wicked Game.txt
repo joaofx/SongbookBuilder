@@ -4,39 +4,45 @@
 {spotify:390AWnOn2rfe9FzQjYmxIH}
 {key:D}
 
-Intro:
+<i>(intro + riff)</i>
 [Em] [D] [A] [A]
 [Em] [D] [A] [A]
 
+<i>(verse)</i>
 [Em] The world was on fire and [D] no one could save me but [A] you. [A]
 [Em] It's strange what desire will [D] make foolish people [A] do. [A]
 [Em] I never dreamed that [D] I'd meet somebody like [A] you. [A]
 [Em] I never dreamed that [D] I'd love somebody like [A] you. [A] But
-{c: }
+
+<i>(chorus)</i>
 [Em] I [D] don't want to fall in [A] love. [A] No
 [Em] I [D] don't want to fall in [A] love, [A] with 
 [Em] you. [D]  [A] [A]
-{c: }
+
+<i>(verse)</i>
 [Em] What a wicked [D] game to play, [A] to make me [A] feel this way.
 [Em] What a wicked [D] thing to do, [A] to let me [A] dream of you.
 [Em] What a wicked [D] thing to say, [A] you never [A] felt this way. 
 [Em] What a wicked [D] thing to do, [A] to make me [A] dream of you and,
-{c: }
+
+<i>(chorus)</i>
 [Em] I [D] don't want to fall in [A] love. [A] No
 [Em] I [D] don't want to fall in [A] love, [A] with
 [Em] you. [D] [A] [A]
 [Em] [D] [A] [A]
-[Em] [D] [A] [A]
-{c: }
+
+<i>(verse)</i>
 [Em] The world was on fire and [D] no one could save me but [A] you.[A]
 [Em] It's strange what desire will [D] make foolish people [A] do. [A]
 [Em] I never dreamed that [D] I'd love somebody like [A] you. [A]
 [Em] I never dreamed that [D] I'd loose somebody like [A] you, [A] No
-{c: }
+ 
+<i>(chorus)</i>
 [Em] I [D] don't want to fall in [A] love. [A] No
 [Em] I [D] don't want to fall in [A] love, [A] with
 [Em] you. [D] [A] [A]     
 [Em] No I [D] [A] [A]
 [Em] [D] [A] [A]
-{c: }
-[Em] Nobody-[D/]-y loves no [A/] one.
+
+[Em/]<i>(pause)</i>
+Nobody-[D/]-y loves no [A/] one.
