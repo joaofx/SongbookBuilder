@@ -1,7 +1,9 @@
 {t:⭐Somebody To Love } 
 {key: Em} 
 {artist:Jefferson Airplane} 
-{level:Easy} 
+{level:Medium} 
+{youtube:p4zp6-8mc1w}
+{spotify:4uGIJG1jYFonGc4LGp5uQL}
 
 [Em]... [A//][D//] [Em]... [Em]
 When the [Em] truth is found [A//][D//] to be... [Em]... [Em] lies
