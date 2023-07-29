@@ -1,7 +1,7 @@
 {t:Thinking Out Loud} 
 {artist:Ed Sheeran}
 {key:D}
-{level:Medium}
+{level:Hard}
 
 info:
 *// means half beat <!--I gues:/-->
