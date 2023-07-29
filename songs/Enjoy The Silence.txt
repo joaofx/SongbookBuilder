@@ -1,4 +1,4 @@
-{t:⭐Enjoy The Silence}
+{t:Enjoy The Silence}
 {artist:Depeche Mode}
 {level:Medium}
 {youtube:lwLkXRIgoZw}

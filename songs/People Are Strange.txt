@@ -1,7 +1,6 @@
-{t:⭐People Are Strange}
+{t:People Are Strange}
 {artist:The Doors}
 {level:Easy}
-{new:}
 
 Info:
 - in chorus after [E7//] strumming pauses

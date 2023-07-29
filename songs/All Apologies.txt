@@ -1,4 +1,4 @@
-{t:⭐All Apologies}
+{t:All Apologies}
 {artist:Nirvana}
 {level:Easy}
 {youtube:DkWmW_jJk9k}
