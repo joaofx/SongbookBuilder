@@ -49,4 +49,14 @@ dotnet run export C:\Ukulele\SongbookBuilder
 ```
 <!-- dotnet run export D:\Ukulele\SongbookBuilder\ -->
 
+<!-- 
+dotnet run export /Users/joao/projects/SongbookBuilder --project src/SongbookBuilder
+dotnet serve --directory export
+cp -a export/. ../krakow-ukulele/
+cd ../krakow-ukulele
+git add -A && git commit -m "Commit" && git push origin master 
+cd -
+git add -A && git commit -m "Commit" && git push origin master 
+-->
+
 The htmls will be exported at `PATH_TO_YOUR_ARTIFACTS_DIRECTORY\export`

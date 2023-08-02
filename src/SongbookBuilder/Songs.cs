@@ -18,6 +18,7 @@ public class Songs
         var songFiles = Directory
             .GetFiles(Path.Combine(Settings.Current.AssetsDirectory, "songs"))
             .Where(f => !Path.GetFileName(f).StartsWith("_"))
+            .OrderBy(Path.GetFileName)
             .ToList();
 
         var number = 1;
