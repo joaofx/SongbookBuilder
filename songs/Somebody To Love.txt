@@ -1,4 +1,4 @@
-{t:⭐Somebody To Love } 
+{t:Somebody To Love } 
 {key: Em} 
 {artist:Jefferson Airplane} 
 {level:Medium} 

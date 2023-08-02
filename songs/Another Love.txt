@@ -1,7 +1,7 @@
-{t:⭐Another Love}
+{t:Another Love}
 {artist:Tom Odell}
 {level:Easy}
-{new:}
+
 
 Intro:
 [Em//] [C//] [Em]... [Bm]... [C]... <b>x2</b>

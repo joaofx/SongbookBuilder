@@ -1,9 +1,9 @@
-{t:⭐Don't Let Me Down}
+{t:Don't Let Me Down}
 {artist:The Beatles}
 {level:Easy}
 {youtube:NoGRUjTNSng}
 {spotify:5BhMoGrz5KzG2fA5uzHjZ1}
-{new:}
+
 
 <div class="mb-1">
 Beats per chord: <b>8</b>
