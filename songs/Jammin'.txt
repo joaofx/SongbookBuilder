@@ -3,6 +3,10 @@
 {spotify:4zn0kScuV9Oj28d4g9CQQs}  
 {level:Medium}
 
+Info:
+* in the end of the lyrics there's special part for improvisation,
+that can be extended if there's need
+
 Intro: [Bm7]
 
 We're [Bm7] jamming [E7]   
@@ -56,11 +60,12 @@ True [Bm7//] love I know [E7//] exist
 It's [Bm7//] the love I can't [E7//] resist 
 [G] So, jam by my [F#m] side 
 
-
 We're [Bm7] jamming [E7]   
 [G] I wanna jam it with [F#m] you,   
 We're [Bm7] jamming [E7] jamming   
 And I [G] hope you like jamming [F#m] too  
 
-...Improvidse :) ....
+<i>... Improvise :) ...</i>
+[Bm7] ... [E7] ... [G] ... [F#m]... <b>x4</b>
+
 [Bm7/]
