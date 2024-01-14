@@ -56,7 +56,7 @@ cp -a export/. ../krakow-ukulele/
 cd ../krakow-ukulele
 git add -A && git commit -m "Commit" && git push origin master 
 cd -
-git add -A && git commit -m "Commit" && git push origin master 
+git add -A && git commit -m "Export dir update" && git push origin master 
 -->
 
 The htmls will be exported at `PATH_TO_YOUR_ARTIFACTS_DIRECTORY\export`
