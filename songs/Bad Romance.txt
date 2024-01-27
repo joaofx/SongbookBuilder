@@ -1,9 +1,8 @@
-{t:⭐Bad Romance}
+{t:Bad Romance}
 {artist:Lady Gaga}
 {level:Easy}
 {youtube:qrO4YZeyl0I}
 {spotify:0SiywuOBRcynK0uKGWdCnn}
-{new:}
 
 <i>(intro)</i>
 Oh oh oh oh [F/] oh oh oh oh [G/] oh oh oh oh
