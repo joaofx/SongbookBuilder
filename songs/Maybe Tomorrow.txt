@@ -1,10 +1,9 @@
-{t:⭐Maybe Tomorrow}
+{t:Maybe Tomorrow}
 {artist:Stereophonics}
 {level:Easy}
 {youtube:2q9_ZEtuTR8}
 {spotify:6SXy02aTZU3ysoGUixYCz0}
 
-{new:}
 Info:
 *diffrent key than orginal
 

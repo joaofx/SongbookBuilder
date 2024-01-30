@@ -1,9 +1,8 @@
-{t:⭐Pumped Up Kicks}
+{t:Pumped Up Kicks}
 {artist:Foster The People }
 {level:Easy}
 {youtube:SDTZ7iX4vTQ}
 {spotify:7w87IxuO7BDcJ3YUqCyMTT}
-{new:}
 
 <i>(intro)</i>
 (pa-pa-papa)
