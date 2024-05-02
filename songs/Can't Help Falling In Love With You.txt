@@ -5,6 +5,7 @@
 {c: } 
 
 <div class="alert alert-warning mb-1">Beats per chord: <b>3</b>
+Strumming: <b>Waltz</b>
 </div>
 
 Intro: [C] [G] [C] [C]
