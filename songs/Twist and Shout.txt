@@ -1,4 +1,4 @@
-{t:⭐Twist and Shout}
+{t:Twist and Shout}
 {artist:The Beatles}
 {level:Easy}
 {spotify:5ZBeML7Lf3FMEVviTyvi8l}

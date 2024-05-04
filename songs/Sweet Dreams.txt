@@ -1,9 +1,8 @@
-{t:⭐Sweet Dreams}
+{t:Sweet Dreams}
 {artist:Eurythmics}
 {level:Easy}
 {youtube:qeMFqkcPYcg}
 {spotify:6zIfdCmmhPCX0cMquBsC37}
-{new:}
 
 <i>(intro)</i>
 [Am] … [F//] [E7//] <b>x2</b>

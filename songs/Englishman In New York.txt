@@ -1,9 +1,8 @@
-{t:⭐Englishman In New York}
+{t:Englishman In New York}
 {artist:Sting}
 {level:Easy}
 {youtube:d27gTrPPAyk}
 {spotify:4KFM3A5QF2IMcc6nHsu3Wp}
-{new:}
 
 <i>(intro)</i>
 [Dm//]  [G//]  [Am] ...<b>x2</b>
