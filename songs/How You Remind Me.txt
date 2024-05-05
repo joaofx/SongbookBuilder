@@ -1,4 +1,4 @@
-{t:⭐How You Remind Me Bm}
+{t:⭐How You Remind Me}
 {artist:Nickelback}
 {level: Easy}
 
@@ -6,15 +6,15 @@
  - in few places line "how u remind me" is shorter and paused
 
 <i>Verse</i>
-[Bm] Never made it as a [E] wise man
+[Bm] Never made it as a [E7] wise man
 [A] I couldn't cut it as a [D] poor man stealin'
-[Bm] Tired livin' like a [E] blind man
+[Bm] Tired livin' like a [E7] blind man
 [A] I'm sick inside without a [D] sense of feelin'
  
 <i>Pre-Chorus</i>
 [Bm] And this is [D] how you rem[A]ind me [stop]
-[Bm] This is [E] how you rem[A]ind me of what [D] I really am
-[Bm] This is [E] how you rem[A]ind me of what [D] I really am
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
  
 <i>Chorus</i>
 [Bm] It's not like you [D] to say sorry
@@ -71,7 +71,7 @@
 [Bm] It's not like you [D] to say sorry
 [A] Always waitin' on a [E7] different story
 [Bm] This time I'm [D] mistaken
-[A] For handin' you a heart worth breaking
+[A] For handin' you a he[E7]art worth breaking
 [Bm//] And I've been wrong [D//] I've been down
 [A] To the bottom of [E7] every bottle
 [Bm] These five [D] words in my [A] head scream "Are we [E7] havin' fun yet?"
