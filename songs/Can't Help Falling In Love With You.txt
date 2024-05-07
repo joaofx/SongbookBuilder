@@ -4,6 +4,10 @@
 {level:Medium}  
 {c: } 
 
+<div class="alert alert-warning mb-1">Beats per chord: <b>3</b>
+Strumming: <b>Waltz</b>
+</div>
+
 Intro: [C] [G] [C] [C]
 
 [C] Wise [Em] men [Am] say [Am]
@@ -35,7 +39,7 @@ in [C] love [G7] with [C] you [C]
 take my [F] whole [C] life [G] too [G7]
 For [F] I [G] can't [Am] help [F] falling
 in [C] love [G7] with [C] you [C]
-For [F] I [G] can't [Am] help [F] falling
-in [C] love [G7] with [C] you [C]
+For [F/] I [G/] can't [Am/] help [F/] falling
+in [C/] love [G7/] with [C/] you [C/]
 
 [C/]

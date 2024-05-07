@@ -1,9 +1,8 @@
-{t:⭐Everywhere}
+{t:Everywhere}
 {artist:Fleetwood Mac }
 {level:Easy}
 {youtube:7jH05dt9R68}
 {spotify:1prZ0pr6XoRCxcrC3MCL0M}
-{new:}
 
 <i>(intro)</i>
 [F] … [C] …  [F] … [C] … 

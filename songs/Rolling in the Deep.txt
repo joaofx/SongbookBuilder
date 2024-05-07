@@ -6,13 +6,14 @@
 
 <div class="alert alert-warning mb-1">Beats per chord: <b>4</b>
 Strummings: <b>Down-Down, Down-Up, Chunk</b>
+[back]bold lyrics = second voice[/back]
 </div>
 
 Intro: 1 2 3 4
-
-<b>(Down-Down)</b>
+<i>(Down-Down)</i>
 [Am]... [Am]... 
 
+<i>Verse  (Down-Down)</i>
 [Am] There's a fire [Em7] starting in my heart,
 [G] Reaching a fever pitch and [Em7] it's bringing me out the dark
 [Am] Finally, I can [Em7] see you crystal clear.
@@ -29,13 +30,13 @@ They keep me [F] thinking that we almost had it [F] all
 The scars of your [G] love, they leave me [Em7] breathless
 I can't help [F] feeling.. We could have had it 
 
-<b>(Down-Up)</b>
+<i>Chorus  (Down-Up)</i>
 [Am] aaaa-aaa-[G]-all...
 Rolling in the [F] Deee-eee-[G]-eep
 Your had my heart [Am] insiiiide of your [G] hand
 And you [F] played it To the [G] beat
 
-<b>(Down-Down)</b>
+<i>Verse  (Down-Down)</i>
 [Am] Baby I have no [Em7] story to be told,
 But [G] I've heard one of you and [Em7] I'm gonna make your head burn.
 [Am] Think of me in the [Em7] depths of your despair.
@@ -46,43 +47,57 @@ They keep me [F] thinking that we almost had it [F] all
 The scars of your [G] love, they leave me [Em7] breathless
 I can't help [F] feeling... 
 
-<b>(Down-Up)</b>
+<i>Chorus  (Down-Up)</i>
 We could have had it [Am] aaaa-aaa-[G]-all...
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
 Rolling in the [F] Deee-eee-[G]-eep
-<span style="color:lightgrey">(tears are gonna fall)...(Rolling in the deep)</span>
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 Your had my heart [Am] insiiiide of your [G] hand
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
 And you [F] played it to the [G] beat
-<span style="color:lightgrey">(tears are gonna fall)...(Rolling in the deep)</span>
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 
 We could have had it [Am] aaaa-aaa-[G]-all...
+[back](you're gonna wish you)...(Never had met me)[/back]
 Rolling in the [F] Deee-eee-[G]-eep
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 Your had my heart [Am] insiiiide of your [G] hand
+[back](you're gonna wish you)...(Never had met me)[/back]
 And you [F] played it to the [G] beat
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 
-<b>(Chunk No Chords)</b>
+<i>(Chunk No Chords)</i>
 Throw your soul through every open door
 Count your blessings to find what you look for
 Turn my sorrow into treasured gold
 You pay me back in kind and reap just what you've sown
 
 [Am/]... [Em7/].. 
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
 We could've had it [G/] aaaaa-aaa-[Em7/]-all
-<span style="color:lightgrey">(tears are gonna fall)...(Rolling in the deep)</span>
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 We could've had it [Am/] all [Em7/] ...
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
 It [G/] all, it all, [Em7/] it all
-<span style="color:lightgrey">(tears are gonna fall)...(Rolling in the deep)</span>
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 
-<b>(Down-Up)</b>
+<i>Chorus  (Down-Up)</i>
 We could have had it [Am] aaaa-aaa-[G]-all...
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
 Rolling in the [F] Deee-eee-[G]-eep
-<span style="color:lightgrey">(tears are gonna fall)...(Rolling in the deep)</span>
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
 Your had my heart [Am] insiiiide of your [G] hand
-<span style="color:lightgrey">(you're gonna wish you)...(Never had met me)</span>
+[back](you're gonna wish you)...(Never had met me)[/back]
+And you [F] played it to the [G] beat
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
+
+<i>Outro  (Down-Up)</i>
+We could have had it [Am] aaaa-aaa-[G]-all...
+[back](you're gonna wish you)...(Never had met me)[/back]
+Rolling in the [F] Deee-eee-[G]-eep
+[back](tears are gonna fall)...(Rolling in the deep)[/back]
+Your had my heart [Am] insiiiide of your [G] hand
+[back](you're gonna wish you)...(Never had met me)[/back]
 And you [F] played it, you played it
 you [F] played it, you played it
 to the [Am/] beat
