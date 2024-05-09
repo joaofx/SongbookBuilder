@@ -4,8 +4,8 @@
 {spotify:3cfOd4CMv2snFaKAnMdnvK}
 
 <span class="fw-bold fs-5">
-4 beats per chord
-When (Verse Alternate):
+<b class="mark">2 beats per chord</b>
+</span><span class="fs-5">When (Verse Alternate):
 - 1st chord, 1 strum
 - 2nd chord, 2 strums
 - next chord, 1 strum
@@ -16,7 +16,7 @@ Example: (pam X pam pam X pam X pam pam)
 Intro:
 1... 2... 1, 2, 3
 
-<b>(Verse Alternating)</b>
+<b class="mark">(Verse Alternating)</b>
 Some[G]body once [D] told me the 
 [Am] world is gonna [C] roll me
 I [G] ain't the sharpest [D] tool in the 
@@ -41,9 +41,9 @@ get your [C#dim] game on, go [C] play
 [G] Hey now, you're a [C] rock star… get the 
 [C#dim] show on, get [C] paid
 And [G] all that [C] glitters is [C#dim] gold [C]
-Only shooting [G] stars [F] break the [C] mould
+Only shooting [G] stars [F] break the [C] mould [C]..
 
-<b>(Verse Alternating)</b>
+<b class="mark">(Verse Alternating)</b>
 It's a [G] cool place and they [D] say it gets colder,
 you're [Am] bundled up now, wait [C ]till you get older
 But the [G] meteor men beg to [D] differ, judging by the 
@@ -59,9 +59,9 @@ get your [C#dim] game on, go [C] play
 [G] Hey now, you're a [C] rock star… get the 
 [C#dim] show on, get [C] paid
 And [G] all that [C] glitters is [C#dim] gold [C]
-Only shooting [G] stars [F] break the [C] mould
+Only shooting [G] stars [F] break the [C] mould [C]..
 
-<b>(Verse Alternating)</b>
+<b class="mark">(Verse Alternating)</b>
 <b>Whistling</b>
 [G] [C] [C#dim] [C]
 [G] [C] [C#dim] [C]
@@ -76,7 +76,7 @@ get your [C#dim] game on, go [C] play
 And [G] all that [C] glitters is [C#dim] gold [C]
 Only shooting [G] stars... [F]...
 
-<b>(Verse Alternating)</b>
+<b class="mark">(Verse Alternating)</b>
 Some[G]body once [D] asked could I 
 [Am] spare some change for [C] gas
 I need to [G] get myself a[D]way from 
