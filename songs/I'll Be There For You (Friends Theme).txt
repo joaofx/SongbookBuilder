@@ -1,11 +1,15 @@
 {t:I'll Be There For You (Friends Theme)}
 {artist:The Rembrandts}
-{level:Hard}
+{level:Medium}
 {spotify:15tHagkk8z306XkyOHqiip}
 
-Ps: 
-- An easy way to make [C#m] is putting the whole finger on 4th fret
-- The bridge is different than the original
+RIFF 1
+<pre>
+A|-4-4~2--------2----|
+E|------5-3-3-5---5--|
+C|-------------------|
+G|-------------------|
+</pre>
 
 Intro:
 [A/] ... [A/] ... [A/] ... [A/] ...

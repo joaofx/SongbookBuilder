@@ -140,6 +140,7 @@ public class Song
                     .Replace("<grey>", "<span class='text-muted'>")
                     .Replace("</grey>", "</span>")
                     .Replace("[stop]", "<strong>[stop]</strong>")
+                    .Replace("[muted]", "<strong>[muted]</strong>")
                     .Replace("[riff]", "<span class='text-muted'><strong>(riff)</strong></span>")
                     .Replace("[back]", "<b><i>")
                     .Replace("[/back]", "</b></i>");
@@ -177,6 +178,7 @@ public class Song
             .Where(m => !m.ToLower().Equals("riff"))
             .Where(m => !m.ToLower().Equals("back"))
             .Where(m => !m.ToLower().Equals("-back"))
+            .Where(m => !m.ToLower().Equals("muted"))
             .ToList();
 
         foreach (var chord in chords)

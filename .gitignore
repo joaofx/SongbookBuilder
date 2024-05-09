@@ -3,6 +3,7 @@
 
 src/Config
 export*/
+.DS_Store
 
 # User-specific files
 *.suo
