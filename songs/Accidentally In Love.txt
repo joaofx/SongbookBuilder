@@ -1,4 +1,4 @@
-{t:⭐Accidentally in Love}
+{t:Accidentally in Love}
 {artist:Counting Crows}
 {level:Medium}
 {youtube:GEo7W-uJNkc}

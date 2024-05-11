@@ -1,4 +1,4 @@
-{t:⭐You Will Never Know}
+{t:You Will Never Know}
 {artist:Imany}
 {level:Easy}
 {spotify:4sZkRuS2CcfDPEjrNSyHsE}

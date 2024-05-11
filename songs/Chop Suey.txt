@@ -1,4 +1,4 @@
-{t:⭐Chop Suey}
+{t:Chop Suey}
 {artist:System of a Down}
 {level:Hard}
 {youtube:CSvFpBOe8eY}

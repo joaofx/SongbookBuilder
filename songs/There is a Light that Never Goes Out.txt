@@ -1,10 +1,11 @@
 {t:⭐There is a Light that Never Goes Out}  
 {artist:The Smiths}  
 {level:Hard}
+{spotify:0WQiDwKJclirSYG9v5tayI}
 
 <span class="fw-bold fs-5">
 <mark>2 beats per chord</mark>
-</pre> 
+</span> 
 
 Intro:
 [Dm] [C]  [Dm] [C]

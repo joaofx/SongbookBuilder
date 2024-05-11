@@ -1,7 +1,7 @@
 {t:⭐Can’t Get You Out of My Head}  
 {artist:Kylie Minogue}  
 {level:Medium}
-{spotify:3ZOEytgrvLwQaqXreDs2Jx}
+{spotify:3E7ZwUMJFqpsDOJzEkBrQ7}
 
 <span class="fw-bold fs-5">
 8 beats per chord

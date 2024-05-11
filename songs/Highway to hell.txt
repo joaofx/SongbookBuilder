@@ -1,4 +1,4 @@
-{t:⭐Highway To Hell}
+{t:Highway To Hell}
 {artist:AC/DC}
 {level:Medium}
 {spotify:2zYzyRzz6pRmhPzyfMEC8s}

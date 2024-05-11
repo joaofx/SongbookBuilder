@@ -39,7 +39,7 @@ For example, if the root of this project in your local machine is `C:\Ukulele\So
 dotnet run serve C:\Ukulele\SongbookBuilder
 ```
 <!-- dotnet run serve D:\Ukulele\SongbookBuilder\ -->
-<!-- dotnet run serve ~/projects/SongbookBuilder -->
+<!-- dotnet run serve /Users/joao/projects/SongbookBuilder --project src/SongbookBuilder -->
 
 ### Exporting
 
