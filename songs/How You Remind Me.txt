@@ -1,0 +1,93 @@
+{t:⭐How You Remind Me}
+{artist:Nickelback}
+{level: Easy}
+
+<div class="alert alert-warning mb-1">Beats per chord: <b>4</b>
+Strummings: <b>Down-Down, Metal strum</b>
+</div>
+* Info
+ - in few places line "how u remind me" is shorter and paused
+
+[Bm] ... [E7] ... [A] ... [D] ...
+
+<i>Verse (Down-Down)</i>
+[Bm] Never made it as a [E7] wise man
+[A] I couldn't cut it as a [D] poor man stealin'
+[Bm] Tired livin' like a [E7] blind man
+[A] I'm sick inside without a [D] sense of feelin'
+ 
+<i>Pre-Chorus (Down-Down)</i>
+[Bm] And this is [D] how you rem[A]ind me [stop]
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+ 
+<i>Chorus (Metal strum)</i>
+[Bm] It's not like you [D] to say sorry
+[A] Always waitin' on a [E7] different story
+[Bm] This time I'm [D] mistaken
+[A] For handin' you a he[E7]art worth breaking
+[Bm//] And I've been wrong [D//] I've been down
+[A] To the bottom of [E7] every bottle
+[Bm] These five [D] words in my [A] head scream "Are we [E7]havin' fun yet?"
+ 
+<i>Bridge</i>
+[Bm] Yet, [E7] yet, [A] yet
+[D] No, no
+[Bm] Yet, [E7] yet, [A] yet
+[D] No, no
+ 
+<i>Verse (Down-Down)</i>
+[Bm] It's not like you didn't [E7] know that
+[A] I said I love you and I [D] swear I still do
+[Bm] And it must have been [E7] so bad
+[A] Cause livin with me must have [D] damn near killed you
+ 
+<i>Pre-Chorus</i>
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+ 
+<i>Chorus (Metal strum)</i>
+[Bm] It's not like you [D] to say sorry
+[A] Always waitin' on a [E7] different story
+[Bm] This time I'm [D] mistaken
+[A] For handin' you a he[E7]art worth breaking
+[Bm//] And I've been wrong [D//] I've been down
+[A] To the bottom of [E7] every bottle
+[Bm] These five [D] words in my [A]head scream "Are we [E7]havin' fun yet?"
+ 
+<i>Bridge</i>
+[Bm] Yet, [E7] yet,[A] yet
+[D] No, no
+[Bm] Yet, [E7] yet,[A] yet
+[D] No, no
+ 
+<i>Interlude</i>
+[Bm] ... [E7] ... [A] ... [D] <b>x2</b>
+ 
+<i>Verse  (Down-Down)</i>
+[Bm/] Never made it as a [E7/] wise man
+[A/] I couldn't cut it as a [D/] poor man stealin'
+[Bm/] And this is [D/] how you rem[A/]ind me [stop]
+[Bm/] And this is [D/] how you rem[A/]ind me [stop]
+<i>(Down-Down)</i>
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+[Bm] This is [E7] how you rem[A]ind me of what [D] I really am
+ 
+<i>Chorus (Metal strum)</i>
+[Bm] It's not like you [D] to say sorry
+[A] Always waitin' on a [E7] different story
+[Bm] This time I'm [D] mistaken
+[A/][stop] For handin' you a heart worth breaking
+[Bm//] And I've been wrong [D//] I've been down
+[A] To the bottom of [E7] every bottle
+[Bm] These five [D] words in my [A] head scream "Are we [E7] havin' fun yet?"
+ 
+<i>Outro</i>
+[Bm] Yet, [D] yet, [A] yet
+[E7] No, no
+[Bm] Yet, [D] yet, [A] yet
+[E7] No, no
+[Bm] Yet, [D] yet, [A] yet
+[E7] No, no
+[Bm] Yet, [D] yet, [A] yet... [E7/]No, no
+[Bm/]
