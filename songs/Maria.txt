@@ -1,4 +1,4 @@
-{t:⭐Maria}
+{t:🔥Maria}
 {artist:Blondie}
 {level: Easy}
  

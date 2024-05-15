@@ -1,9 +1,9 @@
-{t:⭐Summer Nights}  
+{t:🔥Summer Nights}  
 {artist:John Travolta & Olivia Newton-John}  
 {spotify:2AVkArcfALVk2X8sfPRzya}  
 {level:Hard}
 
-<div class="alert alert-warning mb-1">Beats per chord: <b>2</b>
+<div class="mark">Beats per chord: <b>2</b>
 Strummings: <b>Down-Down</b>
 </div>
 

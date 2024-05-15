@@ -1,11 +1,10 @@
-{t:⭐All Star (Shrek)}  
+{t:🔥All Star (Shrek)}  
 {artist:Smash Mouth}  
-{level:Medium}
+{level:Hard}
 {spotify:3cfOd4CMv2snFaKAnMdnvK}
 
-<span class="fw-bold fs-5">
-<b class="mark">2 beats per chord</b>
-</span><span class="fs-5">When (Verse Alternate):
+<span class="mark fw-bold">2 beats per chord</b>
+When (Verse Alternate):
 - 1st chord, 1 strum
 - 2nd chord, 2 strums
 - next chord, 1 strum

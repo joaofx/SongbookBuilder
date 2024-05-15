@@ -1,10 +1,9 @@
-{t:⭐Blinding Lights}  
+{t:🔥Blinding Lights}  
 {artist:The Weeknd}  
-{level:Easy}
+{level:Medium}
 {spotify:0VjIjW4GlUZAMYd2vXMi3b}
 
-<span class="fw-bold fs-5">
-4 beats per chord
+<span class="mark fw-bold">4 beats per chord
 </span>
 
 RIFF 1

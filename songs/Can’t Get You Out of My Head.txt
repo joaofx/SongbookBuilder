@@ -1,4 +1,4 @@
-{t:⭐Can’t Get You Out of My Head}  
+{t:🔥Can’t Get You Out of My Head}  
 {artist:Kylie Minogue}  
 {level:Medium}
 {spotify:3E7ZwUMJFqpsDOJzEkBrQ7}
@@ -10,6 +10,7 @@
 
 Intro:
 
+[Dm] [Am]
 [Dm] La la la, la la la-la la 
 [Am] la la la, la la la-la la
 [Dm] La la la, la la la-la la 
@@ -50,6 +51,8 @@ Feel the [Dm] nee-eed in [Am9] me
 Set me [Dm] free-ee-[Am9]-ee-ee
 Lay for [Bbmaj7//] ever, and ever, and [Bbmaj7//] ever, and ever
 
+[Dm] La la la, la la la-la la [Am] la la la, la la la-la la
+[Dm] La la la, la la la-la la [Am] la la la, la la la-la la
 [Dm] La la la, la la la-la la [Am] la la la, la la la-la la
 [Dm] La la la, la la la-la la [Am] la la la, la la la-la la
 [Dm/]

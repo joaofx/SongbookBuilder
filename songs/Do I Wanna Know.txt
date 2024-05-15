@@ -1,4 +1,4 @@
-{t:⭐Do I Wanna Know}
+{t:🔥Do I Wanna Know}
 {artist:Arctic Monkeys}
 {level:Medium}
 

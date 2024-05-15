@@ -1,6 +1,6 @@
-{t:⭐Snow (Hey Oh)}  
+{t:🔥Snow (Hey Oh)}  
 {artist:Red Hot Chili Peppers}  
-{level:Easy}
+{level:Medium}
 {spotify:2aibwv5hGXSgw7Yru8IYTO}
 
 <span class="fw-bold fs-5">

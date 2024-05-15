@@ -1,4 +1,4 @@
-{t:⭐Can't Stop}  
+{t:🔥Can't Stop}  
 {artist:Red Hot Chili Peppers}  
 {level:Medium}
 {spotify:3ZOEytgrvLwQaqXreDs2Jx}

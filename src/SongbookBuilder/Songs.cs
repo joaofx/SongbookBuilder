@@ -103,6 +103,7 @@ public class Songs
             .Replace("⭐", string.Empty)
             .Replace("🎅", string.Empty)
             .Replace("🎂", string.Empty)
+            .Replace("🔥", string.Empty)
             .Replace("-", " ");
     }
 
