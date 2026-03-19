@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Scriban" Version="5.4.0" />
+      <PackageReference Include="Scriban" Version="6.6.0" />
       <PackageReference Include="Spectre.Console" Version="0.43.1-preview.0.24" />
     </ItemGroup>
 
